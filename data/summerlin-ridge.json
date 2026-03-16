@@ -15,12 +15,39 @@
               "heading": "Association Insurance Policies",
               "text": "The Association maintains broad coverage for Common Elements, Limited Common Elements, and shared liabilities. Premiums are treated as a Common Expense shared by all Unit Owners.",
               "cards": [
-                { "label": "Property Insurance", "text": "All-risk coverage for Common and Limited Common Elements — shared walls, roofs, exteriors, fixtures, and equipment that are part of the building structure." },
-                { "label": "General Liability", "text": "Minimum $1,000,000 per occurrence for bodily injury, property damage, and personal injury from Association operations or Common Elements." },
-                { "label": "Fidelity Insurance", "text": "Protects against dishonest acts by Board members, officers, or managers — covers reserve funds and operating accounts." },
-                { "label": "D&O Insurance", "text": "Covers directors and officers for claims arising from managing the Association." },
-                { "label": "Additional Coverage", "text": "Flood, earthquake, or other policies as the Board deems necessary based on the property's risk profile." }
-              ]
+                {
+                  "label": "Property Insurance",
+                  "text": "All-risk coverage for Common and Limited Common Elements — shared walls, roofs, exteriors, fixtures, and equipment that are part of the building structure."
+                },
+                {
+                  "label": "General Liability",
+                  "text": "Minimum $1,000,000 per occurrence for bodily injury, property damage, and personal injury from Association operations or Common Elements."
+                },
+                {
+                  "label": "Fidelity Insurance",
+                  "text": "Protects against dishonest acts by Board members, officers, or managers — covers reserve funds and operating accounts."
+                },
+                {
+                  "label": "D&O Insurance",
+                  "text": "Covers directors and officers for claims arising from managing the Association."
+                },
+                {
+                  "label": "Additional Coverage",
+                  "text": "Flood, earthquake, or other policies as the Board deems necessary based on the property's risk profile."
+                }
+              ],
+              "sourceText": {
+                "label": "View exact policy language",
+                "heading": "Declaration — Association Insurance Requirements",
+                "passages": [
+                  "Property Insurance: Covers Common Elements and Limited Common Elements against all risks of direct physical loss (“all-risk” coverage), excluding land, foundations, excavations. Coverage extends to fixtures, equipment, and improvements within Units to the extent they are part of the building structure.",
+                  "Liability Insurance: Comprehensive general liability coverage with a minimum limit of $1,000,000 per occurrence for bodily injury, property damage, and personal injury. Includes coverage for contractual liabilities and non-owned automobile liability.",
+                  "Fidelity Insurance: Protects against losses from dishonest acts by Board members, officers, or managing agents handling Association funds, with coverage limits sufficient to cover reserve funds and operating accounts.",
+                  "Directors and Officers (D&O) Liability Insurance: Covers directors and officers for claims arising from their actions in managing the Association, with limits determined by the Board.",
+                  "Additional Coverage: As deemed necessary by the Board, such as flood or earthquake insurance."
+                ],
+                "ref": "Summerlin Ridge Declaration — Section 1.1"
+              }
             },
             {
               "heading": "Policy Standards",
@@ -28,7 +55,18 @@
                 "Policies must be written by insurers licensed in Washington State with an A.M. Best rating of A- or better.",
                 "The Association is the named insured, with Unit Owners and mortgagees as additional insureds.",
                 "All policies must include waivers of subrogation to prevent claims against Unit Owners or the Association for covered losses."
-              ]
+              ],
+              "sourceText": {
+                "label": "View policy standards",
+                "heading": "Declaration — Policy Standards",
+                "passages": [
+                  "Policies must be written with insurers licensed in Washington State, with an A.M. Best rating of A- or better.",
+                  "Coverage must name the Association as the insured, with Unit Owners and mortgagees as additional insureds where applicable.",
+                  "Premiums are treated as a Common Expense, allocated among Unit Owners per the Declaration.",
+                  "Policies must include waivers of subrogation to prevent insurers from pursuing claims against Unit Owners or the Association for covered losses."
+                ],
+                "ref": "Summerlin Ridge Declaration — Section 1.2"
+              }
             }
           ]
         },
@@ -39,13 +77,36 @@
               "heading": "Your Insurance Obligations",
               "text": "You need personal insurance for everything the Association's policy doesn't cover — your unit interior, personal property, and personal liability. Coordinate with the Association to avoid coverage gaps.",
               "cards": [
-                { "label": "HO-6 Policy", "text": "Covers interior walls, fixtures, personal property, improvements, loss of use, and any deductible under the Association's property insurance." },
-                { "label": "Personal Liability", "text": "Minimum $300,000 per occurrence for bodily injury or property damage caused by you." },
-                { "label": "Loss Assessment", "text": "Recommended minimum $50,000 — covers assessments levied for uninsured losses or high deductibles on Association policies." }
-              ]
+                {
+                  "label": "HO-6 Policy",
+                  "text": "Covers interior walls, fixtures, personal property, improvements, loss of use, and any deductible under the Association's property insurance."
+                },
+                {
+                  "label": "Personal Liability",
+                  "text": "Minimum $300,000 per occurrence for bodily injury or property damage caused by you."
+                },
+                {
+                  "label": "Loss Assessment",
+                  "text": "Recommended minimum $50,000 — covers assessments levied for uninsured losses or high deductibles on Association policies."
+                }
+              ],
+              "sourceText": {
+                "label": "View exact owner requirements",
+                "heading": "Declaration — Unit Owner Insurance",
+                "passages": [
+                  "Homeowners Insurance (HO-6): Covers interior portions of the unit (personal property, interior walls, fixtures not covered by the Association’s policy), improvements and betterments, and loss of use. Must include coverage for any deductible under the Association’s property insurance.",
+                  "Personal Liability Insurance: Protects against claims for bodily injury or property damage caused by the Unit Owner, typically with a minimum limit of $300,000 per occurrence.",
+                  "Loss Assessment Coverage: Covers assessments levied by the Association for uninsured losses or high deductibles on Association policies, recommended at a minimum of $50,000.",
+                  "Unit Owners should coordinate with the Association to ensure their policies complement the Association’s coverage, avoiding gaps. Proof of insurance may be required by the Board to verify compliance."
+                ],
+                "ref": "Summerlin Ridge Declaration — Section 2.1–2.2"
+              }
             },
             {
-              "pullQuote": { "text": "If the Association's deductible is $10,000, your HO-6 policy should cover this amount. You are responsible for deductibles when the loss originates from your unit.", "caption": "Deductible pass-through" }
+              "pullQuote": {
+                "text": "If the Association's deductible is $10,000, your HO-6 policy should cover this amount. You are responsible for deductibles when the loss originates from your unit.",
+                "caption": "Deductible pass-through"
+              }
             },
             {
               "action": {
@@ -60,7 +121,11 @@
                 ]
               },
               "crossLinks": [
-                { "docId": "maintenance", "section": "Emergencies", "label": "Emergency repair procedures" }
+                {
+                  "docId": "maintenance",
+                  "section": "Emergencies",
+                  "label": "Emergency repair procedures"
+                }
               ]
             }
           ]
@@ -75,7 +140,18 @@
                 "Both Association and Owner policies must waive subrogation rights.",
                 "Policies must comply with mortgage lender requirements, naming mortgagees as additional insureds or loss payees.",
                 "The Board reviews insurance coverage annually for adequacy and compliance."
-              ]
+              ],
+              "sourceText": {
+                "label": "View exact provisions",
+                "heading": "Declaration — Special Conditions",
+                "passages": [
+                  "Deductibles: The Association’s policies may have deductibles, which can be passed to Unit Owners if the loss originates from their unit. Unit Owners’ policies should cover these deductibles.",
+                  "Claims Process: The Association handles claims for Common Elements, while Unit Owners file claims for unit-specific losses. The Board may require Unit Owners to submit claims through the Association’s policy first if the loss involves both Common and unit elements.",
+                  "Subrogation: Both Association and Unit Owner policies must waive subrogation rights to prevent insurers from pursuing claims against each other or other Unit Owners.",
+                  "Mortgagee Requirements: Policies must comply with mortgage lender requirements, such as naming mortgagees as additional insureds or loss payees."
+                ],
+                "ref": "Summerlin Ridge Declaration — Section 3"
+              }
             }
           ]
         },
@@ -91,7 +167,18 @@
                 "The Association may force-place insurance at the owner's expense.",
                 "Unpaid insurance costs may result in a lien on the unit.",
                 "The Association maintains records of its policies, available for Owner inspection."
-              ]
+              ],
+              "sourceText": {
+                "label": "View enforcement language",
+                "heading": "Declaration — Compliance & Enforcement",
+                "passages": [
+                  "The Board must maintain continuous coverage, adjusting policies as needed to reflect changes in property values, risks, or legal requirements.",
+                  "Unit Owners must provide proof of insurance upon request and maintain policies to avoid personal liability for uncovered losses or assessments.",
+                  "Non-compliance by Unit Owners (e.g., failure to maintain required insurance) may result in fines, forced placement of insurance by the Association at the owner’s expense, or liens on the unit for unpaid costs.",
+                  "The Association maintains records of its insurance policies, available for Unit Owner inspection."
+                ],
+                "ref": "Summerlin Ridge Declaration — Section 4"
+              }
             }
           ]
         },
@@ -108,8 +195,16 @@
                 "Both Association and Owner policies must waive subrogation — coordinate coverage to avoid gaps."
               ],
               "crossLinks": [
-                { "docId": "maintenance", "section": "Unit Owner", "label": "Your maintenance obligations" },
-                { "docId": "acc", "section": "Requirements", "label": "Modifications requiring approval" }
+                {
+                  "docId": "maintenance",
+                  "section": "Unit Owner",
+                  "label": "Your maintenance obligations"
+                },
+                {
+                  "docId": "acc",
+                  "section": "Requirements",
+                  "label": "Modifications requiring approval"
+                }
               ]
             }
           ]
@@ -135,7 +230,20 @@
                 "Exterior elements within unit boundaries — windows, doors, and attached fixtures (must meet ACC standards).",
                 "Utility systems exclusively serving your unit — plumbing, electrical, including repairs to prevent damage to others.",
                 "Prompt repairs — address issues immediately to prevent damage to neighboring units or Common Elements."
-              ]
+              ],
+              "sourceText": {
+                "label": "View exact responsibilities from governing documents",
+                "heading": "Declaration — Unit Owner Responsibilities",
+                "passages": [
+                  "Unit Interiors: Owners maintain, repair, and replace all interior components, including walls, ceilings, floors, fixtures, appliances, and personal property not covered by the Association’s insurance.",
+                  "Limited Common Elements Assigned to Units: Owners are responsible for maintaining Limited Common Elements (e.g., patios, balconies, or assigned parking spaces) unless otherwise specified in the Declaration.",
+                  "Exterior Elements Within Unit Boundaries: Owners maintain windows, doors, and any exterior fixtures attached to their unit, ensuring compliance with ACC standards.",
+                  "Utilities Serving Individual Units: Owners maintain utility systems exclusively serving their unit, including any repairs to prevent damage to other units or Common Elements.",
+                  "Compliance with ACC: Any exterior maintenance or repairs require ACC approval to ensure aesthetic consistency.",
+                  "Prompt Repairs: Owners must promptly address maintenance issues to prevent damage to neighboring units or Common Elements."
+                ],
+                "ref": "Summerlin Ridge Declaration — Unit Owner Maintenance"
+              }
             },
             {
               "action": {
@@ -149,8 +257,16 @@
                 ]
               },
               "crossLinks": [
-                { "docId": "insurance", "section": "Unit Owner", "label": "Filing an insurance claim" },
-                { "docId": "acc", "section": "Requirements", "label": "Do I need ACC approval?" }
+                {
+                  "docId": "insurance",
+                  "section": "Unit Owner",
+                  "label": "Filing an insurance claim"
+                },
+                {
+                  "docId": "acc",
+                  "section": "Requirements",
+                  "label": "Do I need ACC approval?"
+                }
               ]
             }
           ]
@@ -162,13 +278,44 @@
               "heading": "What the Association Maintains",
               "text": "The Association handles all Common Elements and shared building components to ensure uniformity and compliance.",
               "cards": [
-                { "label": "Structural", "text": "Shared structural components — roofs, exterior walls, and building systems." },
-                { "label": "Limited Common (Shared)", "text": "Hallways, exterior lighting, and other Limited Common Elements not assigned to specific units." },
-                { "label": "Exterior Buildings", "text": "Siding, roofing, painting — all exterior maintenance to ensure uniformity per ACC guidelines." },
-                { "label": "Common Utilities", "text": "Water mains, electrical systems, and other utilities serving Common Areas." },
-                { "label": "Landscaping", "text": "Street trees, common area lawns, and irrigation systems." },
-                { "label": "Insurance Repairs", "text": "Coordination of repairs covered by the Association's property insurance." }
-              ]
+                {
+                  "label": "Structural",
+                  "text": "Shared structural components — roofs, exterior walls, and building systems."
+                },
+                {
+                  "label": "Limited Common (Shared)",
+                  "text": "Hallways, exterior lighting, and other Limited Common Elements not assigned to specific units."
+                },
+                {
+                  "label": "Exterior Buildings",
+                  "text": "Siding, roofing, painting — all exterior maintenance to ensure uniformity per ACC guidelines."
+                },
+                {
+                  "label": "Common Utilities",
+                  "text": "Water mains, electrical systems, and other utilities serving Common Areas."
+                },
+                {
+                  "label": "Landscaping",
+                  "text": "Street trees, common area lawns, and irrigation systems."
+                },
+                {
+                  "label": "Insurance Repairs",
+                  "text": "Coordination of repairs covered by the Association's property insurance."
+                }
+              ],
+              "sourceText": {
+                "label": "View exact Association responsibilities",
+                "heading": "Declaration — Association Responsibilities",
+                "passages": [
+                  "Common Elements: The Association maintains, repairs, and replaces all Common Elements, including shared structural components (roofs, exterior walls), landscaping, roads, and amenities.",
+                  "Limited Common Elements (Shared): The Association maintains Limited Common Elements not assigned to specific units, such as shared hallways or exterior lighting.",
+                  "Exterior Building Maintenance: The Association handles exterior maintenance of buildings (siding, roofing, painting) to ensure uniformity, subject to ACC guidelines.",
+                  "Utilities Serving Common Areas: The Association maintains utility systems serving Common Elements.",
+                  "Landscaping and Grounds: The Association oversees landscaping, including street trees, common area lawns, and irrigation systems.",
+                  "Insurance-Related Repairs: The Association coordinates repairs for damages covered by its property insurance, subject to deductibles that may be assessed to responsible Unit Owners."
+                ],
+                "ref": "Summerlin Ridge Declaration — Association Maintenance"
+              }
             }
           ]
         },
@@ -178,7 +325,21 @@
             {
               "heading": "Emergency Repairs",
               "text": "The Association can act immediately to prevent further damage — entering units without prior notice when necessary.",
-              "pullQuote": { "text": "The Association may undertake immediate repairs to Common Elements or units to prevent further damage without prior notice. Costs are charged to the responsible Unit Owner if applicable.", "caption": "Emergency access authority" }
+              "pullQuote": {
+                "text": "The Association may undertake immediate repairs to Common Elements or units to prevent further damage without prior notice. Costs are charged to the responsible Unit Owner if applicable.",
+                "caption": "Emergency access authority"
+              },
+              "sourceText": {
+                "label": "View exact emergency provisions",
+                "heading": "Declaration — Emergency Repairs",
+                "passages": [
+                  "Association-Led Emergencies: The Association may undertake immediate repairs to Common Elements or units to prevent further damage (e.g., water leaks affecting multiple units) without prior notice, with costs charged to the responsible Unit Owner if applicable.",
+                  "Unit Owner Emergencies: Owners must address urgent issues within their units (e.g., burst pipes) immediately and notify the Association if the issue impacts Common Elements or other units.",
+                  "Access for Repairs: The Association has the right to enter units for emergency repairs affecting Common Elements or other units, with reasonable notice unless immediate action is required.",
+                  "Cost Allocation: Emergency repair costs caused by a Unit Owner’s negligence are charged to that owner, recoverable through assessments or liens if unpaid."
+                ],
+                "ref": "Summerlin Ridge Declaration — Emergency Repairs"
+              }
             },
             {
               "items": [
@@ -202,7 +363,11 @@
                 "Costs for repairs due to Owner negligence may be assessed as a special charge to that Owner."
               ],
               "crossLinks": [
-                { "docId": "insurance", "section": "Provisions", "label": "Insurance deductible pass-through" }
+                {
+                  "docId": "insurance",
+                  "section": "Provisions",
+                  "label": "Insurance deductible pass-through"
+                }
               ]
             }
           ]
@@ -220,7 +385,23 @@
                 "Unpaid costs or fines result in a lien on your unit, updated every 6 months until paid.",
                 "Persistent non-compliance may lead to small claims court or wage garnishment."
               ],
-              "pullQuote": { "text": "$50 fine after 10-day grace period, plus $50 every 10 days. After 30 days, the Association fixes it at your expense. Unpaid amounts become a lien.", "caption": "Enforcement escalation" }
+              "pullQuote": {
+                "text": "$50 fine after 10-day grace period, plus $50 every 10 days. After 30 days, the Association fixes it at your expense. Unpaid amounts become a lien.",
+                "caption": "Enforcement escalation"
+              },
+              "sourceText": {
+                "label": "View exact enforcement language",
+                "heading": "Declaration & CC&Rs — Consequences",
+                "passages": [
+                  "Notice of Violation: Unit Owners neglecting maintenance receive written notice with a minimum 10-day period to correct the issue.",
+                  "Fines: A $50 fine is imposed after the 10-day grace period, with additional $50 fines every 10 days until compliance.",
+                  "Corrective Action: If unresolved after 30 days, the Association may hire contractors to perform repairs at the owner’s expense, billed as a special assessment.",
+                  "Liens: Unpaid maintenance costs or fines may result in a lien on the unit, updated every 6 months until paid.",
+                  "Legal Action: Persistent non-compliance may lead to small claims court or wage garnishment for unpaid amounts.",
+                  "Damage Liability: Owners are liable for damages to Common Elements or other units caused by their failure to maintain their unit, recoverable through assessments or legal action."
+                ],
+                "ref": "Summerlin Ridge Declaration — Consequences for Neglecting Maintenance"
+              }
             }
           ]
         },
@@ -237,8 +418,16 @@
                 "Unpaid maintenance costs become a lien on your unit — updated every 6 months until paid."
               ],
               "crossLinks": [
-                { "docId": "insurance", "section": "Unit Owner", "label": "Your HO-6 coverage" },
-                { "docId": "acc", "section": "Guidelines", "label": "Exterior maintenance standards" }
+                {
+                  "docId": "insurance",
+                  "section": "Unit Owner",
+                  "label": "Your HO-6 coverage"
+                },
+                {
+                  "docId": "acc",
+                  "section": "Guidelines",
+                  "label": "Exterior maintenance standards"
+                }
               ]
             }
           ]
@@ -267,7 +456,22 @@
                 "Antenna or satellite dishes (except dishes 24 inches or less, subject to Board rules).",
                 "Fences — particularly those over 3 feet or between the house and roadway.",
                 "Excavations — any dirt movement unless necessary for approved improvements."
-              ]
+              ],
+              "sourceText": {
+                "label": "View full list from CC&Rs",
+                "heading": "Declaration — Section 8, Types of Changes",
+                "passages": [
+                  "Construction and Structures: Any new buildings, structures (e.g., fences, walls, swimming pools), or additions on a Unit.",
+                  "Exterior Alterations or Repairs: Includes re-roofing, repainting, or changes to siding, visible from public streets, Common Areas, or other Units.",
+                  "Landscaping: Front yard landscaping, including street tree planting, and any tree, hedge, or shrub removal/trimming that affects views or sunlight access.",
+                  "Recreational Facilities: Significant facilities like swimming pools or tennis courts.",
+                  "Mailboxes: Size, color, style, and location of mailboxes and their supports.",
+                  "Antenna/Satellite Dishes: Exterior antennas or satellite dishes (except dishes 24 inches or less in diameter, subject to Board rules).",
+                  "Fences: Any fence, particularly those exceeding 3 feet in height or located between the house and roadway.",
+                  "Excavations: Any excavation or dirt movement, unless necessary for approved improvements."
+                ],
+                "ref": "Summerlin Ridge Declaration, Section 8 — ACC Requirements"
+              }
             }
           ]
         },
@@ -287,7 +491,22 @@
                   "<strong>Complete exterior appearance within 12 months</strong> — painting, landscaping, and exterior finish must be done within 12 months of construction start."
                 ]
               },
-              "pullQuote": { "text": "If the ACC does not respond within 15 days, the submission is deemed approved.", "caption": "Auto-approval provision" }
+              "pullQuote": {
+                "text": "If the ACC does not respond within 15 days, the submission is deemed approved.",
+                "caption": "Auto-approval provision"
+              },
+              "sourceText": {
+                "label": "View exact process from CC&Rs",
+                "heading": "Declaration — ACC Approval Process",
+                "passages": [
+                  "Submission: Submit duplicate plans and specifications to the ACC at least 15 days before proposed construction or alteration, including details on location, materials, colors, and design.",
+                  "Review: The ACC reviews submissions within 5 days for quality, conformity with existing structures, and compliance with topography and setback restrictions. Approval requires written consent.",
+                  "Decision Timeline: If the ACC does not respond within 15 days, the submission is deemed approved.",
+                  "Professional Input: The ACC may require plans to be prepared by an approved architect or designer and constructed by an approved contractor.",
+                  "Declarant Control: During the period of Declarant Control, the Declarant may act as the ACC or appoint its members, retaining full authority over approvals."
+                ],
+                "ref": "Summerlin Ridge Declaration — ACC Approval Process"
+              }
             }
           ]
         },
@@ -302,7 +521,22 @@
                 "Siding must be horizontal lap or vertical channel; brick, stucco, or vinyl allowed at ACC discretion. T-111 is prohibited.",
                 "Exterior colors require ACC approval.",
                 "Driveways must be concrete, asphalt, or ACC-approved materials."
-              ]
+              ],
+              "sourceText": {
+                "label": "View full design standards from CC&Rs",
+                "heading": "Declaration — Restrictions & Guidelines",
+                "passages": [
+                  "Zoning and Regulations: All improvements must comply with applicable zoning, building, and environmental regulations. More restrictive provisions apply in case of conflicts.",
+                  "Building Setbacks: Must adhere to governmental setback requirements.",
+                  "Driveways: Must be constructed of concrete, asphalt, or ACC-approved materials.",
+                  "Roofing: Must use 20-year composition roofing material in a consistent color.",
+                  "Exterior Colors and Siding: Colors require ACC approval; siding must be horizontal lap or vertical channel, with brick, stucco, or vinyl allowed at ACC discretion. T-111 or similar siding is prohibited.",
+                  "Front Yard Landscaping: Must include at least one street tree matching existing species and caliber.",
+                  "Construction Timeline: External appearance, including painting and landscaping, must be completed within 12 months of construction start.",
+                  "Visual and Noise Impact: The ACC considers the suitability of materials, harmony with surroundings, and impact on views or noise for nearby properties."
+                ],
+                "ref": "Summerlin Ridge Declaration — ACC Guidelines"
+              }
             },
             {
               "heading": "Fences & Landscaping",
@@ -313,7 +547,11 @@
                 "The ACC considers impact on views, sunlight, and noise for nearby properties."
               ],
               "crossLinks": [
-                { "docId": "maintenance", "section": "Unit Owner", "label": "Owner maintenance obligations" }
+                {
+                  "docId": "maintenance",
+                  "section": "Unit Owner",
+                  "label": "Owner maintenance obligations"
+                }
               ]
             }
           ]
@@ -332,8 +570,24 @@
                 "Persistent non-compliance may lead to small claims court or wage garnishment."
               ],
               "crossLinks": [
-                { "docId": "board", "section": "Authority", "label": "Board enforcement powers" }
-              ]
+                {
+                  "docId": "board",
+                  "section": "Authority",
+                  "label": "Board enforcement powers"
+                }
+              ],
+              "sourceText": {
+                "label": "View exact enforcement language",
+                "heading": "CC&Rs — Section 8, Non-Compliance",
+                "passages": [
+                  "Notification: Homeowners violating Section 8 of the CC&Rs receive a written notice with a minimum 10-day period to correct the violation.",
+                  "Fines: A $50 fine is imposed after the 10-day grace period, with additional $50 fines every 10 days until compliance.",
+                  "Corrective Action: If the violation persists beyond 30 days, the HOA may hire a company to remedy the violation at the homeowner’s expense.",
+                  "Liens: Unpaid fines or costs may result in a lien on the property, updated every 6 months until paid.",
+                  "Legal Action: Persistent non-compliance may lead to small claims court or wage garnishment if fines remain unpaid."
+                ],
+                "ref": "Summerlin Ridge CC&Rs, Section 8 — Consequences"
+              }
             }
           ]
         },
@@ -350,8 +604,16 @@
                 "Non-compliance starts at $50 per 10-day period and can escalate to liens and court action."
               ],
               "crossLinks": [
-                { "docId": "insurance", "section": "Compliance", "label": "Insurance enforcement" },
-                { "docId": "maintenance", "section": "Consequences", "label": "Maintenance enforcement" }
+                {
+                  "docId": "insurance",
+                  "section": "Compliance",
+                  "label": "Insurance enforcement"
+                },
+                {
+                  "docId": "maintenance",
+                  "section": "Consequences",
+                  "label": "Maintenance enforcement"
+                }
               ]
             }
           ]
@@ -371,21 +633,70 @@
             {
               "heading": "Composition",
               "cards": [
-                { "label": "Board Size", "text": "3 to 7 directors (2 during Declarant control). Adjustable by Bylaw amendment." },
-                { "label": "Qualifications", "text": "Must be natural persons and Washington residents. A majority must be Unit Owners." },
-                { "label": "Terms", "text": "1-year terms. Initial directors serve 2 years for staggered transition." }
-              ]
+                {
+                  "label": "Board Size",
+                  "text": "3 to 7 directors (2 during Declarant control). Adjustable by Bylaw amendment."
+                },
+                {
+                  "label": "Qualifications",
+                  "text": "Must be natural persons and Washington residents. A majority must be Unit Owners."
+                },
+                {
+                  "label": "Terms",
+                  "text": "1-year terms. Initial directors serve 2 years for staggered transition."
+                }
+              ],
+              "sourceText": {
+                "label": "View governing document language",
+                "heading": "Bylaws & Declaration — Board Composition",
+                "passages": [
+                  "The Board consists of 3 to 7 directors, except during Declarant control when 2 directors suffice.",
+                  "Directors must be natural persons and Washington residents; a majority must be Unit Owners.",
+                  "The Board size can be adjusted by Bylaw amendment, but no reduction shortens an incumbent’s term."
+                ],
+                "ref": "Summerlin Ridge Bylaws & Declaration — Board Structure"
+              }
             },
             {
               "heading": "Current Board Members",
               "table": {
-                "headers": ["Position", "Name", "Term", "Dates"],
+                "headers": [
+                  "Position",
+                  "Name",
+                  "Term",
+                  "Dates"
+                ],
                 "rows": [
-                  ["President", "Vincent Hebrant", "1 year", "04/2025 – 04/2026"],
-                  ["VP-Secretary", "Peter Pham", "1 year", "04/2025 – 04/2026"],
-                  ["Board Member", "Ionel Basaraba", "1 year", "04/2025 – 04/2026"],
-                  ["Board Member", "Asparuh Asparuhov", "1 year", "04/2025 – 04/2026"],
-                  ["Board Member", "Yodit Seyoum", "1 year", "04/2025 – 04/2026"]
+                  [
+                    "President",
+                    "Vincent Hebrant",
+                    "1 year",
+                    "04/2025 – 04/2026"
+                  ],
+                  [
+                    "VP-Secretary",
+                    "Peter Pham",
+                    "1 year",
+                    "04/2025 – 04/2026"
+                  ],
+                  [
+                    "Board Member",
+                    "Ionel Basaraba",
+                    "1 year",
+                    "04/2025 – 04/2026"
+                  ],
+                  [
+                    "Board Member",
+                    "Asparuh Asparuhov",
+                    "1 year",
+                    "04/2025 – 04/2026"
+                  ],
+                  [
+                    "Board Member",
+                    "Yodit Seyoum",
+                    "1 year",
+                    "04/2025 – 04/2026"
+                  ]
                 ]
               }
             }
@@ -401,12 +712,27 @@
                 "At 25% sold — at least 25% of Board members elected by Unit Owners.",
                 "At 50% sold — at least 33⅓% of Board members elected by Unit Owners.",
                 "After Declarant control — Owners elect a Board of at least 3, with a majority being Unit Owners."
-              ]
+              ],
+              "sourceText": {
+                "label": "View exact transition rules",
+                "heading": "Declaration — Declarant to Owner Control",
+                "passages": [
+                  "Within 60 days of 25% of Units sold to non-Declarant owners, at least 25% of Board members are elected by Unit Owners.",
+                  "Within 60 days of 50% of Units sold, at least 33⅓% of Board members are elected by Unit Owners.",
+                  "After Declarant control ends, Unit Owners elect a Board of at least 3 members, with a majority being Unit Owners.",
+                  "Directors serve 1-year terms, except initial directors named in the Articles serve 2 years for staggered terms.",
+                  "Elections use mailed ballots, requiring a 60% member quorum; no cumulative voting is allowed."
+                ],
+                "ref": "Summerlin Ridge Declaration — Board Elections"
+              }
             },
             {
               "heading": "Election Process",
               "text": "Elections use mailed ballots requiring a 60% member quorum. No cumulative voting is allowed.",
-              "pullQuote": { "text": "Unit Owners can remove a director (except Declarant-appointed) with a ⅔ vote of voting power at a quorum meeting. Directors can also remove a colleague with a ⅔ vote of directors in office.", "caption": "Removal thresholds" }
+              "pullQuote": {
+                "text": "Unit Owners can remove a director (except Declarant-appointed) with a ⅔ vote of voting power at a quorum meeting. Directors can also remove a colleague with a ⅔ vote of directors in office.",
+                "caption": "Removal thresholds"
+              }
             }
           ]
         },
@@ -423,7 +749,21 @@
                 "Majority of directors constitutes a quorum; majority vote of those present is binding.",
                 "Actions may be taken without a meeting if all directors sign written consent.",
                 "Public positions or borrowing require a ⅔ vote of directors in office."
-              ]
+              ],
+              "sourceText": {
+                "label": "View meeting rules",
+                "heading": "Bylaws — Board Meetings",
+                "passages": [
+                  "Annual Board Meeting follows director elections; regular meetings are set by Board resolution.",
+                  "Special meetings can be called by the President or a majority of directors.",
+                  "Meetings may occur via conference call, ensuring all participants can hear each other.",
+                  "Notice is required 72 hours in advance for non-regular meetings; attendance waives notice unless objected.",
+                  "A majority of directors constitutes a quorum; a majority vote of those present is binding.",
+                  "Actions can be taken without a meeting if all directors sign a written consent.",
+                  "Public positions or borrowing require a ⅔ vote of directors in office."
+                ],
+                "ref": "Summerlin Ridge Bylaws — Board Meetings"
+              }
             }
           ]
         },
@@ -434,16 +774,29 @@
               "heading": "Officers of the Board",
               "text": "Officers are elected annually by the Board, must be Washington residents, and President and Secretary cannot be the same person.",
               "cards": [
-                { "label": "President", "text": "Chief executive — presides over meetings, appoints committees, ensures Board actions are carried out." },
-                { "label": "Secretary", "text": "Keeps minutes and records, maintains member lists." },
-                { "label": "Treasurer", "text": "Manages finances, oversees audits, prepares budgets and reports." }
+                {
+                  "label": "President",
+                  "text": "Chief executive — presides over meetings, appoints committees, ensures Board actions are carried out."
+                },
+                {
+                  "label": "Secretary",
+                  "text": "Keeps minutes and records, maintains member lists."
+                },
+                {
+                  "label": "Treasurer",
+                  "text": "Manages finances, oversees audits, prepares budgets and reports."
+                }
               ]
             },
             {
               "heading": "Compensation & Liability",
               "text": "Directors serve without compensation but may be reimbursed for Board-approved expenses. Directors and officers are indemnified to the fullest extent under Washington law. The Association may maintain insurance to cover indemnification obligations.",
               "crossLinks": [
-                { "docId": "insurance", "section": "Association", "label": "D&O insurance coverage" }
+                {
+                  "docId": "insurance",
+                  "section": "Association",
+                  "label": "D&O insurance coverage"
+                }
               ]
             }
           ]
@@ -460,7 +813,20 @@
                 "Appoint officers and establish committees (including the ACC).",
                 "Engage managers or agents for delegated duties.",
                 "Enforce rules per the Declaration with fines and corrective action."
-              ]
+              ],
+              "sourceText": {
+                "label": "View full authority from governing documents",
+                "heading": "Bylaws & Declaration — Board Authority",
+                "passages": [
+                  "Manage the Association’s affairs, including rule enforcement, financial oversight, maintenance, and legal compliance.",
+                  "Ensure compliance with the Declaration and Washington Condominium Act.",
+                  "Appoint officers and establish committees to delegate tasks.",
+                  "Act with fiduciary care (Declarant-appointed) or ordinary care (Unit Owner-elected).",
+                  "The Board has sole voting power on Bylaws amendments, Articles changes, mergers, asset sales, or dissolution.",
+                  "Members have advisory voting rights on select matters at the Board’s discretion."
+                ],
+                "ref": "Summerlin Ridge Bylaws & Declaration — Board Authority"
+              }
             },
             {
               "heading": "Committees",
@@ -474,8 +840,16 @@
               "heading": "Amendments & Deadlocks",
               "text": "The Board can amend, alter, or repeal Bylaws and adopt new ones. Arbitration resolves Board voting deadlocks, with an arbitrator chosen unanimously or by the Snohomish County Superior Court.",
               "crossLinks": [
-                { "docId": "acc", "section": "Consequences", "label": "Fine enforcement" },
-                { "docId": "maintenance", "section": "Consequences", "label": "Maintenance enforcement" }
+                {
+                  "docId": "acc",
+                  "section": "Consequences",
+                  "label": "Fine enforcement"
+                },
+                {
+                  "docId": "maintenance",
+                  "section": "Consequences",
+                  "label": "Maintenance enforcement"
+                }
               ]
             }
           ]
@@ -494,9 +868,21 @@
                 "Arbitration resolves Board deadlocks — Snohomish County Superior Court appoints arbitrator if needed."
               ],
               "crossLinks": [
-                { "docId": "acc", "section": "Process", "label": "ACC approval process" },
-                { "docId": "maintenance", "section": "Funding", "label": "Assessment funding" },
-                { "docId": "insurance", "section": "Association", "label": "Association insurance" }
+                {
+                  "docId": "acc",
+                  "section": "Process",
+                  "label": "ACC approval process"
+                },
+                {
+                  "docId": "maintenance",
+                  "section": "Funding",
+                  "label": "Assessment funding"
+                },
+                {
+                  "docId": "insurance",
+                  "section": "Association",
+                  "label": "Association insurance"
+                }
               ]
             }
           ]
@@ -515,7 +901,16 @@
           "blocks": [
             {
               "heading": "Why It Exists",
-              "text": "Washington law (RCW 64.34.425) requires a Resale Certificate for all unit sales or transfers (except exemptions like foreclosures or gifts). It informs buyers about the Association's financial health, governance, and obligations — enabling informed purchase decisions. It must be delivered before closing."
+              "text": "Washington law (RCW 64.34.425) requires a Resale Certificate for all unit sales or transfers (except exemptions like foreclosures or gifts). It informs buyers about the Association's financial health, governance, and obligations — enabling informed purchase decisions. It must be delivered before closing.",
+              "sourceText": {
+                "label": "View source language",
+                "heading": "Declaration & RCW 64.34.425",
+                "passages": [
+                  "Purpose: The Resale Certificate informs prospective buyers about the financial health, governance, and obligations of the Summerlin Ridge Condominium Association, enabling informed purchase decisions (Declaration, Section 11.2; RCW 64.34.425).",
+                  "Legal Requirement: Washington law requires a Resale Certificate for all unit sales or transfers, except those exempted (e.g., foreclosures, gifts) (RCW 64.34.425(1)). It must be delivered to the buyer before closing."
+                ],
+                "ref": "Summerlin Ridge Declaration, Section 11.2; RCW 64.34.425"
+              }
             }
           ]
         },
@@ -536,7 +931,20 @@
                   "<strong>Deliver to the buyer before closing</strong> — the buyer has 5 days to cancel after receiving it."
                 ]
               },
-              "pullQuote": { "text": "The Association must provide the Resale Certificate within 10 days of the request. Failure to comply violates RCW 64.34.425 and may delay the sale.", "caption": "10-day response requirement" }
+              "pullQuote": {
+                "text": "The Association must provide the Resale Certificate within 10 days of the request. Failure to comply violates RCW 64.34.425 and may delay the sale.",
+                "caption": "10-day response requirement"
+              },
+              "sourceText": {
+                "label": "View preparation requirements",
+                "heading": "Declaration & Bylaws — Preparation",
+                "passages": [
+                  "Responsibility: The Association, through the Board of Directors or its designated agent, prepares the Resale Certificate upon request from the selling Unit Owner (Declaration, Section 11.2; Bylaws, Section 4.4).",
+                  "Process: The Unit Owner must request the certificate in writing. The Secretary or designated officer ensures its preparation, with input from the Treasurer for financial data.",
+                  "Timeline: The Association must provide the certificate within 10 days of the request, as required by RCW 64.34.425(3)."
+                ],
+                "ref": "Summerlin Ridge Declaration, Section 11.2; Bylaws, Sections 4.4–4.5"
+              }
             }
           ]
         },
@@ -552,8 +960,23 @@
                 "Anticipated special assessments or changes in regular assessments."
               ],
               "crossLinks": [
-                { "docId": "maintenance", "section": "Funding", "label": "How assessments work" }
-              ]
+                {
+                  "docId": "maintenance",
+                  "section": "Funding",
+                  "label": "How assessments work"
+                }
+              ],
+              "sourceText": {
+                "label": "View financial disclosure requirements",
+                "heading": "Declaration & RCW 64.34.425(2) — Financial",
+                "passages": [
+                  "Current assessment amount and payment schedule for the unit (Declaration, Section 7.1).",
+                  "Any unpaid assessments, fines, or special assessments owed by the selling unit (Declaration, Section 7.5).",
+                  "The Association’s current budget and reserve study, including reserve fund balance (Declaration, Section 7.6; Bylaws, Section 5.5).",
+                  "Any anticipated special assessments or changes in regular assessments (Bylaws, Section 1.6)."
+                ],
+                "ref": "Summerlin Ridge Declaration, Section 7; Bylaws, Section 5.5"
+              }
             },
             {
               "heading": "Governance & Legal",
@@ -564,7 +987,11 @@
                 "Statement of compliance with RCW 64.34.425, certified by an officer."
               ],
               "crossLinks": [
-                { "docId": "board", "section": "Structure", "label": "Current Board members" }
+                {
+                  "docId": "board",
+                  "section": "Structure",
+                  "label": "Current Board members"
+                }
               ]
             },
             {
@@ -576,7 +1003,11 @@
                 "Transfer fees and the Association's lien rights for unpaid amounts."
               ],
               "crossLinks": [
-                { "docId": "insurance", "section": "Association", "label": "Association insurance details" }
+                {
+                  "docId": "insurance",
+                  "section": "Association",
+                  "label": "Association insurance details"
+                }
               ]
             }
           ]
@@ -585,7 +1016,10 @@
           "name": "Right to Cancel",
           "blocks": [
             {
-              "pullQuote": { "text": "Buyers have 5 days after receiving the Resale Certificate to cancel without penalty. Cancellation must be in writing. The buyer gets a full refund of any deposit.", "caption": "Buyer cancellation right — RCW 64.34.425(3)" }
+              "pullQuote": {
+                "text": "Buyers have 5 days after receiving the Resale Certificate to cancel without penalty. Cancellation must be in writing. The buyer gets a full refund of any deposit.",
+                "caption": "Buyer cancellation right — RCW 64.34.425(3)"
+              }
             },
             {
               "heading": "Seller Obligations",
@@ -621,9 +1055,21 @@
                 "The Board can withhold sale approval if unapproved alterations or violations exist."
               ],
               "crossLinks": [
-                { "docId": "insurance", "section": "Association", "label": "Association insurance overview" },
-                { "docId": "board", "section": "Structure", "label": "Current Board composition" },
-                { "docId": "maintenance", "section": "Funding", "label": "Assessment details" }
+                {
+                  "docId": "insurance",
+                  "section": "Association",
+                  "label": "Association insurance overview"
+                },
+                {
+                  "docId": "board",
+                  "section": "Structure",
+                  "label": "Current Board composition"
+                },
+                {
+                  "docId": "maintenance",
+                  "section": "Funding",
+                  "label": "Assessment details"
+                }
               ]
             }
           ]
@@ -643,12 +1089,30 @@
             {
               "heading": "Time-Sensitive Requirements",
               "cards": [
-                { "label": "ACC Submission", "text": "Submit duplicate plans at least 15 days before starting." },
-                { "label": "ACC Review", "text": "ACC reviews within 5 days. No response in 15 days = deemed approved." },
-                { "label": "Exterior Completion", "text": "Exterior appearance must be finished within 12 months of construction start." },
-                { "label": "Violation Grace", "text": "10-day period to correct after written notice." },
-                { "label": "Resale Response", "text": "Association must provide Resale Certificate within 10 days." },
-                { "label": "Buyer Cancellation", "text": "5 days to cancel after receiving Resale Certificate." }
+                {
+                  "label": "ACC Submission",
+                  "text": "Submit duplicate plans at least 15 days before starting."
+                },
+                {
+                  "label": "ACC Review",
+                  "text": "ACC reviews within 5 days. No response in 15 days = deemed approved."
+                },
+                {
+                  "label": "Exterior Completion",
+                  "text": "Exterior appearance must be finished within 12 months of construction start."
+                },
+                {
+                  "label": "Violation Grace",
+                  "text": "10-day period to correct after written notice."
+                },
+                {
+                  "label": "Resale Response",
+                  "text": "Association must provide Resale Certificate within 10 days."
+                },
+                {
+                  "label": "Buyer Cancellation",
+                  "text": "5 days to cancel after receiving Resale Certificate."
+                }
               ]
             }
           ]
@@ -659,11 +1123,26 @@
             {
               "heading": "Financial Penalties",
               "cards": [
-                { "label": "Initial Fine", "text": "$50 after 10-day grace period." },
-                { "label": "Recurring Fine", "text": "$50 every 10 days until compliance." },
-                { "label": "Forced Repair", "text": "After 30 days, the HOA fixes it at your expense." },
-                { "label": "Liens", "text": "Unpaid fines or costs become a lien, updated every 6 months." },
-                { "label": "Court Action", "text": "Small claims court or wage garnishment for persistent non-payment." }
+                {
+                  "label": "Initial Fine",
+                  "text": "$50 after 10-day grace period."
+                },
+                {
+                  "label": "Recurring Fine",
+                  "text": "$50 every 10 days until compliance."
+                },
+                {
+                  "label": "Forced Repair",
+                  "text": "After 30 days, the HOA fixes it at your expense."
+                },
+                {
+                  "label": "Liens",
+                  "text": "Unpaid fines or costs become a lien, updated every 6 months."
+                },
+                {
+                  "label": "Court Action",
+                  "text": "Small claims court or wage garnishment for persistent non-payment."
+                }
               ]
             }
           ]
@@ -674,11 +1153,26 @@
             {
               "heading": "Voting Thresholds",
               "cards": [
-                { "label": "Remove Director", "text": "⅔ vote of voting power at a quorum meeting (or ⅔ of directors in office)." },
-                { "label": "Election Quorum", "text": "60% member quorum required for elections via mailed ballot." },
-                { "label": "Board Quorum", "text": "Majority of directors present." },
-                { "label": "Public Positions / Borrowing", "text": "⅔ vote of directors in office." },
-                { "label": "Special Assessments", "text": "Majority vote of Owners at a quorum meeting." }
+                {
+                  "label": "Remove Director",
+                  "text": "⅔ vote of voting power at a quorum meeting (or ⅔ of directors in office)."
+                },
+                {
+                  "label": "Election Quorum",
+                  "text": "60% member quorum required for elections via mailed ballot."
+                },
+                {
+                  "label": "Board Quorum",
+                  "text": "Majority of directors present."
+                },
+                {
+                  "label": "Public Positions / Borrowing",
+                  "text": "⅔ vote of directors in office."
+                },
+                {
+                  "label": "Special Assessments",
+                  "text": "Majority vote of Owners at a quorum meeting."
+                }
               ]
             }
           ]
@@ -689,11 +1183,26 @@
             {
               "heading": "Insurance Essentials",
               "cards": [
-                { "label": "Association Liability", "text": "$1,000,000 minimum per occurrence." },
-                { "label": "Insurer Rating", "text": "A.M. Best A- or better, licensed in Washington." },
-                { "label": "Owner Liability", "text": "$300,000 minimum personal liability." },
-                { "label": "Loss Assessment", "text": "$50,000 recommended minimum." },
-                { "label": "Force-Placed", "text": "Association may force-place insurance at owner's expense." }
+                {
+                  "label": "Association Liability",
+                  "text": "$1,000,000 minimum per occurrence."
+                },
+                {
+                  "label": "Insurer Rating",
+                  "text": "A.M. Best A- or better, licensed in Washington."
+                },
+                {
+                  "label": "Owner Liability",
+                  "text": "$300,000 minimum personal liability."
+                },
+                {
+                  "label": "Loss Assessment",
+                  "text": "$50,000 recommended minimum."
+                },
+                {
+                  "label": "Force-Placed",
+                  "text": "Association may force-place insurance at owner's expense."
+                }
               ]
             }
           ]
@@ -718,17 +1227,65 @@
     }
   ],
   "quickAnswers": [
-    { "question": "Do I need ACC approval?", "docId": "acc", "section": "Requirements" },
-    { "question": "What insurance do I need?", "docId": "insurance", "section": "Unit Owner" },
-    { "question": "How do I report a maintenance issue?", "docId": "maintenance", "section": "Unit Owner" },
-    { "question": "Who's on the Board?", "docId": "board", "section": "Structure" },
-    { "question": "What are the fines for violations?", "docId": "acc", "section": "Consequences" },
-    { "question": "Am I liable if my unit causes damage?", "docId": "insurance", "section": "Provisions" },
-    { "question": "How are HOA dues used?", "docId": "maintenance", "section": "Funding" },
-    { "question": "What's needed to sell my unit?", "docId": "resale", "section": "Preparation" },
-    { "question": "What if I don't pay my assessments?", "docId": "maintenance", "section": "Consequences" },
-    { "question": "How do I get on the Board?", "docId": "board", "section": "Elections" },
-    { "question": "What materials can I use for fencing?", "docId": "acc", "section": "Guidelines" },
-    { "question": "What happens if the ACC doesn't respond?", "docId": "acc", "section": "Process" }
+    {
+      "question": "Do I need ACC approval?",
+      "docId": "acc",
+      "section": "Requirements"
+    },
+    {
+      "question": "What insurance do I need?",
+      "docId": "insurance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "How do I report a maintenance issue?",
+      "docId": "maintenance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "Who's on the Board?",
+      "docId": "board",
+      "section": "Structure"
+    },
+    {
+      "question": "What are the fines for violations?",
+      "docId": "acc",
+      "section": "Consequences"
+    },
+    {
+      "question": "Am I liable if my unit causes damage?",
+      "docId": "insurance",
+      "section": "Provisions"
+    },
+    {
+      "question": "How are HOA dues used?",
+      "docId": "maintenance",
+      "section": "Funding"
+    },
+    {
+      "question": "What's needed to sell my unit?",
+      "docId": "resale",
+      "section": "Preparation"
+    },
+    {
+      "question": "What if I don't pay my assessments?",
+      "docId": "maintenance",
+      "section": "Consequences"
+    },
+    {
+      "question": "How do I get on the Board?",
+      "docId": "board",
+      "section": "Elections"
+    },
+    {
+      "question": "What materials can I use for fencing?",
+      "docId": "acc",
+      "section": "Guidelines"
+    },
+    {
+      "question": "What happens if the ACC doesn't respond?",
+      "docId": "acc",
+      "section": "Process"
+    }
   ]
 }
