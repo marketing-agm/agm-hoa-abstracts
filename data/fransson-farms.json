@@ -15,13 +15,24 @@
               "heading": "Association Insurance Policies",
               "text": "The Association carries a comprehensive set of policies to protect the community's shared assets and leadership. The Board has discretion to determine appropriate policy limits and deductibles based on industry standards and risk management practices.",
               "cards": [
-                { "label": "Property Insurance", "text": "Coverage for Association-owned property in Common Areas — entry monuments, mailbox stations, lighting, and other infrastructure." },
+                { "label": "Property Insurance", "text": "Coverage for Association-owned property in Common Areas \u2014 entry monuments, mailbox stations, lighting, and other infrastructure." },
                 { "label": "General Liability", "text": "Protection from claims involving bodily injury, personal injury, or property damage in Common Areas." },
                 { "label": "D&O Insurance", "text": "Covers personal liability of Board and committee members for decisions made in good faith. Does not cover willful misconduct." },
                 { "label": "Fidelity Bond", "text": "Protects Association funds against theft, embezzlement, forgery, or computer fraud by those in financial control." },
                 { "label": "Workers' Comp", "text": "Required under Washington law if the Association directly employs maintenance staff or security personnel." },
                 { "label": "Flood / Earthquake", "text": "Not required by Declaration, but authorized at the Board's discretion when risk assessment or lender requirements indicate it." }
-              ]
+              ],
+              "sourceText": {
+                "label": "View exact policy language",
+                "heading": "Declaration \u2014 Section 15.1",
+                "passages": [
+                  "\u201CThe Board shall cause the Association to purchase and maintain at all times as a common expense a policy or policies necessary to provide: (i) insurance against loss of personal property of the Association by fire, theft, or other causes with such deductible provisions as the Board deems advisable; and (ii) such other insurance as the Board deems advisable to protect the Association and the Property.\u201D",
+                  "\u201CThe Board may also, in its sole discretion, cause the Association to purchase and maintain insurance, if available, for the protection of the Association\u2019s directors, officers, and representatives from personal liability resulting from the performance of their duties in their respective capacities on behalf of the Association.\u201D",
+                  "\u201CThe Board may also cause the Association to obtain and maintain fidelity insurance to protect the Association from theft or embezzlement of Association funds by officers, directors, or managing agents.\u201D",
+                  "\u201CThe Board may also cause the Association to obtain and maintain worker\u2019s compensation insurance to the extent required by applicable laws.\u201D"
+                ],
+                "ref": "Fransson Farms Declaration, Article 15, Sections 15.1.1\u201315.1.6"
+              }
             },
             {
               "text": "All insurance must be obtained from carriers authorized to do business in the State of Washington. The Association reviews its policies annually for adequacy and compliance."
@@ -33,22 +44,31 @@
           "blocks": [
             {
               "heading": "Your Insurance Obligations",
-              "text": "Every homeowner is required to maintain property and liability insurance. The Association's master policy covers Common Areas — it does not cover your home, belongings, or personal liability.",
+              "text": "Every homeowner is required to maintain property and liability insurance. The Association's master policy covers Common Areas \u2014 it does not cover your home, belongings, or personal liability.",
               "cards": [
                 { "label": "Property Insurance", "text": "Coverage for your home and structures on your Lot, with deductibles and exclusions as the Board may establish." },
                 { "label": "Personal Liability", "text": "Minimum $300,000 coverage for property damage, bodily injury, and death arising from use of your Lot and structures." },
                 { "label": "Loss Assessment", "text": "Advisable coverage for your share of Association claims or special assessments not covered by the master policy." }
-              ]
+              ],
+              "sourceText": {
+                "label": "View exact policy language",
+                "heading": "Declaration \u2014 Sections 15.2",
+                "passages": [
+                  "\u201CAll Owners shall obtain and maintain property insurance\u2026 with such reasonable deductibles and exclusions from coverage as the Board may from time to time approve or by rule or regulation establish.\u201D",
+                  "\u201CThe liability insurance coverage maintained by each Owner shall cover liability of the insureds for property damage and bodily injury and death of persons arising out of the operation, maintenance, and use of the Lot and/or Structures\u2026 with a limit of liability of at least Three Hundred Thousand Dollars\u2026\u201D"
+                ],
+                "ref": "Fransson Farms Declaration, Article 15, Sections 15.2.1\u201315.2.3"
+              }
             },
             {
               "action": {
                 "label": "If damage occurs to your property",
                 "title": "What to do when you need to file a claim",
                 "steps": [
-                  "<strong>Document everything</strong> — take photos, note the date, and identify the source of the damage.",
-                  "<strong>Determine responsibility</strong> — if damage is to your home or Lot, your policy applies. If it involves Common Areas, contact the Property Manager.",
-                  "<strong>File with your insurer</strong> — you are responsible for repairs regardless of insurance claim status.",
-                  "<strong>Notify the Association</strong> — provide proof of insurance upon request and report any damage affecting Common Areas."
+                  "<strong>Document everything</strong> \u2014 take photos, note the date, and identify the source of the damage.",
+                  "<strong>Determine responsibility</strong> \u2014 if damage is to your home or Lot, your policy applies. If it involves Common Areas, contact the Property Manager.",
+                  "<strong>File with your insurer</strong> \u2014 you are responsible for repairs regardless of insurance claim status.",
+                  "<strong>Notify the Association</strong> \u2014 provide proof of insurance upon request and report any damage affecting Common Areas."
                 ]
               },
               "crossLinks": [
@@ -65,12 +85,21 @@
               "heading": "Special Conditions",
               "items": [
                 "Any portion of a home or Lot that is damaged or destroyed must be repaired or replaced promptly by the Owner, regardless of insurance claim status.",
-                "All policies must not be canceled or substantially modified without at least 30 days' prior written notice to the Association.",
+                "All policies must not be canceled or substantially modified without at least 30 days\u2019 prior written notice to the Association.",
                 "Owners must provide proof of insurance to the Association upon request."
-              ]
+              ],
+              "sourceText": {
+                "label": "View exact language",
+                "heading": "Declaration \u2014 Sections 15.2 & 15.3",
+                "passages": [
+                  "\u201CAny portion of the Home or Lot for which insurance is required under this Article which is damaged or destroyed shall be repaired or replaced promptly by the Owner...\u201D",
+                  "\u201C...All such insurance policies and fidelity bonds shall provide that coverage may not be cancelled or substantially modified (including cancellation for nonpayment of premium) without at least thirty (30) days\u2019 prior written notice to any and all insureds named therein.\u201D"
+                ],
+                "ref": "Fransson Farms Declaration, Article 15, Sections 15.2\u201315.3"
+              }
             },
             {
-              "pullQuote": { "text": "Coverage may not be canceled or substantially modified without at least 30 days' prior written notice to all insureds named therein.", "caption": "Policy cancellation notice requirement" }
+              "pullQuote": { "text": "Coverage may not be canceled or substantially modified without at least 30 days\u2019 prior written notice to all insureds named therein.", "caption": "Policy cancellation notice requirement" }
             }
           ]
         },
@@ -94,14 +123,14 @@
           "blocks": [
             {
               "takeaways": [
-                "The Association maintains property, liability, D&O, fidelity, and workers' comp insurance for Common Areas and governance.",
+                "The Association maintains property, liability, D&O, fidelity, and workers\u2019 comp insurance for Common Areas and governance.",
                 "You must carry property and liability insurance with at least $300,000 in liability coverage.",
                 "You are responsible for repairs to your home and Lot regardless of whether an insurance claim is filed.",
-                "No policy — yours or the Association's — can be canceled without 30 days' written notice.",
+                "No policy \u2014 yours or the Association\u2019s \u2014 can be canceled without 30 days\u2019 written notice.",
                 "The Association reviews all policies annually. Keep yours current and provide proof on request."
               ],
               "crossLinks": [
-                { "docId": "maintenance", "section": "Homeowner", "label": "What you're responsible for maintaining" },
+                { "docId": "maintenance", "section": "Homeowner", "label": "What you\u2019re responsible for maintaining" },
                 { "docId": "acc", "section": "Requirements", "label": "Modifications requiring approval" }
               ]
             }
@@ -123,25 +152,39 @@
               "heading": "What You Maintain",
               "text": "You are responsible for maintaining, repairing, and replacing everything on your individual Lot and its improvements.",
               "items": [
-                "Structures — homes and structural elements must be kept in clean, attractive, safe, and sanitary condition.",
-                "Landscaping — fully landscape front, rear, and side yards within required timeframes and maintain plantings in neat, trimmed condition.",
-                "Storm systems — catch basins and storm runoff infrastructure on your Lot must be cleaned and kept free of debris annually.",
-                "Damage repair — substantial damage (exceeding 10% of fair market value) must be restored to original or approved modified condition.",
-                "Trash and hazardous waste — use designated containers and never discharge hazardous substances on the Property.",
-                "Easements — do not obstruct easements on your Lot and maintain them.",
-                "Native Growth Areas — must remain undisturbed unless legally required otherwise.",
-                "Insurance — maintain adequate property and liability insurance with minimum $300,000 coverage."
-              ]
+                "Structures \u2014 homes and structural elements must be kept in clean, attractive, safe, and sanitary condition.",
+                "Landscaping \u2014 fully landscape front, rear, and side yards within required timeframes and maintain plantings in neat, trimmed condition.",
+                "Storm systems \u2014 catch basins and storm runoff infrastructure on your Lot must be cleaned and kept free of debris annually.",
+                "Damage repair \u2014 substantial damage (exceeding 10% of fair market value) must be restored to original or approved modified condition.",
+                "Trash and hazardous waste \u2014 use designated containers and never discharge hazardous substances on the Property.",
+                "Easements \u2014 do not obstruct easements on your Lot and maintain them.",
+                "Native Growth Areas \u2014 must remain undisturbed unless legally required otherwise.",
+                "Insurance \u2014 maintain adequate property and liability insurance with minimum $300,000 coverage."
+              ],
+              "sourceText": {
+                "label": "View exact language from governing documents",
+                "heading": "Declaration \u2014 Sections 6.2, 6.6, 6.11, 15.2",
+                "passages": [
+                  "\u201CStructures: Homes and any structural elements must be maintained in a clean, attractive, safe, and sanitary condition.\u201D (Section 6.2.1)",
+                  "\u201COwners must fully landscape front, rear, and side yards within required timeframes and maintain all plantings in neat, trimmed condition.\u201D (Section 6.2.2)",
+                  "\u201CCatch basins and storm runoff infrastructure located on the Lot must be cleaned and kept free of debris annually.\u201D (Section 6.2.4)",
+                  "\u201CIn cases of substantial damage (exceeding 10% of fair market value), Owners must restore the property to its original or approved modified condition.\u201D (Section 6.2.6)",
+                  "\u201CGarbage must be disposed of properly in designated containers, and no hazardous substances may be discharged on the Property.\u201D (Sections 6.6.1 & 6.6.2)",
+                  "\u201COwners must not obstruct easements and are required to maintain them.\u201D (Section 6.11.3)",
+                  "\u201CNative Growth Areas must remain undisturbed unless legally required otherwise.\u201D (Section 6.11.4)"
+                ],
+                "ref": "Fransson Farms Declaration, Article 6"
+              }
             },
             {
               "action": {
                 "label": "If something needs repair on your property",
                 "title": "How to handle a maintenance issue",
                 "steps": [
-                  "<strong>Determine if it's yours or the Association's</strong> — is it on your Lot or in a Common Area? Structures, landscaping, and storm drains on your Lot are yours.",
-                  "<strong>If it's yours</strong> — arrange repairs directly. For structural work, use licensed contractors and check if ACC approval is needed.",
-                  "<strong>If it's the Association's</strong> — report it to the Property Manager.",
-                  "<strong>If it affects neighbors</strong> — report immediately. Failure to address issues that impact others may result in financial liability."
+                  "<strong>Determine if it\u2019s yours or the Association\u2019s</strong> \u2014 is it on your Lot or in a Common Area? Structures, landscaping, and storm drains on your Lot are yours.",
+                  "<strong>If it\u2019s yours</strong> \u2014 arrange repairs directly. For structural work, use licensed contractors and check if ACC approval is needed.",
+                  "<strong>If it\u2019s the Association\u2019s</strong> \u2014 report it to the Property Manager.",
+                  "<strong>If it affects neighbors</strong> \u2014 report immediately. Failure to address issues that impact others may result in financial liability."
                 ]
               },
               "crossLinks": [
@@ -164,7 +207,16 @@
                 { "label": "Mailboxes", "text": "Mailbox stations serving multiple Lots." },
                 { "label": "Native Growth Areas", "text": "Protected areas as required by law." },
                 { "label": "Rights-of-Way", "text": "Medians and rights-of-way when government entities do not maintain them." }
-              ]
+              ],
+              "sourceText": {
+                "label": "View exact language",
+                "heading": "Declaration \u2014 Sections 2.5, 4.3.6, 4.3.7",
+                "passages": [
+                  "The Association\u2019s maintenance obligations include storm systems and detention ponds, street lighting, entry monuments and planting strips, mailboxes serving multiple Lots, Native Growth Protection Areas as required by law, and maintenance of rights-of-way and medians when governmental entities do not do so.",
+                  "\u201CThese responsibilities are carried out to ensure compliance with legal and safety standards and to maintain community quality.\u201D"
+                ],
+                "ref": "Fransson Farms Declaration, Sections 2.5, 4.3.6, 4.3.7"
+              }
             }
           ]
         },
@@ -174,7 +226,15 @@
             {
               "heading": "Emergency Repairs",
               "text": "The Association may enter your Lot to perform necessary maintenance or repairs in emergency situations, or when you fail to maintain components that pose a heightened risk.",
-              "pullQuote": { "text": "The Association may enter an Owner's Lot to perform emergency repairs. Prior notice is required except in emergencies. Costs will be charged back to the Owner.", "caption": "Emergency access — RCW 64.90.440" }
+              "pullQuote": { "text": "The Association may enter an Owner\u2019s Lot to perform emergency repairs. Prior notice is required except in emergencies. Costs will be charged back to the Owner.", "caption": "Emergency access \u2014 RCW 64.90.440" },
+              "sourceText": {
+                "label": "View source language",
+                "heading": "RCW 64.90.440",
+                "passages": [
+                  "The Association may enter an Owner\u2019s Lot to perform necessary maintenance or repairs in emergency situations or when the Owner fails to maintain components that pose a heightened risk. Prior notice is required except in emergencies. Costs will be charged back to the Owner."
+                ],
+                "ref": "Washington State RCW 64.90.440"
+              }
             }
           ]
         },
@@ -189,6 +249,15 @@
                 "If the Association performs maintenance on your Lot due to neglect, costs may be levied as a Special Assessment on your Lot.",
                 "Unpaid amounts may be assessed as a lien against your property."
               ],
+              "sourceText": {
+                "label": "View exact language",
+                "heading": "Declaration \u2014 Sections 4.3.6, 6.2.1",
+                "passages": [
+                  "The costs for Association maintenance obligations are paid through assessments collected from all Owners.",
+                  "If the Association performs maintenance on a Lot due to Owner neglect, the costs may be levied as a Special Assessment on that Owner\u2019s Lot."
+                ],
+                "ref": "Fransson Farms Declaration, Sections 4.3.6 and 6.2.1"
+              },
               "crossLinks": [
                 { "docId": "insurance", "section": "Provisions", "label": "Insurance shortfall assessments" }
               ]
@@ -199,8 +268,8 @@
           "name": "Consequences",
           "blocks": [
             {
-              "heading": "What Happens If You Don't Maintain Your Property",
-              "text": "Neglecting your Lot doesn't just affect curb appeal — it can result in Association intervention, special assessments, and liens.",
+              "heading": "What Happens If You Don\u2019t Maintain Your Property",
+              "text": "Neglecting your Lot doesn\u2019t just affect curb appeal \u2014 it can result in Association intervention, special assessments, and liens.",
               "items": [
                 "The Association may intervene after notice and hearing if you fail to maintain your Lot or structures.",
                 "You will be required to reimburse the Association for all costs incurred.",
@@ -218,7 +287,7 @@
               "takeaways": [
                 "You maintain your Lot, home, landscaping, and storm drains. The Association handles all Common Areas.",
                 "Substantial damage (over 10% of fair market value) must be fully restored to original or approved condition.",
-                "The Association can enter your Lot for emergency repairs — costs are charged back to you if it's your responsibility.",
+                "The Association can enter your Lot for emergency repairs \u2014 costs are charged back to you if it\u2019s your responsibility.",
                 "Neglect can result in Association intervention, special assessments, and liens on your property.",
                 "Proper insurance coverage ($300,000 minimum liability) is mandatory for all Owners."
               ],
@@ -245,13 +314,26 @@
               "heading": "Do I Need Approval?",
               "text": "If your project involves anything visible from the exterior or affects the structure of your property, the answer is yes. When in doubt, ask the ACC before starting.",
               "items": [
-                "Initial construction or placement of any structure — homes, sheds, fences, etc.",
-                "Exterior modifications — roofing, painting, siding, trim, doors.",
-                "Landscaping changes — trees over 6 ft. at maturity, plantings, removals.",
-                "Recreational structures — play sets, pools, courts.",
-                "Add-ons — A/C units, chimneys, dog runs, basketball hoops.",
+                "Initial construction or placement of any structure \u2014 homes, sheds, fences, etc.",
+                "Exterior modifications \u2014 roofing, painting, siding, trim, doors.",
+                "Landscaping changes \u2014 trees over 6 ft. at maturity, plantings, removals.",
+                "Recreational structures \u2014 play sets, pools, courts.",
+                "Add-ons \u2014 A/C units, chimneys, dog runs, basketball hoops.",
                 "Any structure or change visible from the exterior or affecting neighbors."
-              ]
+              ],
+              "sourceText": {
+                "label": "View full list from governing documents",
+                "heading": "Declaration \u2014 ACC Requirements",
+                "passages": [
+                  "Initial construction or placement of structures (homes, sheds, fences, etc.)",
+                  "Exterior modifications: roofing, painting, siding, trim, doors, etc.",
+                  "Landscaping changes (trees over 6 ft. at maturity, plantings, removals)",
+                  "Recreational structures (play sets, pools, courts)",
+                  "Add-ons: A/C units, chimneys, dog runs, basketball hoops, etc.",
+                  "Any structure or change visible from the exterior or affecting neighbors"
+                ],
+                "ref": "Fransson Farms Declaration, ACC Requirements section"
+              }
             }
           ]
         },
@@ -260,18 +342,29 @@
           "blocks": [
             {
               "heading": "How to Get Approval",
-              "text": "Build in lead time — submit at least 30 days before your planned start date (60 days preferred for complex projects).",
+              "text": "Build in lead time \u2014 submit at least 30 days before your planned start date (60 days preferred for complex projects).",
               "action": {
                 "label": "Before you start any project",
                 "title": "ACC approval step by step",
                 "steps": [
-                  "<strong>Prepare your application</strong> — gather the ACC Request Form, a drawn-to-scale site plan with elevations, detailed plans, specs, materials, and contractor info.",
-                  "<strong>Submit at least 30 days early</strong> (60 preferred) — file all documents with the ACC. Incomplete applications will delay review.",
-                  "<strong>ACC reviews within 30 days</strong> — they may request additional info or a site visit. Failure to respond within the timeline may imply approval.",
-                  "<strong>Receive written decision</strong> — all decisions are documented and stored.",
-                  "<strong>Start within 2 months, finish within 6</strong> — approved projects must begin within 2 months and be completed within 6 months of approval.",
-                  "<strong>Appeal if denied</strong> — the Board handles appeals within 30 days of a written request."
+                  "<strong>Prepare your application</strong> \u2014 gather the ACC Request Form, a drawn-to-scale site plan with elevations, detailed plans, specs, materials, and contractor info.",
+                  "<strong>Submit at least 30 days early</strong> (60 preferred) \u2014 file all documents with the ACC. Incomplete applications will delay review.",
+                  "<strong>ACC reviews within 30 days</strong> \u2014 they may request additional info or a site visit. Failure to respond within the timeline may imply approval.",
+                  "<strong>Receive written decision</strong> \u2014 all decisions are documented and stored.",
+                  "<strong>Start within 2 months, finish within 6</strong> \u2014 approved projects must begin within 2 months and be completed within 6 months of approval.",
+                  "<strong>Appeal if denied</strong> \u2014 the Board handles appeals within 30 days of a written request."
                 ]
+              },
+              "sourceText": {
+                "label": "View exact process requirements",
+                "heading": "Declaration \u2014 ACC Approval Process",
+                "passages": [
+                  "Application Timing: Submit complete application at least 30 days (preferably 60) before project start.",
+                  "Submission Includes: ACC Request Form, drawn-to-scale site plan with elevations, detailed plans, specs, materials, and contractor info.",
+                  "Review Period: ACC reviews within 30 days. May request additional info or a site visit. Failure to respond within the timeline may imply approval.",
+                  "Final Decision: Written decision sent to applicant. Board handles appeals within 30 days of a written request. All decisions documented and stored."
+                ],
+                "ref": "Fransson Farms Declaration, ACC Approval Process"
               }
             },
             {
@@ -286,12 +379,27 @@
               "heading": "Materials & Design Standards",
               "text": "All modifications must conform to approved height, building codes, and harmony with surrounding properties.",
               "items": [
-                "Only certain materials and colors are permitted — e.g., 20-year asphalt shingles, neutral paint tones.",
+                "Only certain materials and colors are permitted \u2014 e.g., 20-year asphalt shingles, neutral paint tones.",
                 "Vinyl siding is allowed if approved; T-111 plywood siding is not permitted.",
                 "Fencing must be wood (no chain link), stained only, with the finished side facing outward.",
                 "Pools, play areas, and courts must be screened and placed in rear yards.",
                 "Dog runs and kennels must be screened and located in rear yards."
-              ]
+              ],
+              "sourceText": {
+                "label": "View full restrictions from CC&Rs",
+                "heading": "Declaration \u2014 Restrictions & Guidelines",
+                "passages": [
+                  "Structures must conform to approved height, building codes, and harmony with surrounding properties.",
+                  "Only certain materials and colors are permitted (e.g., 20-year asphalt shingles, neutral paint tones).",
+                  "Vinyl siding allowed if approved; T-111 plywood siding is not.",
+                  "Fencing must be wood (no chain link), stained only, and finished side must face out.",
+                  "Pools, play areas, and courts must be screened and placed in rear yards.",
+                  "Dog runs and kennels must be screened and located in rear yard.",
+                  "Modifications in easements or Native Growth Protection Areas (NPGAs) are heavily restricted and require special permits.",
+                  "Owners are responsible for obtaining any required government permits in addition to ACC approval."
+                ],
+                "ref": "Fransson Farms Declaration, Restrictions & Guidelines section"
+              }
             },
             {
               "heading": "Special Restrictions",
@@ -313,9 +421,9 @@
               "heading": "What Happens Without Approval",
               "text": "Projects started without written ACC approval are in immediate violation. The consequences are straightforward and enforceable.",
               "items": [
-                "Unapproved or nonconforming work may require removal or correction at the owner's expense.",
+                "Unapproved or nonconforming work may require removal or correction at the owner\u2019s expense.",
                 "Owners may not reside on a lot until the home is completed, unless otherwise approved.",
-                "Work must start within 2 months and be completed within 6 months of approval — missed deadlines may void approval."
+                "Work must start within 2 months and be completed within 6 months of approval \u2014 missed deadlines may void approval."
               ],
               "crossLinks": [
                 { "docId": "board", "section": "Authority", "label": "Board enforcement powers" }
@@ -329,11 +437,11 @@
           "blocks": [
             {
               "takeaways": [
-                "All exterior work requires prior written ACC approval — no exceptions.",
+                "All exterior work requires prior written ACC approval \u2014 no exceptions.",
                 "Submit a complete application at least 30 days before you plan to start (60 days preferred).",
                 "Use compatible materials that match community aesthetics and approved standards.",
                 "Start within 2 months and finish within 6 months of approval.",
-                "Ask the ACC if you're unsure whether your project needs approval — they can guide you."
+                "Ask the ACC if you\u2019re unsure whether your project needs approval \u2014 they can guide you."
               ],
               "crossLinks": [
                 { "docId": "insurance", "section": "Provisions", "label": "Insurance impact of modifications" },
@@ -349,7 +457,7 @@
       "title": "Board of Directors",
       "desc": "Governance structure, elections, authority, and current board composition.",
       "updated": "April 2025",
-      "subtitle": "The Board of Directors is the governing body of Fransson Farms HOA — responsible for managing Association business, enforcing rules, overseeing maintenance, and protecting the community's interests.",
+      "subtitle": "The Board of Directors is the governing body of Fransson Farms HOA \u2014 responsible for managing Association business, enforcing rules, overseeing maintenance, and protecting the community\u2019s interests.",
       "sections": [
         {
           "name": "Structure",
@@ -367,11 +475,11 @@
               "table": {
                 "headers": ["Position", "Name", "Term", "Dates"],
                 "rows": [
-                  ["President", "Chris Bender", "3 years", "03/2023 – 03/2026"],
-                  ["Secretary", "Lauren Jackson", "3 years", "04/2024 – 04/2027"],
-                  ["Treasurer", "Amanda Hanson", "3 years", "03/2025 – 03/2028"],
-                  ["Board Member", "Paul Tyndall", "3 years", "03/2023 – 03/2026"],
-                  ["Board Member", "Marcus Sullivan", "3 years", "04/2024 – 04/2027"]
+                  ["President", "Chris Bender", "3 years", "03/2023 \u2013 03/2026"],
+                  ["Secretary", "Lauren Jackson", "3 years", "04/2024 \u2013 04/2027"],
+                  ["Treasurer", "Amanda Hanson", "3 years", "03/2025 \u2013 03/2028"],
+                  ["Board Member", "Paul Tyndall", "3 years", "03/2023 \u2013 03/2026"],
+                  ["Board Member", "Marcus Sullivan", "3 years", "04/2024 \u2013 04/2027"]
                 ]
               }
             }
@@ -382,11 +490,20 @@
           "blocks": [
             {
               "heading": "How Elections Work",
-              "text": "Officers are elected annually by the Board following the annual members' meeting.",
+              "text": "Officers are elected annually by the Board following the annual members\u2019 meeting.",
               "items": [
                 "Directors serve 3-year terms after the Declarant Control Period ends.",
                 "Vacancies (other than removals) are filled by majority vote of remaining Directors until the next annual meeting."
-              ]
+              ],
+              "sourceText": {
+                "label": "View governing document language",
+                "heading": "Bylaws \u2014 Elections & Terms",
+                "passages": [
+                  "Term Length: 3 years for each Director after Declarant Control Period ends.",
+                  "Filling Vacancies: Board fills vacancies (other than removals) by a majority vote of remaining Directors until the next annual meeting."
+                ],
+                "ref": "Fransson Farms Bylaws, Article 3"
+              }
             },
             {
               "heading": "Removing a Director",
@@ -404,7 +521,17 @@
                 "Decisions are made by majority vote of Directors present.",
                 "Meetings must be open to members, except closed sessions for legal, personnel, or rule violation matters.",
                 "Minutes must record the purpose of any closed session."
-              ]
+              ],
+              "sourceText": {
+                "label": "View meeting rules",
+                "heading": "Bylaws \u2014 Board Meetings",
+                "passages": [
+                  "Quorum: Majority of Directors present at the start of the meeting.",
+                  "Voting: Majority vote of Directors present governs decisions.",
+                  "Open Meetings: Meetings must be open to members, except closed sessions allowed for legal/personnel matters or rule violations (minutes must record purpose of closed sessions)."
+                ],
+                "ref": "Fransson Farms Bylaws, Board Meetings section"
+              }
             }
           ]
         },
@@ -413,12 +540,12 @@
           "blocks": [
             {
               "heading": "Officers of the Board",
-              "text": "Officers are elected annually by the Board following the annual members' meeting.",
+              "text": "Officers are elected annually by the Board following the annual members\u2019 meeting.",
               "cards": [
                 { "label": "President", "text": "Chairs meetings, signs documents, ensures Board actions are carried out." },
                 { "label": "Secretary", "text": "Records minutes, maintains Association records and member lists." },
                 { "label": "Treasurer", "text": "Manages financials, oversees audits, prepares budgets and reports." },
-                { "label": "Vice President", "text": "Acts in the President's absence." }
+                { "label": "Vice President", "text": "Acts in the President\u2019s absence." }
               ]
             },
             {
@@ -439,11 +566,25 @@
               "items": [
                 "Manage Association affairs and enforce governing documents.",
                 "Maintain and repair Common Areas.",
-                "Administer financial operations — budgeting, assessments, and reserve management.",
+                "Administer financial operations \u2014 budgeting, assessments, and reserve management.",
                 "Enter contracts and obtain insurance on behalf of the Association.",
                 "Oversee compliance with zoning, legal, and regulatory requirements.",
                 "Adopt and enforce rules, impose fines, and take corrective action against violations."
-              ]
+              ],
+              "sourceText": {
+                "label": "View full authority from governing documents",
+                "heading": "Bylaws & Declaration \u2014 Board Authority",
+                "passages": [
+                  "Manage Association affairs.",
+                  "Enforce governing documents.",
+                  "Maintain and repair Common Areas.",
+                  "Administer financial operations, including budgeting and assessments.",
+                  "Enter contracts and obtain insurance.",
+                  "Oversee compliance with zoning, legal, and regulatory requirements.",
+                  "The Board may form committees (e.g., Architectural Control Committee) and delegate tasks. Members or non-members may serve on committees."
+                ],
+                "ref": "Fransson Farms Bylaws and Declaration, Board Authority sections"
+              }
             },
             {
               "heading": "Amendments",
@@ -464,7 +605,7 @@
                 "Five Board members govern Fransson Farms with 3-year terms after the Declarant Control Period.",
                 "Any Director can be removed by majority vote of members at a duly called meeting.",
                 "The Board manages finances, enforces rules, and oversees all maintenance and legal matters.",
-                "Meetings must be open to members — closed sessions are limited to legal, personnel, and violation matters.",
+                "Meetings must be open to members \u2014 closed sessions are limited to legal, personnel, and violation matters.",
                 "Directors serve without compensation and are protected from personal liability when acting in good faith.",
                 "The Board may form committees (like the ACC) and delegate tasks as needed."
               ],
@@ -490,7 +631,15 @@
           "blocks": [
             {
               "heading": "Why It Exists",
-              "text": "Under Washington State law (RCW 64.90.610–.640 and RCW 64.34.425), a Resale Certificate is required in the sale of a unit in a common interest community like Fransson Farms. It informs the buyer of assessments, financial status, rule enforcement, pending litigation, and other vital information affecting the Lot and Association."
+              "text": "Under Washington State law (RCW 64.90.610\u2013.640 and RCW 64.34.425), a Resale Certificate is required in the sale of a unit in a common interest community like Fransson Farms. It informs the buyer of assessments, financial status, rule enforcement, pending litigation, and other vital information affecting the Lot and Association.",
+              "sourceText": {
+                "label": "View source language",
+                "heading": "Declaration \u2014 Resale Certificate Purpose",
+                "passages": [
+                  "\u201CIf a Lot is being sold, the Board shall have the right to notify the purchaser, the title insurance company, and the closing agent of the amount of unpaid Assessments and charges outstanding against the Lot, whether or not such information is requested.\u201D"
+                ],
+                "ref": "Fransson Farms Declaration; RCW 64.90.610\u2013.640"
+              }
             }
           ]
         },
@@ -501,14 +650,14 @@
               "heading": "Who Prepares It?",
               "text": "The Board or managing agent prepares the Resale Certificate upon request. The Association must respond within 10 days of a request for disclosure.",
               "action": {
-                "label": "If you're selling your home",
+                "label": "If you\u2019re selling your home",
                 "title": "How to get your Resale Certificate",
                 "steps": [
-                  "<strong>Request the certificate</strong> — contact the Board or Property Manager to initiate preparation.",
-                  "<strong>Pay the preparation fee</strong> — the seller is responsible for the cost, typically a reasonable administrative fee.",
-                  "<strong>Allow processing time</strong> — the Association must respond within 10 days.",
-                  "<strong>Review for accuracy</strong> — check assessment balances and any known violations before delivery.",
-                  "<strong>Deliver to the buyer before closing</strong> — the buyer has 5 days to cancel after receiving it."
+                  "<strong>Request the certificate</strong> \u2014 contact the Board or Property Manager to initiate preparation.",
+                  "<strong>Pay the preparation fee</strong> \u2014 the seller is responsible for the cost, typically a reasonable administrative fee.",
+                  "<strong>Allow processing time</strong> \u2014 the Association must respond within 10 days.",
+                  "<strong>Review for accuracy</strong> \u2014 check assessment balances and any known violations before delivery.",
+                  "<strong>Deliver to the buyer before closing</strong> \u2014 the buyer has 5 days to cancel after receiving it."
                 ]
               }
             }
@@ -535,7 +684,16 @@
                 "Use restrictions, leasing policies, and enforcement procedures.",
                 "Pending litigation involving the Association.",
                 "Any known violations associated with the Lot."
-              ]
+              ],
+              "sourceText": {
+                "label": "View required disclosures",
+                "heading": "Declaration & RCW 64.90 \u2014 Required Information",
+                "passages": [
+                  "Legal & Governance Disclosures: Current monthly assessments and unpaid balances; pending special assessments or capital projects; Bylaws, Declaration, Articles, and Rules of the Association; use restrictions, leasing policies, and enforcement procedures; pending litigation involving the Association; any known violations associated with the Lot.",
+                  "Property & Maintenance Disclosures: Description of Common Area rights and restrictions (\u00a7 16.1\u201316.2); responsibility for maintenance and repair (\u00a7 2.5, \u00a7 6.2); Association insurance policies and owner insurance obligations (\u00a7 15); delinquency collection policies and lien enforcement (\u00a7 7.10\u20137.12)."
+                ],
+                "ref": "Fransson Farms Declaration; RCW 64.90.610\u2013.640"
+              }
             },
             {
               "heading": "Property & Maintenance",
@@ -556,7 +714,7 @@
           "name": "Right to Cancel",
           "blocks": [
             {
-              "pullQuote": { "text": "Buyers have 5 days to cancel the purchase contract after receiving the Resale Certificate. If not received timely, the right to cancel may extend.", "caption": "Buyer cancellation window — RCW 64.90.640" }
+              "pullQuote": { "text": "Buyers have 5 days to cancel the purchase contract after receiving the Resale Certificate. If not received timely, the right to cancel may extend.", "caption": "Buyer cancellation window \u2014 RCW 64.90.640" }
             },
             {
               "heading": "Fees & Seller Responsibility",
@@ -579,7 +737,7 @@
           "blocks": [
             {
               "takeaways": [
-                "A Resale Certificate is mandatory for any Lot sale — required by Washington law.",
+                "A Resale Certificate is mandatory for any Lot sale \u2014 required by Washington law.",
                 "The seller is responsible for requesting and paying for it.",
                 "The Association must respond within 10 days of the request.",
                 "Buyers have 5 days to cancel after receiving the certificate.",
@@ -600,7 +758,7 @@
       "title": "Quick Reference",
       "desc": "Key numbers, deadlines, and thresholds from all governing documents in one place.",
       "updated": "April 2025",
-      "subtitle": "Every important number, deadline, and threshold from across all Fransson Farms governing document abstracts — consolidated into a single reference page.",
+      "subtitle": "Every important number, deadline, and threshold from across all Fransson Farms governing document abstracts.",
       "sections": [
         {
           "name": "Deadlines",
@@ -612,12 +770,8 @@
                 { "label": "ACC Start", "text": "Begin approved work within 2 months of approval." },
                 { "label": "ACC Completion", "text": "Finish approved work within 6 months of approval." },
                 { "label": "ACC Appeal", "text": "Board handles appeals within 30 days of written request." },
-                { "label": "Resale Response", "text": "Association must respond to Resale Certificate requests within 10 days." },
-                { "label": "Buyer Cancellation", "text": "Buyers have 5 days to cancel after receiving Resale Certificate." }
-              ],
-              "crossLinks": [
-                { "docId": "acc", "section": "Process", "label": "Full ACC process" },
-                { "docId": "resale", "section": "Right to Cancel", "label": "Buyer cancellation rights" }
+                { "label": "Resale Response", "text": "Association must respond within 10 days." },
+                { "label": "Buyer Cancellation", "text": "5 days to cancel after receiving Resale Certificate." }
               ]
             }
           ]
@@ -632,9 +786,6 @@
                 { "label": "Owner Liability Min", "text": "$300,000 minimum personal liability coverage required." },
                 { "label": "Cancellation Notice", "text": "30 days' written notice required before any policy cancellation or modification." },
                 { "label": "Damage Rule", "text": "Owners must repair damage regardless of insurance claim status." }
-              ],
-              "crossLinks": [
-                { "docId": "insurance", "section": "Homeowner", "label": "Full owner requirements" }
               ]
             }
           ]
@@ -649,9 +800,6 @@
                 { "label": "Terms", "text": "3-year terms after Declarant Control Period." },
                 { "label": "Removal", "text": "Majority vote of members at a duly called meeting." },
                 { "label": "Quorum", "text": "Majority of Directors present at meeting start." }
-              ],
-              "crossLinks": [
-                { "docId": "board", "section": "Structure", "label": "Current Board members" }
               ]
             }
           ]
@@ -663,12 +811,9 @@
               "heading": "Maintenance Thresholds",
               "cards": [
                 { "label": "Damage Threshold", "text": "Substantial damage (over 10% of fair market value) must be fully restored." },
-                { "label": "Emergency Access", "text": "Association may enter your Lot for emergencies — costs charged to Owner." },
+                { "label": "Emergency Access", "text": "Association may enter your Lot for emergencies \u2014 costs charged to Owner." },
                 { "label": "Neglect", "text": "Association may intervene, perform repairs, and levy Special Assessments." },
                 { "label": "Liens", "text": "Unpaid maintenance costs may be assessed as a lien on your property." }
-              ],
-              "crossLinks": [
-                { "docId": "maintenance", "section": "Consequences", "label": "Enforcement details" }
               ]
             }
           ]
@@ -679,7 +824,7 @@
           "blocks": [
             {
               "takeaways": [
-                "Submit ACC requests 30–60 days early. Start within 2 months, finish within 6.",
+                "Submit ACC requests 30\u201360 days early. Start within 2 months, finish within 6.",
                 "Maintain at least $300,000 in personal liability insurance coverage.",
                 "The Association must respond to Resale Certificate requests within 10 days.",
                 "Buyers have 5 days to cancel after receiving a Resale Certificate.",
