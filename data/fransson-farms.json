@@ -1,0 +1,709 @@
+{
+  "property": "Fransson Farms",
+  "abstracts": [
+    {
+      "id": "insurance",
+      "title": "Insurance Requirements",
+      "desc": "Association master policy and homeowner coverage obligations under the Declaration and Bylaws.",
+      "updated": "April 2025",
+      "subtitle": "The insurance provisions from the Declaration, Bylaws, and Articles of Incorporation outline coverage requirements for both the Association and individual homeowners.",
+      "sections": [
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "Association Insurance Policies",
+              "text": "The Association carries a comprehensive set of policies to protect the community's shared assets and leadership. The Board has discretion to determine appropriate policy limits and deductibles based on industry standards and risk management practices.",
+              "cards": [
+                { "label": "Property Insurance", "text": "Coverage for Association-owned property in Common Areas — entry monuments, mailbox stations, lighting, and other infrastructure." },
+                { "label": "General Liability", "text": "Protection from claims involving bodily injury, personal injury, or property damage in Common Areas." },
+                { "label": "D&O Insurance", "text": "Covers personal liability of Board and committee members for decisions made in good faith. Does not cover willful misconduct." },
+                { "label": "Fidelity Bond", "text": "Protects Association funds against theft, embezzlement, forgery, or computer fraud by those in financial control." },
+                { "label": "Workers' Comp", "text": "Required under Washington law if the Association directly employs maintenance staff or security personnel." },
+                { "label": "Flood / Earthquake", "text": "Not required by Declaration, but authorized at the Board's discretion when risk assessment or lender requirements indicate it." }
+              ]
+            },
+            {
+              "text": "All insurance must be obtained from carriers authorized to do business in the State of Washington. The Association reviews its policies annually for adequacy and compliance."
+            }
+          ]
+        },
+        {
+          "name": "Homeowner",
+          "blocks": [
+            {
+              "heading": "Your Insurance Obligations",
+              "text": "Every homeowner is required to maintain property and liability insurance. The Association's master policy covers Common Areas — it does not cover your home, belongings, or personal liability.",
+              "cards": [
+                { "label": "Property Insurance", "text": "Coverage for your home and structures on your Lot, with deductibles and exclusions as the Board may establish." },
+                { "label": "Personal Liability", "text": "Minimum $300,000 coverage for property damage, bodily injury, and death arising from use of your Lot and structures." },
+                { "label": "Loss Assessment", "text": "Advisable coverage for your share of Association claims or special assessments not covered by the master policy." }
+              ]
+            },
+            {
+              "action": {
+                "label": "If damage occurs to your property",
+                "title": "What to do when you need to file a claim",
+                "steps": [
+                  "<strong>Document everything</strong> — take photos, note the date, and identify the source of the damage.",
+                  "<strong>Determine responsibility</strong> — if damage is to your home or Lot, your policy applies. If it involves Common Areas, contact the Property Manager.",
+                  "<strong>File with your insurer</strong> — you are responsible for repairs regardless of insurance claim status.",
+                  "<strong>Notify the Association</strong> — provide proof of insurance upon request and report any damage affecting Common Areas."
+                ]
+              },
+              "crossLinks": [
+                { "docId": "maintenance", "section": "Emergencies", "label": "Emergency repair procedures" },
+                { "docId": "maintenance", "section": "Consequences", "label": "Negligence liability" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Provisions",
+          "blocks": [
+            {
+              "heading": "Special Conditions",
+              "items": [
+                "Any portion of a home or Lot that is damaged or destroyed must be repaired or replaced promptly by the Owner, regardless of insurance claim status.",
+                "All policies must not be canceled or substantially modified without at least 30 days' prior written notice to the Association.",
+                "Owners must provide proof of insurance to the Association upon request."
+              ]
+            },
+            {
+              "pullQuote": { "text": "Coverage may not be canceled or substantially modified without at least 30 days' prior written notice to all insureds named therein.", "caption": "Policy cancellation notice requirement" }
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "Policy Standards",
+              "items": [
+                "All insurance must be obtained from carriers authorized in Washington State.",
+                "Coverage must be generally acceptable for similar residential properties.",
+                "Owners must maintain minimum $300,000 personal liability coverage.",
+                "The Association reviews its policies annually for adequacy and compliance."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Association maintains property, liability, D&O, fidelity, and workers' comp insurance for Common Areas and governance.",
+                "You must carry property and liability insurance with at least $300,000 in liability coverage.",
+                "You are responsible for repairs to your home and Lot regardless of whether an insurance claim is filed.",
+                "No policy — yours or the Association's — can be canceled without 30 days' written notice.",
+                "The Association reviews all policies annually. Keep yours current and provide proof on request."
+              ],
+              "crossLinks": [
+                { "docId": "maintenance", "section": "Homeowner", "label": "What you're responsible for maintaining" },
+                { "docId": "acc", "section": "Requirements", "label": "Modifications requiring approval" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance Responsibilities",
+      "desc": "Homeowner and Association upkeep obligations, emergency procedures, and funding.",
+      "updated": "April 2025",
+      "subtitle": "The governing documents allocate distinct responsibilities for property upkeep between individual homeowners and the Association, based on whether the element is on a private Lot or designated Common Area.",
+      "sections": [
+        {
+          "name": "Homeowner",
+          "blocks": [
+            {
+              "heading": "What You Maintain",
+              "text": "You are responsible for maintaining, repairing, and replacing everything on your individual Lot and its improvements.",
+              "items": [
+                "Structures — homes and structural elements must be kept in clean, attractive, safe, and sanitary condition.",
+                "Landscaping — fully landscape front, rear, and side yards within required timeframes and maintain plantings in neat, trimmed condition.",
+                "Storm systems — catch basins and storm runoff infrastructure on your Lot must be cleaned and kept free of debris annually.",
+                "Damage repair — substantial damage (exceeding 10% of fair market value) must be restored to original or approved modified condition.",
+                "Trash and hazardous waste — use designated containers and never discharge hazardous substances on the Property.",
+                "Easements — do not obstruct easements on your Lot and maintain them.",
+                "Native Growth Areas — must remain undisturbed unless legally required otherwise.",
+                "Insurance — maintain adequate property and liability insurance with minimum $300,000 coverage."
+              ]
+            },
+            {
+              "action": {
+                "label": "If something needs repair on your property",
+                "title": "How to handle a maintenance issue",
+                "steps": [
+                  "<strong>Determine if it's yours or the Association's</strong> — is it on your Lot or in a Common Area? Structures, landscaping, and storm drains on your Lot are yours.",
+                  "<strong>If it's yours</strong> — arrange repairs directly. For structural work, use licensed contractors and check if ACC approval is needed.",
+                  "<strong>If it's the Association's</strong> — report it to the Property Manager.",
+                  "<strong>If it affects neighbors</strong> — report immediately. Failure to address issues that impact others may result in financial liability."
+                ]
+              },
+              "crossLinks": [
+                { "docId": "insurance", "section": "Homeowner", "label": "Filing an insurance claim" },
+                { "docId": "acc", "section": "Requirements", "label": "Do I need ACC approval?" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "What the Association Maintains",
+              "text": "The Association is responsible for all Common Areas, maintained to ensure compliance with legal and safety standards.",
+              "cards": [
+                { "label": "Storm Systems", "text": "Community storm systems and detention ponds." },
+                { "label": "Street Lighting", "text": "All street lighting in the community." },
+                { "label": "Entry & Landscaping", "text": "Entry monument and planting strips." },
+                { "label": "Mailboxes", "text": "Mailbox stations serving multiple Lots." },
+                { "label": "Native Growth Areas", "text": "Protected areas as required by law." },
+                { "label": "Rights-of-Way", "text": "Medians and rights-of-way when government entities do not maintain them." }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Emergencies",
+          "blocks": [
+            {
+              "heading": "Emergency Repairs",
+              "text": "The Association may enter your Lot to perform necessary maintenance or repairs in emergency situations, or when you fail to maintain components that pose a heightened risk.",
+              "pullQuote": { "text": "The Association may enter an Owner's Lot to perform emergency repairs. Prior notice is required except in emergencies. Costs will be charged back to the Owner.", "caption": "Emergency access — RCW 64.90.440" }
+            }
+          ]
+        },
+        {
+          "name": "Funding",
+          "blocks": [
+            {
+              "heading": "How Maintenance Is Paid For",
+              "text": "Association maintenance is funded through assessments collected from all Owners. If the Association has to step in and maintain your Lot due to neglect, the cost is charged back to you.",
+              "items": [
+                "Regular assessments fund routine Common Area maintenance and operations.",
+                "If the Association performs maintenance on your Lot due to neglect, costs may be levied as a Special Assessment on your Lot.",
+                "Unpaid amounts may be assessed as a lien against your property."
+              ],
+              "crossLinks": [
+                { "docId": "insurance", "section": "Provisions", "label": "Insurance shortfall assessments" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "What Happens If You Don't Maintain Your Property",
+              "text": "Neglecting your Lot doesn't just affect curb appeal — it can result in Association intervention, special assessments, and liens.",
+              "items": [
+                "The Association may intervene after notice and hearing if you fail to maintain your Lot or structures.",
+                "You will be required to reimburse the Association for all costs incurred.",
+                "Unpaid amounts may be assessed as a lien against your Lot.",
+                "Ongoing violations may subject you to further enforcement actions under the governing documents."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "You maintain your Lot, home, landscaping, and storm drains. The Association handles all Common Areas.",
+                "Substantial damage (over 10% of fair market value) must be fully restored to original or approved condition.",
+                "The Association can enter your Lot for emergency repairs — costs are charged back to you if it's your responsibility.",
+                "Neglect can result in Association intervention, special assessments, and liens on your property.",
+                "Proper insurance coverage ($300,000 minimum liability) is mandatory for all Owners."
+              ],
+              "crossLinks": [
+                { "docId": "insurance", "section": "Homeowner", "label": "Your insurance obligations" },
+                { "docId": "acc", "section": "Guidelines", "label": "Modification maintenance rules" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "title": "ACC Requests",
+      "desc": "Architectural Control Committee approval process for exterior modifications and construction.",
+      "updated": "April 2025",
+      "subtitle": "The ACC ensures all exterior construction, alterations, and repairs maintain architectural harmony and protect the aesthetic and property values of Fransson Farms.",
+      "sections": [
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "Do I Need Approval?",
+              "text": "If your project involves anything visible from the exterior or affects the structure of your property, the answer is yes. When in doubt, ask the ACC before starting.",
+              "items": [
+                "Initial construction or placement of any structure — homes, sheds, fences, etc.",
+                "Exterior modifications — roofing, painting, siding, trim, doors.",
+                "Landscaping changes — trees over 6 ft. at maturity, plantings, removals.",
+                "Recreational structures — play sets, pools, courts.",
+                "Add-ons — A/C units, chimneys, dog runs, basketball hoops.",
+                "Any structure or change visible from the exterior or affecting neighbors."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Process",
+          "blocks": [
+            {
+              "heading": "How to Get Approval",
+              "text": "Build in lead time — submit at least 30 days before your planned start date (60 days preferred for complex projects).",
+              "action": {
+                "label": "Before you start any project",
+                "title": "ACC approval step by step",
+                "steps": [
+                  "<strong>Prepare your application</strong> — gather the ACC Request Form, a drawn-to-scale site plan with elevations, detailed plans, specs, materials, and contractor info.",
+                  "<strong>Submit at least 30 days early</strong> (60 preferred) — file all documents with the ACC. Incomplete applications will delay review.",
+                  "<strong>ACC reviews within 30 days</strong> — they may request additional info or a site visit. Failure to respond within the timeline may imply approval.",
+                  "<strong>Receive written decision</strong> — all decisions are documented and stored.",
+                  "<strong>Start within 2 months, finish within 6</strong> — approved projects must begin within 2 months and be completed within 6 months of approval.",
+                  "<strong>Appeal if denied</strong> — the Board handles appeals within 30 days of a written request."
+                ]
+              }
+            },
+            {
+              "pullQuote": { "text": "Work must start within 2 months and be completed within 6 months of approval.", "caption": "ACC project timeline requirement" }
+            }
+          ]
+        },
+        {
+          "name": "Guidelines",
+          "blocks": [
+            {
+              "heading": "Materials & Design Standards",
+              "text": "All modifications must conform to approved height, building codes, and harmony with surrounding properties.",
+              "items": [
+                "Only certain materials and colors are permitted — e.g., 20-year asphalt shingles, neutral paint tones.",
+                "Vinyl siding is allowed if approved; T-111 plywood siding is not permitted.",
+                "Fencing must be wood (no chain link), stained only, with the finished side facing outward.",
+                "Pools, play areas, and courts must be screened and placed in rear yards.",
+                "Dog runs and kennels must be screened and located in rear yards."
+              ]
+            },
+            {
+              "heading": "Special Restrictions",
+              "items": [
+                "Modifications in easements or Native Growth Protection Areas are heavily restricted and require special permits.",
+                "Owners are responsible for obtaining any required government permits in addition to ACC approval."
+              ],
+              "crossLinks": [
+                { "docId": "maintenance", "section": "Homeowner", "label": "Owner maintenance obligations" },
+                { "docId": "insurance", "section": "Homeowner", "label": "How renovations affect insurance" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "What Happens Without Approval",
+              "text": "Projects started without written ACC approval are in immediate violation. The consequences are straightforward and enforceable.",
+              "items": [
+                "Unapproved or nonconforming work may require removal or correction at the owner's expense.",
+                "Owners may not reside on a lot until the home is completed, unless otherwise approved.",
+                "Work must start within 2 months and be completed within 6 months of approval — missed deadlines may void approval."
+              ],
+              "crossLinks": [
+                { "docId": "board", "section": "Authority", "label": "Board enforcement powers" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "All exterior work requires prior written ACC approval — no exceptions.",
+                "Submit a complete application at least 30 days before you plan to start (60 days preferred).",
+                "Use compatible materials that match community aesthetics and approved standards.",
+                "Start within 2 months and finish within 6 months of approval.",
+                "Ask the ACC if you're unsure whether your project needs approval — they can guide you."
+              ],
+              "crossLinks": [
+                { "docId": "insurance", "section": "Provisions", "label": "Insurance impact of modifications" },
+                { "docId": "maintenance", "section": "Consequences", "label": "Maintenance liability" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board",
+      "title": "Board of Directors",
+      "desc": "Governance structure, elections, authority, and current board composition.",
+      "updated": "April 2025",
+      "subtitle": "The Board of Directors is the governing body of Fransson Farms HOA — responsible for managing Association business, enforcing rules, overseeing maintenance, and protecting the community's interests.",
+      "sections": [
+        {
+          "name": "Structure",
+          "blocks": [
+            {
+              "heading": "Composition",
+              "cards": [
+                { "label": "Board Size", "text": "Five positions: President, Vice President, Secretary, Treasurer, and Member-at-Large." },
+                { "label": "Officer Requirement", "text": "All officers must be Board members. Additional positions may be created as needed." },
+                { "label": "Terms", "text": "3-year terms for each Director after the Declarant Control Period ends." }
+              ]
+            },
+            {
+              "heading": "Current Board Members",
+              "table": {
+                "headers": ["Position", "Name", "Term", "Dates"],
+                "rows": [
+                  ["President", "Chris Bender", "3 years", "03/2023 – 03/2026"],
+                  ["Secretary", "Lauren Jackson", "3 years", "04/2024 – 04/2027"],
+                  ["Treasurer", "Amanda Hanson", "3 years", "03/2025 – 03/2028"],
+                  ["Board Member", "Paul Tyndall", "3 years", "03/2023 – 03/2026"],
+                  ["Board Member", "Marcus Sullivan", "3 years", "04/2024 – 04/2027"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Elections",
+          "blocks": [
+            {
+              "heading": "How Elections Work",
+              "text": "Officers are elected annually by the Board following the annual members' meeting.",
+              "items": [
+                "Directors serve 3-year terms after the Declarant Control Period ends.",
+                "Vacancies (other than removals) are filled by majority vote of remaining Directors until the next annual meeting."
+              ]
+            },
+            {
+              "heading": "Removing a Director",
+              "pullQuote": { "text": "Directors can be removed with or without cause by a majority vote of members present at a duly called meeting with quorum.", "caption": "Director removal threshold" }
+            }
+          ]
+        },
+        {
+          "name": "Meetings",
+          "blocks": [
+            {
+              "heading": "Meetings & Decision-Making",
+              "items": [
+                "Quorum is a majority of Directors present at the start of the meeting.",
+                "Decisions are made by majority vote of Directors present.",
+                "Meetings must be open to members, except closed sessions for legal, personnel, or rule violation matters.",
+                "Minutes must record the purpose of any closed session."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Officers",
+          "blocks": [
+            {
+              "heading": "Officers of the Board",
+              "text": "Officers are elected annually by the Board following the annual members' meeting.",
+              "cards": [
+                { "label": "President", "text": "Chairs meetings, signs documents, ensures Board actions are carried out." },
+                { "label": "Secretary", "text": "Records minutes, maintains Association records and member lists." },
+                { "label": "Treasurer", "text": "Manages financials, oversees audits, prepares budgets and reports." },
+                { "label": "Vice President", "text": "Acts in the President's absence." }
+              ]
+            },
+            {
+              "heading": "Compensation & Liability",
+              "text": "Directors serve voluntarily with no compensation. Directors are not personally liable for actions taken in good faith on behalf of the Association.",
+              "crossLinks": [
+                { "docId": "insurance", "section": "Association", "label": "D&O insurance coverage" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Authority",
+          "blocks": [
+            {
+              "heading": "What the Board Can Do",
+              "text": "The Board has broad authority to govern the community, but must operate within the scope of the Declaration, Bylaws, and Articles.",
+              "items": [
+                "Manage Association affairs and enforce governing documents.",
+                "Maintain and repair Common Areas.",
+                "Administer financial operations — budgeting, assessments, and reserve management.",
+                "Enter contracts and obtain insurance on behalf of the Association.",
+                "Oversee compliance with zoning, legal, and regulatory requirements.",
+                "Adopt and enforce rules, impose fines, and take corrective action against violations."
+              ]
+            },
+            {
+              "heading": "Amendments",
+              "text": "Bylaws and governing documents can be amended per their provisions, generally requiring member approval. The Board cannot override rules adopted by a majority of owners. Certain actions like Common Area transfers require supermajority member approval.",
+              "crossLinks": [
+                { "docId": "acc", "section": "Consequences", "label": "Fine enforcement" },
+                { "docId": "maintenance", "section": "Consequences", "label": "Maintenance enforcement" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Five Board members govern Fransson Farms with 3-year terms after the Declarant Control Period.",
+                "Any Director can be removed by majority vote of members at a duly called meeting.",
+                "The Board manages finances, enforces rules, and oversees all maintenance and legal matters.",
+                "Meetings must be open to members — closed sessions are limited to legal, personnel, and violation matters.",
+                "Directors serve without compensation and are protected from personal liability when acting in good faith.",
+                "The Board may form committees (like the ACC) and delegate tasks as needed."
+              ],
+              "crossLinks": [
+                { "docId": "acc", "section": "Process", "label": "ACC approval process" },
+                { "docId": "maintenance", "section": "Funding", "label": "Assessment & reserve funding" },
+                { "docId": "insurance", "section": "Association", "label": "Association insurance policies" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resale",
+      "title": "Resale Certificate",
+      "desc": "Legally mandated disclosures required for the sale or transfer of any Lot.",
+      "updated": "April 2025",
+      "subtitle": "A Resale Certificate is required for the sale or transfer of any unit within Fransson Farms. It provides critical financial and governance disclosures to prospective buyers.",
+      "sections": [
+        {
+          "name": "Purpose",
+          "blocks": [
+            {
+              "heading": "Why It Exists",
+              "text": "Under Washington State law (RCW 64.90.610–.640 and RCW 64.34.425), a Resale Certificate is required in the sale of a unit in a common interest community like Fransson Farms. It informs the buyer of assessments, financial status, rule enforcement, pending litigation, and other vital information affecting the Lot and Association."
+            }
+          ]
+        },
+        {
+          "name": "Preparation",
+          "blocks": [
+            {
+              "heading": "Who Prepares It?",
+              "text": "The Board or managing agent prepares the Resale Certificate upon request. The Association must respond within 10 days of a request for disclosure.",
+              "action": {
+                "label": "If you're selling your home",
+                "title": "How to get your Resale Certificate",
+                "steps": [
+                  "<strong>Request the certificate</strong> — contact the Board or Property Manager to initiate preparation.",
+                  "<strong>Pay the preparation fee</strong> — the seller is responsible for the cost, typically a reasonable administrative fee.",
+                  "<strong>Allow processing time</strong> — the Association must respond within 10 days.",
+                  "<strong>Review for accuracy</strong> — check assessment balances and any known violations before delivery.",
+                  "<strong>Deliver to the buyer before closing</strong> — the buyer has 5 days to cancel after receiving it."
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "Financial Disclosures",
+              "items": [
+                "Current monthly assessments and unpaid balances.",
+                "Pending special assessments or capital projects.",
+                "Approved annual budget and reserves."
+              ],
+              "crossLinks": [
+                { "docId": "maintenance", "section": "Funding", "label": "How assessments work" }
+              ]
+            },
+            {
+              "heading": "Legal & Governance",
+              "items": [
+                "Bylaws, Declaration, Articles, and Rules of the Association.",
+                "Use restrictions, leasing policies, and enforcement procedures.",
+                "Pending litigation involving the Association.",
+                "Any known violations associated with the Lot."
+              ]
+            },
+            {
+              "heading": "Property & Maintenance",
+              "items": [
+                "Description of Common Area rights and restrictions.",
+                "Responsibility for maintenance and repair.",
+                "Association insurance policies and owner insurance obligations.",
+                "Delinquency collection policies and lien enforcement."
+              ],
+              "crossLinks": [
+                { "docId": "insurance", "section": "Association", "label": "Association insurance details" },
+                { "docId": "board", "section": "Authority", "label": "Governance structure" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Right to Cancel",
+          "blocks": [
+            {
+              "pullQuote": { "text": "Buyers have 5 days to cancel the purchase contract after receiving the Resale Certificate. If not received timely, the right to cancel may extend.", "caption": "Buyer cancellation window — RCW 64.90.640" }
+            },
+            {
+              "heading": "Fees & Seller Responsibility",
+              "text": "The seller is responsible for requesting the Resale Certificate and paying any preparation fees set by the Association or its managing agent."
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "Why Compliance Matters",
+              "text": "Accurate and timely disclosure is essential to protect both seller and buyer. Failure to provide a Resale Certificate may delay closing or expose the seller to liability. The Association must respond within 10 days of a request."
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "A Resale Certificate is mandatory for any Lot sale — required by Washington law.",
+                "The seller is responsible for requesting and paying for it.",
+                "The Association must respond within 10 days of the request.",
+                "Buyers have 5 days to cancel after receiving the certificate.",
+                "It includes financial, legal, governance, insurance, and maintenance disclosures."
+              ],
+              "crossLinks": [
+                { "docId": "insurance", "section": "Association", "label": "Association insurance overview" },
+                { "docId": "board", "section": "Structure", "label": "Current Board composition" },
+                { "docId": "maintenance", "section": "Funding", "label": "Assessment details" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reference",
+      "title": "Quick Reference",
+      "desc": "Key numbers, deadlines, and thresholds from all governing documents in one place.",
+      "updated": "April 2025",
+      "subtitle": "Every important number, deadline, and threshold from across all Fransson Farms governing document abstracts — consolidated into a single reference page.",
+      "sections": [
+        {
+          "name": "Deadlines",
+          "blocks": [
+            {
+              "heading": "Time-Sensitive Requirements",
+              "cards": [
+                { "label": "ACC Submission", "text": "Submit at least 30 days before start date (60 days preferred)." },
+                { "label": "ACC Start", "text": "Begin approved work within 2 months of approval." },
+                { "label": "ACC Completion", "text": "Finish approved work within 6 months of approval." },
+                { "label": "ACC Appeal", "text": "Board handles appeals within 30 days of written request." },
+                { "label": "Resale Response", "text": "Association must respond to Resale Certificate requests within 10 days." },
+                { "label": "Buyer Cancellation", "text": "Buyers have 5 days to cancel after receiving Resale Certificate." }
+              ],
+              "crossLinks": [
+                { "docId": "acc", "section": "Process", "label": "Full ACC process" },
+                { "docId": "resale", "section": "Right to Cancel", "label": "Buyer cancellation rights" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Insurance",
+          "blocks": [
+            {
+              "heading": "Insurance Essentials",
+              "cards": [
+                { "label": "Association Policies", "text": "Property, liability, D&O, fidelity bond, workers' comp, and optional flood/earthquake." },
+                { "label": "Owner Liability Min", "text": "$300,000 minimum personal liability coverage required." },
+                { "label": "Cancellation Notice", "text": "30 days' written notice required before any policy cancellation or modification." },
+                { "label": "Damage Rule", "text": "Owners must repair damage regardless of insurance claim status." }
+              ],
+              "crossLinks": [
+                { "docId": "insurance", "section": "Homeowner", "label": "Full owner requirements" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Board",
+          "blocks": [
+            {
+              "heading": "Governance Numbers",
+              "cards": [
+                { "label": "Directors", "text": "5 Board members: President, VP, Secretary, Treasurer, Member-at-Large." },
+                { "label": "Terms", "text": "3-year terms after Declarant Control Period." },
+                { "label": "Removal", "text": "Majority vote of members at a duly called meeting." },
+                { "label": "Quorum", "text": "Majority of Directors present at meeting start." }
+              ],
+              "crossLinks": [
+                { "docId": "board", "section": "Structure", "label": "Current Board members" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maintenance",
+          "blocks": [
+            {
+              "heading": "Maintenance Thresholds",
+              "cards": [
+                { "label": "Damage Threshold", "text": "Substantial damage (over 10% of fair market value) must be fully restored." },
+                { "label": "Emergency Access", "text": "Association may enter your Lot for emergencies — costs charged to Owner." },
+                { "label": "Neglect", "text": "Association may intervene, perform repairs, and levy Special Assessments." },
+                { "label": "Liens", "text": "Unpaid maintenance costs may be assessed as a lien on your property." }
+              ],
+              "crossLinks": [
+                { "docId": "maintenance", "section": "Consequences", "label": "Enforcement details" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Submit ACC requests 30–60 days early. Start within 2 months, finish within 6.",
+                "Maintain at least $300,000 in personal liability insurance coverage.",
+                "The Association must respond to Resale Certificate requests within 10 days.",
+                "Buyers have 5 days to cancel after receiving a Resale Certificate.",
+                "Substantial property damage (over 10% FMV) must be fully restored.",
+                "Directors serve 3-year terms and can be removed by majority vote."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quickAnswers": [
+    { "question": "Do I need approval for my project?", "docId": "acc", "section": "Requirements" },
+    { "question": "What insurance do I need?", "docId": "insurance", "section": "Homeowner" },
+    { "question": "How do I report a maintenance issue?", "docId": "maintenance", "section": "Homeowner" },
+    { "question": "Who's on the Board?", "docId": "board", "section": "Structure" },
+    { "question": "What happens if I skip ACC approval?", "docId": "acc", "section": "Consequences" },
+    { "question": "Am I liable if my property causes damage?", "docId": "insurance", "section": "Provisions" },
+    { "question": "How are HOA dues used?", "docId": "maintenance", "section": "Funding" },
+    { "question": "What's needed to sell my home?", "docId": "resale", "section": "Preparation" },
+    { "question": "What if I don't pay my assessments?", "docId": "maintenance", "section": "Consequences" },
+    { "question": "How do I get on the Board?", "docId": "board", "section": "Elections" },
+    { "question": "What materials can I use for fencing?", "docId": "acc", "section": "Guidelines" },
+    { "question": "What's the minimum liability coverage?", "docId": "insurance", "section": "Compliance" }
+  ]
+}
