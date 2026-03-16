@@ -4,28 +4,28 @@
     {
       "id": "insurance",
       "title": "Insurance Requirements",
-      "desc": "Association master policy and unit owner coverage obligations under the Declaration and Bylaws.",
+      "desc": "Association master policy and unit owner coverage obligations under the Declaration.",
       "updated": "March 2026",
-      "subtitle": "The Association maintains comprehensive insurance for common areas and facilities, while unit owners are responsible for personal property and unit-specific risks.",
+      "subtitle": "The Association maintains comprehensive insurance for common areas and facilities, while unit owners must cover personal property and unit-specific risks.",
       "sections": [
         {
           "name": "Association",
           "blocks": [
             {
               "heading": "Association Insurance Policies",
-              "text": "The Association is required to maintain comprehensive insurance for the common areas and facilities of the condominium. These policies are funded as a common expense through assessments based on each owner\u2019s percentage of ownership.",
+              "text": "The Association is obligated to maintain comprehensive coverage for common areas and facilities, funded through owner assessments based on ownership percentages.",
               "cards": [
                 { "label": "Fire Insurance", "text": "Full insurable replacement value of common areas and facilities, without deduction for depreciation." },
-                { "label": "Liability Insurance", "text": "$200,000 per person injured, $500,000 per accident, and $50,000 for property damage. Limits reviewed annually." },
-                { "label": "Workers' Comp", "text": "As required by Washington state laws for employees or contractors on Association-managed property." },
-                { "label": "Fidelity Bonds", "text": "For Board members and relevant personnel to protect against financial misconduct." }
+                { "label": "Liability Insurance", "text": "$200,000 per person / $500,000 per accident / $50,000 property damage \u2014 subject to annual review and Board increase." },
+                { "label": "Workers' Comp", "text": "Required under Washington law for employees or contractors on Association property." },
+                { "label": "Fidelity Bonds", "text": "Required for Board members and relevant personnel to protect against financial misconduct." }
               ],
               "sourceText": {
                 "label": "View exact policy language",
                 "heading": "Declaration \u2014 Article 12.1",
                 "passages": [
                   "The Association must secure fire insurance with extended coverage endorsement, covering the full insurable replacement value of the common areas and facilities, without deduction for depreciation.",
-                  "Liability insurance with minimum coverage limits of $200,000 per person injured, $500,000 per accident, and $50,000 for property damage. These limits are subject to annual review.",
+                  "Liability insurance with minimum coverage limits of $200,000 per person injured, $500,000 per accident, and $50,000 for property damage. These limits are subject to annual review and may be increased at the Board\u2019s discretion.",
                   "Workers\u2019 compensation insurance as required by applicable Washington state laws.",
                   "Fidelity bonds for Board members and other relevant personnel to protect against financial misconduct."
                 ],
@@ -39,20 +39,20 @@
           "blocks": [
             {
               "heading": "Your Insurance Obligations",
-              "text": "The Association\u2019s policies do not cover your personal belongings or unit-specific risks. You need your own coverage for everything inside your unit.",
+              "text": "You are responsible for insuring everything the Association\u2019s policy doesn\u2019t cover \u2014 your personal property, unit-specific risks, and any improvements over $1,000.",
               "cards": [
-                { "label": "Personal Property", "text": "Insurance for all personal property within your unit \u2014 the Association\u2019s policy does not cover individual belongings." },
-                { "label": "Improvements Over $1,000", "text": "Notify the Board of any improvements valued over $1,000 and file copies of insurance policies covering them." },
-                { "label": "Unit-Specific Liability", "text": "Coverage for damages caused by plumbing fixtures, appliances, or equipment within your unit, including hot water tanks." }
+                { "label": "Personal Property", "text": "Insurance for all personal belongings within your unit \u2014 the Association\u2019s policies do not cover individual items." },
+                { "label": "Improvements Over $1K", "text": "You must notify the Board of any improvements valued over $1,000 and file copies of insurance policies covering them." },
+                { "label": "Unit-Specific Risks", "text": "Coverage for damages caused by plumbing, appliances, or equipment within your unit \u2014 including hot water tank leaks." }
               ],
               "sourceText": {
-                "label": "View exact owner requirements",
-                "heading": "Declaration \u2014 Article 12 (Pages 73\u201374)",
+                "label": "View exact language",
+                "heading": "Declaration \u2014 Article 12",
                 "passages": [
                   "Owners must secure insurance for personal property within their units, as the Association\u2019s policies do not cover individual belongings.",
                   "Owners are required to notify the Board of any improvements to their unit valued over $1,000, as these may affect the overall insurable value of the condominium.",
                   "Owners must file copies of any individual insurance policies covering such improvements with the Association.",
-                  "Owners are responsible for insuring against risks specific to their units, such as damages caused by plumbing fixtures, appliances, or other equipment within their unit."
+                  "Owners are responsible for insuring against risks specific to their units, such as damages caused by plumbing fixtures, appliances, or other equipment."
                 ],
                 "ref": "Shannon Heights Declaration, Article 12 (Pages 73\u201374)"
               }
@@ -62,10 +62,10 @@
                 "label": "If damage occurs in your unit",
                 "title": "What to do when you need to file a claim",
                 "steps": [
-                  "<strong>Document the damage</strong> \u2014 take photos, note the date, and identify the source.",
-                  "<strong>Determine responsibility</strong> \u2014 if it\u2019s within your unit (plumbing, appliances, personal property), your insurance applies. If it involves common areas, contact management.",
-                  "<strong>File with your insurer</strong> \u2014 you are responsible for unit-specific losses.",
-                  "<strong>Notify Phillips Real Estate</strong> \u2014 (206) 622-8600 \u2014 if the damage affects common areas or other units."
+                  "<strong>Document the damage</strong> \u2014 take photos and identify the source.",
+                  "<strong>Determine responsibility</strong> \u2014 if damage is from your unit\u2019s plumbing or appliances, your policy applies. If it involves common areas, contact management.",
+                  "<strong>Report to AGM Real Estate Group</strong> \u2014 call (206) 622-8600 for any damage affecting common areas or other units.",
+                  "<strong>File with your insurer</strong> \u2014 you are responsible for unit-specific damage regardless of Association coverage."
                 ]
               },
               "crossLinks": [
@@ -80,9 +80,9 @@
             {
               "heading": "Special Conditions",
               "items": [
-                "The Association\u2019s insurer\u2019s liability is not affected by other insurance obtained by unit owners \u2014 no set-off, counterclaim, or contribution by reason of additional owner policies.",
-                "Policies include a mortgagee clause protecting institutional first mortgagees. Settlements exceeding $2,500 require mortgagee approval.",
-                "Insurance policies must not be affected by hazardous use or vacancy of the property \u2014 continuous coverage regardless of occupancy.",
+                "The Association\u2019s insurer\u2019s liability is not affected by other insurance obtained by unit owners \u2014 no set-off, counterclaim, or contribution.",
+                "Policies must include a mortgagee clause protecting institutional first mortgagees. Settlements exceeding $2,500 require mortgagee approval.",
+                "Insurance policies must not be affected by hazardous use or vacancy of the property.",
                 "In cases of damage, the Board may authorize emergency work funded by insurance proceeds or assessments."
               ],
               "sourceText": {
@@ -91,7 +91,7 @@
                 "passages": [
                   "The Association\u2019s insurance policies must include provisions ensuring that the insurer\u2019s liability is not affected by other insurance obtained by unit owners. This prevents set-off, counterclaim, apportionment, proration, or contribution by reason of additional owner policies.",
                   "Policies must include a mortgagee clause that protects institutional first mortgagees. Any settlement exceeding $2,500 requires mortgagee approval, provided such approval is not unreasonably withheld.",
-                  "Insurance policies must not be affected by hazardous use or vacancy of the property, ensuring continuous coverage regardless of occupancy status.",
+                  "Insurance policies must not be affected by hazardous use or vacancy of the property, ensuring continuous coverage.",
                   "In cases of damage or destruction, the Board may authorize emergency work to prevent further damage, funded by insurance proceeds or assessments (Article 13.3.2)."
                 ],
                 "ref": "Shannon Heights Declaration, Articles 12\u201313 (Pages 74\u201378)"
@@ -103,13 +103,12 @@
           "name": "Compliance",
           "blocks": [
             {
-              "heading": "Board Oversight & Owner Compliance",
+              "heading": "Board Oversight & Owner Obligations",
               "items": [
-                "The Board annually reviews and adjusts insurance coverage limits to ensure adequacy.",
-                "Owners must promptly notify the Board of improvements exceeding $1,000 and provide copies of individual insurance policies.",
+                "The Board annually reviews and adjusts insurance coverage limits, obtaining at least two firm bids for repair estimates.",
+                "Owners must notify the Board of improvements exceeding $1,000 and provide copies of individual insurance policies.",
                 "Insurance costs are included in common expense assessments based on ownership percentage.",
-                "Non-payment of assessments can lead to liens or foreclosure.",
-                "Owners must ensure tenants comply with insurance-related obligations."
+                "Non-payment of assessments can lead to liens or foreclosure."
               ]
             }
           ]
@@ -120,11 +119,11 @@
           "blocks": [
             {
               "takeaways": [
-                "The Association maintains fire, liability, workers\u2019 comp, and fidelity bond insurance for common areas \u2014 funded through your assessments.",
-                "You must insure your personal property and unit-specific risks. Notify the Board of any improvements over $1,000.",
-                "Mortgagee protections are built into all policies \u2014 settlements over $2,500 need mortgagee approval.",
-                "The Board reviews coverage annually. Non-payment of assessments can lead to liens or foreclosure.",
-                "Contact Phillips Real Estate (206-622-8600) for insurance questions or to report damage."
+                "The Association maintains fire, liability, workers\u2019 comp, and fidelity bond coverage for common areas \u2014 funded through your assessments.",
+                "You must insure your personal property, unit-specific risks, and any improvements over $1,000.",
+                "Notify the Board and file insurance copies for any unit improvements valued over $1,000.",
+                "Mortgagee approval is required for insurance settlements exceeding $2,500.",
+                "Non-payment of assessments (which fund insurance) can lead to liens or foreclosure."
               ],
               "crossLinks": [
                 { "docId": "maintenance", "section": "Unit Owner", "label": "Your maintenance obligations" },
@@ -140,29 +139,30 @@
       "title": "Maintenance Responsibilities",
       "desc": "Unit owner and Association upkeep obligations, emergency procedures, and enforcement.",
       "updated": "March 2026",
-      "subtitle": "Rules for maintaining units and common areas, balancing individual owner obligations with collective responsibilities to minimize costs and preserve property value.",
+      "subtitle": "Rules for property maintenance are outlined in the Declaration, Bylaws, and House Rules to balance individual owner obligations with collective responsibilities.",
       "sections": [
         {
           "name": "Unit Owner",
           "blocks": [
             {
               "heading": "What You Maintain",
-              "text": "You are responsible for everything inside your unit and assigned limited common areas like decks. You must also ensure your tenants comply with all rules.",
+              "text": "You are responsible for your unit interior, assigned limited common areas (decks, lanais), and ensuring your tenants comply with all rules.",
               "items": [
                 "Interior maintenance \u2014 appliances, plumbing, electrical fixtures, wiring, water heaters, wall and floor coverings, and mailboxes.",
                 "Limited common areas \u2014 decks and lanais must be maintained without modification or damage (no drilling, no heavy planters directly on surfaces).",
-                "Tenant oversight \u2014 provide tenants with House Rules and you are liable for any tenant-caused damage.",
-                "Leak prevention \u2014 turn off washer valves when away, maintain hot water tanks, and avoid actions increasing insurance rates.",
-                "Move-in/move-out \u2014 coordinate with management, pay $250 fee, and remove trash promptly."
+                "Tenant oversight \u2014 provide tenants with House Rules and ensure compliance. You are liable for tenant-caused damage.",
+                "Leak prevention \u2014 turn off washer valves when away and maintain hot water tanks.",
+                "Board approval required for any structural or exterior changes.",
+                "Move-in/move-out \u2014 coordinate activities, pay associated fees ($250), and remove trash promptly."
               ],
               "sourceText": {
-                "label": "View exact responsibilities from governing documents",
+                "label": "View exact language from House Rules",
                 "heading": "Declaration & House Rules",
                 "passages": [
                   "Owners are responsible for maintaining, repairing, and replacing all elements within their unit, including appliances, plumbing, electrical fixtures, wiring, water heaters, wall and floor coverings, and mailboxes.",
-                  "Owners must maintain assigned limited common areas (e.g., decks, lanais) without modifying or damaging them. No drilling into exterior stucco. Heavy planters must be supported on foam or neoprene and precast concrete pavers.",
+                  "Owners must maintain assigned limited common areas (e.g., decks, lanais) without modifying or damaging them. No drilling into exterior stucco. No heavy planters directly on deck surfaces.",
                   "Owners leasing units must ensure tenants comply with all rules, provide tenants with House Rules, and are liable for tenant-caused damage.",
-                  "Owners must prevent leaks (e.g., turn off washer valves when away, maintain hot water tanks), avoid actions increasing insurance rates, and obtain Board approval for structural or exterior changes."
+                  "Owners must prevent leaks (e.g., turn off washer valves when away, maintain hot water tanks) and avoid actions increasing insurance rates."
                 ],
                 "ref": "Shannon Heights Declaration & House Rules"
               }
@@ -174,13 +174,13 @@
                 "steps": [
                   "<strong>Determine responsibility</strong> \u2014 interior components and unit-exclusive systems are yours. Common areas and building systems are the Association\u2019s.",
                   "<strong>If it\u2019s yours</strong> \u2014 arrange repairs directly. Get Board approval for any exterior or structural work.",
-                  "<strong>If it\u2019s the Association\u2019s</strong> \u2014 contact Phillips Real Estate at (206) 622-8600.",
+                  "<strong>If it\u2019s the Association\u2019s</strong> \u2014 report to AGM Real Estate Group at (206) 622-8600.",
                   "<strong>If it\u2019s urgent</strong> \u2014 report immediately. You may be liable for damage caused by delay."
                 ]
               },
               "crossLinks": [
                 { "docId": "insurance", "section": "Unit Owner", "label": "Filing an insurance claim" },
-                { "docId": "acc", "section": "Requirements", "label": "Do I need Board approval?" }
+                { "docId": "acc", "section": "Requirements", "label": "Do I need ACC approval?" }
               ]
             }
           ]
@@ -190,12 +190,12 @@
           "blocks": [
             {
               "heading": "What the Association Maintains",
-              "text": "The HOA handles all common areas, building-wide systems, and exterior components.",
+              "text": "The HOA handles all common areas, building-wide systems, and exterior building components.",
               "cards": [
-                { "label": "Common Areas", "text": "Hallways, stairwells, lobbies, garages, grounds, and roofs." },
-                { "label": "Exterior", "text": "Building exterior components including railings and exterior deck surfaces." },
-                { "label": "Building Systems", "text": "Shared water, sewer, and electrical services affecting the entire building." },
-                { "label": "Administration", "text": "Reserve accounts, budgets, assessments, and management of maintenance operations." }
+                { "label": "Common Areas", "text": "Hallways, stairwells, lobbies, garages, grounds, roofs." },
+                { "label": "Exterior Components", "text": "Railings, exterior deck surfaces, and building facade." },
+                { "label": "Building Systems", "text": "Water, sewer, and electrical services affecting the entire building." },
+                { "label": "Administration", "text": "Reserve accounts, budgets, assessments, and contractor management." }
               ]
             }
           ]
@@ -205,18 +205,8 @@
           "blocks": [
             {
               "heading": "Emergency Repairs",
-              "text": "The HOA can authorize immediate repairs to prevent further damage or safety risks. For significant emergencies, the Board may confer via phone or email to expedite decisions.",
-              "pullQuote": { "text": "Report urgent issues \u2014 leaks, structural damage \u2014 to Phillips Real Estate at (206) 622-8600 for prompt action.", "caption": "Emergency contact" },
-              "sourceText": {
-                "label": "View emergency provisions",
-                "heading": "Declaration & Bylaws",
-                "passages": [
-                  "The HOA can authorize immediate repairs for emergencies to prevent further damage or ensure safety, with costs potentially covered by reserve funds or special assessments.",
-                  "For significant emergencies, the Board may confer via phone or email to expedite decisions.",
-                  "The Board may enter apartments for emergency repairs or maintenance with minimal inconvenience, with immediate entry permitted in emergencies (Bylaws, Article 6.3)."
-                ],
-                "ref": "Shannon Heights Declaration & Bylaws, Article 6.3"
-              }
+              "text": "The HOA can authorize immediate repairs for emergencies, with costs covered by reserve funds or special assessments. The Board may confer via phone or email to expedite decisions.",
+              "pullQuote": { "text": "Report urgent issues to AGM Real Estate Group at (206) 622-8600 for prompt action. For significant emergencies, the Board may confer via phone or email to expedite decisions.", "caption": "Emergency contact and procedures" }
             }
           ]
         },
@@ -225,26 +215,15 @@
           "blocks": [
             {
               "heading": "How Maintenance Is Funded",
-              "text": "Your monthly assessments cover routine maintenance and building operations. A reserve account handles unexpected costs.",
+              "text": "Monthly assessments cover routine maintenance. A reserve account handles unexpected costs. Special assessments may apply for major projects.",
               "items": [
                 "Monthly assessments based on ownership percentage cover water, sewer, garbage, and common area upkeep.",
-                "A reserve account is maintained for unforeseen or unbudgeted costs.",
-                "Special assessments may be levied for major repairs \u2014 expenses over $5,000 may require owner approval.",
-                "Unpaid assessments or fines result in liens on the unit."
+                "Reserve account maintained for unforeseen or unbudgeted costs.",
+                "Special assessments for specific repairs or major projects exceeding $5,000 may require owner approval.",
+                "Move-in/move-out fee: $250. Reserved parking: $44\u2013$110."
               ],
               "crossLinks": [
-                { "docId": "insurance", "section": "Compliance", "label": "Insurance assessment costs" }
-              ]
-            },
-            {
-              "heading": "Fees & Fines",
-              "cards": [
-                { "label": "Move-In/Out Fee", "text": "$250 (as of 2017)." },
-                { "label": "Reserved Parking", "text": "$44\u2013$110 depending on space." },
-                { "label": "Second Infraction", "text": "Minimum $50 fine." },
-                { "label": "Ongoing Violations", "text": "Minimum $200 fine per occurrence until corrected." },
-                { "label": "Tenant Violations", "text": "$100 per occurrence." },
-                { "label": "Unapproved Rental", "text": "$200 fine." }
+                { "docId": "insurance", "section": "Compliance", "label": "Assessment obligations" }
               ]
             }
           ]
@@ -254,16 +233,28 @@
           "blocks": [
             {
               "heading": "What Happens If You Don\u2019t Comply",
-              "text": "Non-compliance carries real financial consequences \u2014 fines, repair costs, liens, and potential legal action.",
+              "text": "The enforcement structure is clear and escalating \u2014 from warnings to fines to liens to legal action.",
               "items": [
-                "First infraction receives a warning. Second infraction incurs a minimum $50 fine. Ongoing violations incur $200+ fines.",
-                "Owners are financially responsible for damage to common or limited common areas caused by themselves, tenants, or guests.",
+                "First infraction: written warning.",
+                "Second infraction: minimum $50 fine.",
+                "Continuing infractions: minimum $200 fine until corrected.",
+                "Tenant violations: $100 per occurrence.",
+                "Unapproved rentals: $200 fine.",
+                "Non-payment within 30 days leads to a lien on the unit.",
                 "Deck damage from negligence could exceed $8,000 in repair costs.",
-                "Non-payment of fines within 30 days leads to a lien on the unit.",
-                "The HOA may pursue legal action, with owners liable for attorney fees and costs.",
-                "Non-compliance with rental rules may result in loss of rental privileges or termination of parking agreements."
+                "The HOA may pursue legal action with attorney fees charged to the owner."
               ],
-              "pullQuote": { "text": "Deck damage from negligence could exceed $8,000 in repair costs. Owners are fully liable for damage caused by themselves, tenants, or guests.", "caption": "Potential repair liability" }
+              "sourceText": {
+                "label": "View exact fine schedule",
+                "heading": "House Rules \u2014 Addendum 4",
+                "passages": [
+                  "Violations incur a warning for the first infraction, a minimum $50 fine for the second, and a minimum $200 fine for continuing infractions until corrected.",
+                  "Owners are liable for repair costs due to negligence or unauthorized changes, e.g., deck damage from improper planter placement or glued carpet.",
+                  "Unpaid fines or repair costs result in a lien against the owner\u2019s unit.",
+                  "Owners are responsible for attorney fees and costs if legal action is needed to enforce compliance."
+                ],
+                "ref": "Shannon Heights House Rules, Addendum 4; Declaration, Sections 11.2 & 18.1"
+              }
             }
           ]
         },
@@ -273,16 +264,16 @@
           "blocks": [
             {
               "takeaways": [
-                "You maintain your unit interior and assigned limited common areas (decks). The HOA handles common areas and building systems.",
-                "Deck maintenance is critical \u2014 no drilling, no heavy planters on bare surfaces, no glued carpet. Damage from negligence can cost $8,000+.",
-                "Emergency repairs go through Phillips Real Estate at (206) 622-8600.",
-                "Fines escalate: warning, then $50, then $200+ per occurrence. Non-payment within 30 days becomes a lien.",
-                "You are responsible for your tenants\u2019 compliance. Tenant violations cost $100 each.",
-                "Get Board approval for all exterior or structural changes before starting work."
+                "You maintain your unit interior and assigned decks/lanais. The HOA handles common areas and building systems.",
+                "Report emergencies to AGM Real Estate Group at (206) 622-8600 immediately.",
+                "Monthly assessments fund routine maintenance. Reserve funds cover unexpected costs.",
+                "Fines escalate from warnings to $50 to $200+ for continuing violations. Deck negligence alone can cost over $8,000.",
+                "You are liable for damage caused by you, your tenants, or your guests.",
+                "Contact AGM Real Estate Group (206-622-8600) for all maintenance requests."
               ],
               "crossLinks": [
                 { "docId": "insurance", "section": "Unit Owner", "label": "Your insurance obligations" },
-                { "docId": "acc", "section": "Guidelines", "label": "Deck maintenance rules" }
+                { "docId": "acc", "section": "Guidelines", "label": "Deck and exterior rules" }
               ]
             }
           ]
@@ -292,36 +283,33 @@
     {
       "id": "acc",
       "title": "ACC Requests",
-      "desc": "Architectural Control Committee approval process for exterior, structural, and common area modifications.",
+      "desc": "Architectural Control Committee approval process for modifications to units and common areas.",
       "updated": "March 2026",
-      "subtitle": "The Board of Directors manages architectural control to ensure uniform exterior appearance, structural integrity, and compliance with governing documents.",
+      "subtitle": "The Board of Directors manages the ACC function, ensuring a uniform exterior appearance and structural integrity at Shannon Heights.",
       "sections": [
         {
           "name": "Requirements",
           "blocks": [
             {
               "heading": "What Requires Approval?",
-              "text": "All modifications to your unit\u2019s exterior, structure, or anything impacting common or limited common elements need prior written Board approval.",
+              "text": "All modifications to exteriors, structures, or common/limited common areas require prior written Board approval. When in doubt, ask first.",
               "items": [
-                "Exterior modifications \u2014 painting, alterations to decks, doors, windows, or any exterior-visible portion of a unit.",
-                "Structural changes \u2014 alterations to structural components, including subdividing or combining units.",
-                "Common and limited common areas \u2014 attaching plant boxes, installing carpet, or adding structures like trellises to hallways, stairwells, roof decks, or unit decks.",
-                "Signs \u2014 displaying signs, notices, or advertisements, except for approved \u201CFor Sale\u201D signs."
+                "Exterior modifications \u2014 painting, altering doors, windows, decks, or any exterior-visible portion of a unit.",
+                "Structural changes \u2014 including subdividing or combining units (requires 66\u2154% owner vote).",
+                "Common and limited common areas \u2014 attaching plant boxes, installing carpet, adding trellises to hallways, stairwells, or roof decks.",
+                "Signs \u2014 no signs, notices, or advertisements except approved \u201CFor Sale\u201D signs."
               ],
               "sourceText": {
-                "label": "View exact requirements",
-                "heading": "House Rules & Declaration",
+                "label": "View exact requirements from governing documents",
+                "heading": "Declaration & House Rules",
                 "passages": [
-                  "Exterior Modifications: Any painting, modification, or alteration to the building, decks, doors, windows, or other exterior-visible portions of a unit (House Rules, Rule 17; Declaration, Section 10.5).",
-                  "Structural Changes: Alterations to structural components of a unit, including subdividing or combining units (Declaration, Section 24.1).",
-                  "Common and Limited Common Areas: Changes to common areas or limited common areas, such as attaching plant boxes, installing carpet, or adding structures like trellises (House Rules, Rule 16; Declaration, Section 10.11).",
-                  "Signs: Displaying signs, notices, or advertisements in units or common areas, except for approved \u201CFor Sale\u201D signs (House Rules, Rule 5, Addendum 2)."
+                  "Any painting, modification, or alteration to the building, decks, doors, windows, or other exterior-visible portions of a unit requires Board approval (House Rules, Rule 17; Declaration, Section 10.5).",
+                  "Alterations to structural components of a unit, including subdividing or combining units, require a vote of owners holding more than 66\u2154% of the voting power (Declaration, Section 24.1.2).",
+                  "Changes to common areas (hallways, stairwells, roof decks) or limited common areas (unit decks) require approval \u2014 including plant boxes, carpet, and trellises (House Rules, Rule 16; Declaration, Section 10.11).",
+                  "No signs, notices, or advertisements may be displayed except approved \u2018For Sale\u2019 signs (House Rules, Rule 5, Addendum 2)."
                 ],
-                "ref": "Shannon Heights House Rules, Rules 5, 16, 17; Declaration, Sections 10.5, 10.11, 24.1"
+                "ref": "Shannon Heights Declaration, Sections 10.5, 10.11, 24.1; House Rules, Rules 5, 16, 17"
               }
-            },
-            {
-              "pullQuote": { "text": "Structural changes like subdividing or combining units require a vote of owners holding more than 66\u2154% of the voting power.", "caption": "Major modification threshold \u2014 Declaration, Section 24.1.2" }
             }
           ]
         },
@@ -334,11 +322,11 @@
                 "label": "Before you start any modification",
                 "title": "ACC approval step by step",
                 "steps": [
-                  "<strong>Contact Phillips Real Estate</strong> \u2014 (206) 622-8600 \u2014 to submit your written request with detailed plans and specifications.",
-                  "<strong>Board reviews for compliance</strong> \u2014 the Board evaluates your request against the Declaration, Bylaws, and House Rules.",
-                  "<strong>Obtain additional approvals if needed</strong> \u2014 you may need Declaration amendments, Lake Forest Park city building permits, insurance coverage, and other provisions.",
-                  "<strong>Receive written approval</strong> \u2014 do not begin work until you have written Board consent.",
-                  "<strong>For structural changes</strong> \u2014 approval requires 66\u2154% of voting power."
+                  "<strong>Contact AGM Real Estate Group</strong> \u2014 call (206) 622-8600 to submit your written request with detailed plans and specifications.",
+                  "<strong>Board reviews for compliance</strong> \u2014 the Board evaluates against governing documents.",
+                  "<strong>Structural changes need 66\u2154% vote</strong> \u2014 subdividing or combining units requires owner supermajority approval.",
+                  "<strong>Obtain permits and insurance</strong> \u2014 you may need Lake Forest Park city building permits and additional insurance coverage.",
+                  "<strong>Board responds within 10 days</strong> \u2014 for rental-related requests; similar timelines apply for ACC requests."
                 ]
               }
             }
@@ -349,32 +337,28 @@
           "blocks": [
             {
               "heading": "Exterior & Deck Rules",
-              "text": "Deck maintenance and exterior uniformity are strictly enforced at Shannon Heights. These rules exist because deck damage is expensive to repair.",
+              "text": "The Board strictly controls exterior uniformity. Deck maintenance rules are especially detailed given the building\u2019s construction.",
               "items": [
-                "Modifications must not deviate from the original building appearance \u2014 deck coatings and colors are controlled by the Board.",
+                "Modifications must not deviate from the original building appearance \u2014 deck coatings and colors controlled by the Board.",
                 "No screws, nails, or adhesives may penetrate deck surfaces.",
                 "Heavy planters must be supported on foam or neoprene and precast concrete pavers.",
                 "Outdoor carpeting requires Board approval \u2014 must be loose-laid, non-absorbent, and removed seasonally.",
-                "No drilling into exterior stucco.",
-                "No storing unsightly items or attaching lattice/trellises to deck railings.",
-                "Hot grease or caustic/abrasive materials are banned on decks.",
+                "No drilling into exterior stucco. No storing unsightly items on decks.",
+                "No lattice or trellises attached to deck railings. No hot grease or caustic materials on decks.",
                 "All changes must comply with King County and Lake Forest Park regulations."
               ],
               "sourceText": {
-                "label": "View full deck rules",
+                "label": "View full deck rules from House Rules",
                 "heading": "House Rules \u2014 Rule 16",
                 "passages": [
                   "No screws, nails, or adhesives may penetrate deck surfaces. Heavy planters must be supported on foam or neoprene and precast concrete pavers.",
                   "Outdoor carpeting requires Board approval and must be loose-laid, non-absorbent, and removed seasonally.",
                   "No drilling into exterior stucco, storing unsightly items, or attaching lattice/trellises to deck railings.",
                   "Hot grease or caustic/abrasive materials are banned on decks.",
-                  "Deck coatings and colors are controlled by the Board to maintain uniform exterior appearance."
+                  "Deck coatings and colors are controlled by the Board. All changes must adhere to King County and Lake Forest Park regulations."
                 ],
-                "ref": "Shannon Heights House Rules, Rule 16"
-              },
-              "crossLinks": [
-                { "docId": "maintenance", "section": "Unit Owner", "label": "Owner maintenance obligations" }
-              ]
+                "ref": "Shannon Heights House Rules, Rules 16 & 17"
+              }
             }
           ]
         },
@@ -383,26 +367,16 @@
           "blocks": [
             {
               "heading": "Non-Compliance",
-              "text": "Violations follow a structured enforcement process with escalating penalties.",
+              "text": "The fine structure escalates, and deck damage from negligence can be extremely costly.",
               "items": [
-                "First infraction: warning.",
+                "First infraction: written warning.",
                 "Second infraction: minimum $50 fine.",
                 "Continuing infractions: minimum $200 fine until corrected.",
-                "Owners are liable for repair costs due to negligence or unauthorized changes \u2014 deck damage can exceed $8,000.",
+                "Owners liable for all repair costs from negligence or unauthorized changes.",
                 "Unpaid fines or repair costs result in a lien against the unit.",
-                "Owners are responsible for attorney fees and costs if legal action is needed."
+                "Legal action costs \u2014 attorney fees charged to the owner."
               ],
-              "sourceText": {
-                "label": "View exact penalty language",
-                "heading": "House Rules \u2014 Addendum 4",
-                "passages": [
-                  "Violations incur a warning for the first infraction, a minimum $50 fine for the second, and a minimum $200 fine for continuing infractions until corrected.",
-                  "Owners are liable for repair costs due to negligence or unauthorized changes, e.g., deck damage from improper planter placement or glued carpet.",
-                  "Unpaid fines or repair costs result in a lien against the owner\u2019s unit.",
-                  "Owners are responsible for attorney fees and costs if legal action is needed to enforce compliance."
-                ],
-                "ref": "Shannon Heights House Rules, Addendum 4; Declaration, Sections 11.2, 18.1"
-              },
+              "pullQuote": { "text": "Deck damage from negligence (improper planters, glued carpet, drilling) could exceed $8,000 in repair costs \u2014 all charged to the owner.", "caption": "Deck damage liability" },
               "crossLinks": [
                 { "docId": "board", "section": "Authority", "label": "Board enforcement powers" }
               ]
@@ -415,11 +389,11 @@
           "blocks": [
             {
               "takeaways": [
-                "All exterior, structural, and common area modifications require prior written Board approval.",
-                "Deck rules are strict \u2014 no penetrating surfaces, no glued carpet, no drilling into stucco. Damage can cost $8,000+.",
-                "Structural changes (subdividing/combining units) require 66\u2154% owner voting approval.",
-                "Fines escalate from warning to $50 to $200+ per occurrence. Unpaid amounts become liens.",
-                "Contact Phillips Real Estate (206-622-8600) to submit ACC requests."
+                "All exterior, structural, and common area changes require prior written Board approval.",
+                "Structural changes like combining units need 66\u2154% owner vote.",
+                "Deck rules are strict \u2014 no penetrations, no adhesives, seasonal carpet only. Negligence can cost $8,000+.",
+                "Fines escalate from warning to $50 to $200+ for ongoing violations.",
+                "Contact AGM Real Estate Group (206-622-8600) to submit ACC requests."
               ],
               "crossLinks": [
                 { "docId": "insurance", "section": "Provisions", "label": "Insurance impact of modifications" },
@@ -435,7 +409,7 @@
       "title": "Board of Directors",
       "desc": "Governance structure, elections, authority, and current board composition.",
       "updated": "March 2026",
-      "subtitle": "The Board of Directors manages operations, enforces rules, oversees finances, maintains common areas, and handles legal matters for Shannon Heights.",
+      "subtitle": "The Board of Directors manages condominium operations, enforces rules, oversees finances, and maintains common areas. Directors serve without compensation and prioritize the interests of all unit owners.",
       "sections": [
         {
           "name": "Structure",
@@ -443,9 +417,9 @@
             {
               "heading": "Composition",
               "cards": [
-                { "label": "Board Size", "text": "Five (5) members after the Declarant\u2019s management authority ends." },
+                { "label": "Board Size", "text": "Five (5) members after Declarant control ends." },
                 { "label": "Officers", "text": "President, Vice-President, Secretary, and Treasurer \u2014 elected annually by the Board." },
-                { "label": "Terms", "text": "2-year terms. Vacancies filled by majority vote of remaining Board members until next annual meeting." }
+                { "label": "Hearing Board", "text": "Established to investigate, hear, and determine complaints about rule violations with authority to impose fines." }
               ]
             },
             {
@@ -470,8 +444,8 @@
               "heading": "How Elections Work",
               "text": "Directors are elected at annual meetings. The initial Board serves a one-year term; subsequent terms are governed by the Bylaws.",
               "items": [
-                "Vacancies (other than removals) are filled by majority vote of remaining Board members, serving until the next annual meeting.",
-                "The Declarant controls the Board until its management authority ends, as specified in the Declaration."
+                "Vacancies (other than removals) filled by majority vote of remaining Board members until next annual meeting.",
+                "Initial Board elected at first annual meeting after Declarant control ends."
               ]
             },
             {
@@ -483,9 +457,10 @@
                 "passages": [
                   "Any Board member may be removed, with or without cause, by a majority vote of all apartment owners at a regular or special meeting called for that purpose.",
                   "The Board member proposed for removal is given an opportunity to be heard at the meeting.",
+                  "Until the Declarant\u2019s management authority ends, only the Declarant may remove Board members.",
                   "Removal requires an affirmative vote of a majority of all unit owners, not just those present."
                 ],
-                "ref": "Shannon Heights Bylaws, Articles 2.2.1, 2.2.3, 3.2.3"
+                "ref": "Shannon Heights Bylaws, Article 3.2.3 (Pages 10\u201312)"
               }
             }
           ]
@@ -496,12 +471,22 @@
             {
               "heading": "Meetings & Decision-Making",
               "items": [
-                "Regular meetings held at least twice per fiscal year, including one immediately following the annual owners\u2019 meeting.",
-                "Three days\u2019 notice required for regular and special meetings.",
-                "Special meetings called by the President or on written request of at least two Board members.",
+                "At least two regular meetings per fiscal year, plus one immediately after the annual owners\u2019 meeting.",
+                "Special meetings called by the President or two Board members with 3 days\u2019 notice.",
                 "Majority of Board members constitutes a quorum; majority vote of those present is binding.",
                 "Notice may be waived in writing or by attendance."
-              ]
+              ],
+              "sourceText": {
+                "label": "View meeting rules",
+                "heading": "Bylaws \u2014 Articles 3.2.5\u20133.2.8",
+                "passages": [
+                  "Regular meetings of the Board are held at least twice per fiscal year, including one immediately following the annual owners\u2019 meeting, with at least three days\u2019 notice to Board members.",
+                  "Special meetings may be called by the President or upon written request of at least two Board members, with three days\u2019 notice specifying time, place, and purpose.",
+                  "A majority of Board members constitutes a quorum, and decisions require a majority vote of those present at a meeting with a quorum.",
+                  "Notice may be waived in writing or by attendance, and no notice is required if all Board members are present."
+                ],
+                "ref": "Shannon Heights Bylaws, Articles 3.2.5\u20133.2.8"
+              }
             }
           ]
         },
@@ -510,17 +495,17 @@
           "blocks": [
             {
               "heading": "Officers of the Board",
-              "text": "Officers are elected annually at the organizational meeting following the annual owners\u2019 meeting.",
+              "text": "Officers are elected annually by the Board at the organization meeting. Officers may be removed by majority Board vote.",
               "cards": [
                 { "label": "President", "text": "Chief executive \u2014 presides over meetings, appoints committees." },
                 { "label": "Vice-President", "text": "Assumes President\u2019s duties in their absence." },
-                { "label": "Secretary", "text": "Keeps minutes, maintains records and member lists." },
+                { "label": "Secretary", "text": "Keeps minutes, maintains records and member lists with mailing addresses." },
                 { "label": "Treasurer", "text": "Oversees financial records, assessments, and deposits." }
               ]
             },
             {
               "heading": "Compensation & Liability",
-              "text": "Directors serve without compensation. The Association indemnifies Board members and officers for actions taken in good faith, except for willful misconduct. Indemnification does not extend to liabilities incurred as apartment owners.",
+              "text": "Directors serve without compensation. The Association indemnifies Board members for actions taken in good faith, except for willful misconduct. Indemnification does not extend to liabilities incurred as apartment owners.",
               "crossLinks": [
                 { "docId": "insurance", "section": "Association", "label": "Fidelity bond coverage" }
               ]
@@ -532,25 +517,31 @@
           "blocks": [
             {
               "heading": "What the Board Can Do",
-              "text": "The Board has broad authority to manage the Association, including a formal Hearing Board for rule violations.",
+              "text": "The Board has broad authority to manage the Association, enforce rules, and pursue legal remedies.",
               "items": [
                 "Enforce the Declaration, Bylaws, and House Rules.",
-                "Manage common areas \u2014 maintenance, repairs, and structural alterations, with authority to access apartments.",
-                "Administer assessments, reserve accounts, and unforeseen expenses.",
-                "Oversee insurance coverage including fire, liability, and fidelity bonds.",
-                "Hire legal, accounting, and management services.",
-                "Adopt, amend, or revoke administrative rules and regulations.",
-                "Establish a Hearing Board to investigate, hear, and determine complaints regarding violations, with authority to impose fines."
-              ],
+                "Manage common areas including maintenance, repairs, and structural alterations.",
+                "Administer assessments, reserve accounts, and financial matters.",
+                "Oversee insurance coverage \u2014 fire, liability, and fidelity bonds.",
+                "Hire management companies and legal/accounting services.",
+                "Adopt, amend, or revoke administrative rules.",
+                "Enter apartments for emergency repairs or maintenance.",
+                "Collect rent from tenants to cover delinquent assessments.",
+                "Pursue legal action for non-compliance with attorney fees charged to the owner."
+              ]
+            },
+            {
+              "heading": "Hearing Board",
+              "text": "A formal Hearing Board investigates and determines complaints about rule violations. Orders are effective 10 days after service unless otherwise specified.",
               "sourceText": {
-                "label": "View Hearing Board process",
-                "heading": "Bylaws \u2014 Article 14.4",
+                "label": "View Hearing Board provisions",
+                "heading": "Bylaws \u2014 Articles 14.2\u201314.4",
                 "passages": [
                   "A Hearing Board is established to investigate, hear, and determine complaints regarding violations of Governing Documents, with authority to impose fines.",
                   "The Hearing Board handles complaints, conducts hearings, and issues decisions on violations, with orders effective 10 days after service unless otherwise specified.",
-                  "The Board may collect rent from tenants to cover delinquent assessments (Declaration Article 11.14)."
+                  "The Board may impose fines up to a maximum set by Board resolution and pursue legal remedies for non-compliance."
                 ],
-                "ref": "Shannon Heights Bylaws, Articles 14.2\u201314.4"
+                "ref": "Shannon Heights Bylaws, Articles 14.2\u201314.4 (Pages 3\u20137)"
               }
             },
             {
@@ -569,11 +560,11 @@
           "blocks": [
             {
               "takeaways": [
-                "Five Board members serve 2-year terms. Officers are elected annually.",
-                "Any director can be removed by majority vote of all apartment owners \u2014 not just those present.",
-                "The Board manages finances, enforces rules, and oversees maintenance with authority to access units.",
-                "A formal Hearing Board handles violations with the power to impose fines.",
-                "Bylaw amendments require 66\u2154% owner approval with at least 10 days\u2019 notice.",
+                "Five Board members govern Shannon Heights with officers elected annually.",
+                "Any director can be removed by majority vote of all owners (not just those present).",
+                "A formal Hearing Board handles violation complaints with authority to impose fines.",
+                "The Board can enter apartments for emergencies and collect rent from tenants for delinquent assessments.",
+                "Bylaw amendments require 66\u2154% owner approval with 10 days\u2019 notice.",
                 "Directors serve without compensation and are indemnified for good-faith actions."
               ],
               "crossLinks": [
@@ -598,7 +589,7 @@
           "blocks": [
             {
               "heading": "Why It Exists",
-              "text": "The Resale Certificate ensures transparency for prospective buyers by disclosing the financial status, governance structure, and obligations of the Shannon Heights Owners Association. It is mandated by the Washington Condominium Act (RCW 64.34.425)."
+              "text": "The Resale Certificate ensures transparency for prospective buyers by disclosing the financial status, governance structure, and obligations of the Association. It is mandated by RCW 64.34.425."
             }
           ]
         },
@@ -607,16 +598,16 @@
           "blocks": [
             {
               "heading": "Who Prepares It?",
-              "text": "Phillips Real Estate Services prepares the Resale Certificate at the seller\u2019s request and expense. It must be delivered to the buyer within 10 days of the request.",
+              "text": "AGM Real Estate Group prepares the certificate at the seller\u2019s request and expense. It must be delivered to the buyer within 10 days.",
               "action": {
                 "label": "If you\u2019re selling your unit",
                 "title": "How to get your Resale Certificate",
                 "steps": [
-                  "<strong>Contact Phillips Real Estate</strong> \u2014 (206) 622-8600 \u2014 to request the certificate.",
-                  "<strong>Pay the preparation fee</strong> \u2014 approximately $200\u2013$300 (as of 2017, subject to change).",
-                  "<strong>Certificate delivered within 10 days</strong> \u2014 this is a legal requirement.",
-                  "<strong>Clear all outstanding amounts</strong> \u2014 ensure all assessments, fines, or fees are paid before closing.",
-                  "<strong>Buyer receives the certificate before closing</strong> \u2014 they have 7 days to cancel after receiving it."
+                  "<strong>Contact AGM Real Estate Group</strong> \u2014 call (206) 622-8600 to request the certificate.",
+                  "<strong>Pay the preparation fee</strong> \u2014 approximately $200\u2013$300 (subject to change).",
+                  "<strong>Association responds within 10 days</strong>.",
+                  "<strong>Clear all outstanding obligations</strong> \u2014 assessments, fines, or fees must be paid before transfer.",
+                  "<strong>Deliver to the buyer before closing</strong> \u2014 the buyer has 7 days to cancel after receiving it."
                 ]
               }
             }
@@ -626,11 +617,11 @@
           "name": "Requirements",
           "blocks": [
             {
-              "heading": "Financial Information",
+              "heading": "Financial Disclosures",
               "items": [
                 "Current monthly assessment fees and special assessments.",
                 "Outstanding fees or fines on the unit.",
-                "Reserve account status."
+                "Reserve account status and budget details."
               ],
               "crossLinks": [
                 { "docId": "maintenance", "section": "Funding", "label": "How assessments work" }
@@ -639,22 +630,24 @@
             {
               "heading": "Governance & Legal",
               "items": [
-                "Copies of the Declaration, Bylaws, House Rules, and amendments.",
-                "Details of Association insurance coverage, limits, and deductibles.",
+                "Copies of Declaration, Bylaws, House Rules, and amendments.",
                 "Pending or threatened litigation involving the Association.",
                 "Known violations of House Rules specific to the unit."
               ],
               "crossLinks": [
-                { "docId": "insurance", "section": "Association", "label": "Association insurance details" },
                 { "docId": "board", "section": "Structure", "label": "Current Board members" }
               ]
             },
             {
-              "heading": "Property & Operations",
+              "heading": "Property & Insurance",
               "items": [
+                "Association insurance coverage details \u2014 limits and deductibles.",
                 "Status of major repairs or capital improvements planned or in progress.",
-                "Budget details and reserve study.",
-                "Restrictions on unit use or leasing."
+                "Restrictions on unit use or leasing.",
+                "Reserve study information."
+              ],
+              "crossLinks": [
+                { "docId": "insurance", "section": "Association", "label": "Insurance details" }
               ]
             }
           ]
@@ -663,11 +656,11 @@
           "name": "Right to Cancel",
           "blocks": [
             {
-              "pullQuote": { "text": "Buyers have 7 days to cancel the purchase agreement after receiving the Resale Certificate. Cancellation must be in writing. Any earnest money is refunded without penalty.", "caption": "Buyer cancellation right \u2014 RCW 64.34.425(3)" }
+              "pullQuote": { "text": "Buyers have a 7-day right to cancel the purchase agreement after receiving the Resale Certificate. Cancellation must be in writing. Any earnest money is refunded without penalty.", "caption": "Buyer cancellation right \u2014 RCW 64.34.425(3)" }
             },
             {
               "heading": "Fees & Seller Responsibility",
-              "text": "The seller pays the preparation fee ($200\u2013$300), must clear all outstanding assessments and fines before transfer, and may owe a $250 move-in/move-out fee. Unpaid amounts may result in a lien."
+              "text": "The seller pays the preparation fee ($200\u2013$300), must clear all assessments and fines before transfer, and may owe a $250 move-in/move-out fee. The Association may place a lien for unpaid amounts."
             }
           ]
         },
@@ -677,9 +670,9 @@
             {
               "heading": "Why Compliance Matters",
               "items": [
-                "Failure to provide a Resale Certificate can delay or void the sale \u2014 it\u2019s a legal requirement.",
+                "Failure to provide a Resale Certificate can delay or void the sale.",
                 "Incomplete or inaccurate certificates may lead to buyer cancellation or legal disputes.",
-                "The Association may pursue legal action to enforce payment of outstanding fees, with costs charged to the seller."
+                "The Association may pursue legal action for outstanding fees, with attorney fees charged to the seller."
               ]
             }
           ]
@@ -690,11 +683,12 @@
           "blocks": [
             {
               "takeaways": [
-                "A Resale Certificate is mandatory for every unit sale \u2014 required by Washington law (RCW 64.34.425).",
-                "Phillips Real Estate prepares it within 10 days at the seller\u2019s expense ($200\u2013$300).",
-                "Buyers have 7 days to cancel after receiving the certificate \u2014 with full earnest money refund.",
+                "A Resale Certificate is mandatory for every unit sale \u2014 required by Washington law.",
+                "Contact AGM Real Estate Group (206-622-8600) to request it. Preparation costs $200\u2013$300.",
+                "The Association must deliver within 10 days of the request.",
+                "Buyers have 7 days to cancel after receiving the certificate (not the usual 5 days at other properties).",
                 "Clear all assessments, fines, and fees before closing to avoid liens or delays.",
-                "Contact Phillips Real Estate at (206) 622-8600 to start the process."
+                "Move-in/move-out fee: $250."
               ],
               "crossLinks": [
                 { "docId": "insurance", "section": "Association", "label": "Association insurance overview" },
@@ -714,35 +708,45 @@
       "subtitle": "Every important number, deadline, and threshold from across all Shannon Heights governing document abstracts.",
       "sections": [
         {
-          "name": "Deadlines",
+          "name": "Contacts",
           "blocks": [
             {
-              "heading": "Time-Sensitive Requirements",
+              "heading": "Key Contact Information",
               "cards": [
-                { "label": "Resale Response", "text": "Association must provide Resale Certificate within 10 days." },
-                { "label": "Buyer Cancellation", "text": "7 days to cancel after receiving Resale Certificate." },
-                { "label": "Violation Grace", "text": "Minimum 10-day period to correct after written notice." },
-                { "label": "Meeting Notice", "text": "3 days\u2019 notice for regular and special Board meetings." },
-                { "label": "Amendment Notice", "text": "At least 10 days\u2019 notice for Bylaw amendment votes." },
-                { "label": "Hearing Board Orders", "text": "Effective 10 days after service unless otherwise specified." }
+                { "label": "Property Management", "text": "AGM Real Estate Group \u2014 (206) 622-8600" },
+                { "label": "ACC Requests", "text": "Submit written requests through AGM Real Estate Group." },
+                { "label": "Emergency Repairs", "text": "Call AGM Real Estate Group at (206) 622-8600 immediately." },
+                { "label": "Resale Certificates", "text": "Request through AGM Real Estate Group \u2014 $200\u2013$300 fee." }
               ]
             }
           ]
         },
         {
-          "name": "Fines & Fees",
+          "name": "Fines",
           "blocks": [
             {
-              "heading": "Financial Penalties & Costs",
+              "heading": "Fine Schedule",
               "cards": [
-                { "label": "First Violation", "text": "Warning." },
-                { "label": "Second Violation", "text": "Minimum $50 fine." },
-                { "label": "Ongoing Violations", "text": "$200+ per occurrence until corrected." },
+                { "label": "1st Infraction", "text": "Written warning." },
+                { "label": "2nd Infraction", "text": "Minimum $50 fine." },
+                { "label": "Continuing", "text": "Minimum $200 fine until corrected." },
                 { "label": "Tenant Violations", "text": "$100 per occurrence." },
                 { "label": "Unapproved Rental", "text": "$200 fine." },
+                { "label": "Deck Negligence", "text": "Repair costs can exceed $8,000." }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fees",
+          "blocks": [
+            {
+              "heading": "Common Fees",
+              "cards": [
                 { "label": "Move-In/Out", "text": "$250 fee." },
-                { "label": "Resale Certificate", "text": "$200\u2013$300 preparation fee." },
-                { "label": "Deck Damage", "text": "Can exceed $8,000 in repair costs." }
+                { "label": "Reserved Parking", "text": "$44\u2013$110." },
+                { "label": "Resale Certificate", "text": "$200\u2013$300 (seller pays)." },
+                { "label": "Improvement Notice", "text": "Required for unit improvements over $1,000." }
               ]
             }
           ]
@@ -753,11 +757,11 @@
             {
               "heading": "Voting Thresholds",
               "cards": [
-                { "label": "Remove Director", "text": "Majority vote of all apartment owners (not just those present)." },
-                { "label": "Amend Bylaws", "text": "66\u2154% of voting power." },
+                { "label": "Remove Director", "text": "Majority of all owners (not just those present)." },
+                { "label": "Amend Bylaws", "text": "66\u2154% of voting power with 10 days\u2019 notice." },
                 { "label": "Structural Changes", "text": "66\u2154% of voting power for subdividing/combining units." },
                 { "label": "Board Quorum", "text": "Majority of Board members." },
-                { "label": "Insurance Settlement", "text": "Settlements over $2,500 require mortgagee approval." }
+                { "label": "Insurance Settlements", "text": "Mortgagee approval required for settlements over $2,500." }
               ]
             }
           ]
@@ -766,12 +770,13 @@
           "name": "Insurance",
           "blocks": [
             {
-              "heading": "Insurance Essentials",
+              "heading": "Insurance Numbers",
               "cards": [
-                { "label": "Liability Limits", "text": "$200K per person / $500K per accident / $50K property damage." },
-                { "label": "Owner Improvements", "text": "Notify Board of improvements over $1,000." },
-                { "label": "Mortgagee Approval", "text": "Required for settlements exceeding $2,500." },
-                { "label": "Fire Insurance", "text": "Full replacement value, no depreciation deduction." }
+                { "label": "Fire Coverage", "text": "Full insurable replacement value, no depreciation deduction." },
+                { "label": "Liability Per Person", "text": "$200,000 minimum." },
+                { "label": "Liability Per Accident", "text": "$500,000 minimum." },
+                { "label": "Property Damage", "text": "$50,000 minimum." },
+                { "label": "Buyer Cancellation", "text": "7 days after receiving Resale Certificate." }
               ]
             }
           ]
@@ -782,12 +787,12 @@
           "blocks": [
             {
               "takeaways": [
-                "Fines escalate: warning \u2192 $50 \u2192 $200+ per occurrence. Non-payment within 30 days becomes a lien.",
-                "Bylaw amendments and major structural changes both require 66\u2154% owner approval.",
-                "Buyers have 7 days to cancel after receiving the Resale Certificate (vs. 5 days at most other properties).",
-                "Liability insurance: $200K/$500K/$50K minimums. Notify the Board of improvements over $1,000.",
-                "Board members can be removed by majority of all owners \u2014 not just those present at the meeting.",
-                "Contact Phillips Real Estate at (206) 622-8600 for all requests and emergencies."
+                "AGM Real Estate Group (206-622-8600) handles ACC requests, maintenance, emergencies, and resale certificates.",
+                "Fines escalate: warning \u2192 $50 \u2192 $200+ for continuing violations. Deck negligence can cost $8,000+.",
+                "Bylaw amendments and structural changes both require 66\u2154% owner approval.",
+                "Directors can be removed by majority of all owners \u2014 not just those present at the meeting.",
+                "Buyers get 7 days to cancel after receiving the Resale Certificate.",
+                "Notify the Board of any unit improvements over $1,000 and file insurance copies."
               ]
             }
           ]
@@ -796,17 +801,17 @@
     }
   ],
   "quickAnswers": [
-    { "question": "Do I need Board approval for changes?", "docId": "acc", "section": "Requirements" },
+    { "question": "Do I need Board approval for modifications?", "docId": "acc", "section": "Requirements" },
     { "question": "What insurance do I need?", "docId": "insurance", "section": "Unit Owner" },
     { "question": "How do I report a maintenance issue?", "docId": "maintenance", "section": "Unit Owner" },
     { "question": "Who\u2019s on the Board?", "docId": "board", "section": "Structure" },
-    { "question": "What are the fines for violations?", "docId": "acc", "section": "Consequences" },
+    { "question": "What are the fines for violations?", "docId": "maintenance", "section": "Consequences" },
     { "question": "What are the deck rules?", "docId": "acc", "section": "Guidelines" },
-    { "question": "How are my assessments used?", "docId": "maintenance", "section": "Funding" },
+    { "question": "How are HOA dues used?", "docId": "maintenance", "section": "Funding" },
     { "question": "What\u2019s needed to sell my unit?", "docId": "resale", "section": "Preparation" },
-    { "question": "What if I don\u2019t pay my assessments?", "docId": "maintenance", "section": "Consequences" },
+    { "question": "How do I contact the management company?", "docId": "reference", "section": "Contacts" },
     { "question": "How do I get on the Board?", "docId": "board", "section": "Elections" },
-    { "question": "What\u2019s the move-in/out fee?", "docId": "maintenance", "section": "Funding" },
-    { "question": "How long does a buyer have to cancel?", "docId": "resale", "section": "Right to Cancel" }
+    { "question": "What if I don\u2019t pay my assessments?", "docId": "maintenance", "section": "Consequences" },
+    { "question": "How long does the buyer have to cancel?", "docId": "resale", "section": "Right to Cancel" }
   ]
 }
