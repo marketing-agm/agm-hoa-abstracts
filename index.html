@@ -321,6 +321,70 @@ body {
   letter-spacing: 0.03em;
 }
 
+/* ── Sticky Mini-Header ── */
+.detail-sticky-bar {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background: var(--white);
+  border-bottom: 1px solid var(--gray-200);
+  padding: 0 3rem;
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: transform 0.3s var(--ease), opacity 0.3s var(--ease);
+  pointer-events: none;
+}
+
+.detail-sticky-bar.visible {
+  transform: translateY(0);
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.detail-sticky-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.875rem;
+  padding: 0.75rem 0;
+}
+
+.sticky-back {
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  color: var(--gray-400);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.2s var(--ease);
+  line-height: 1;
+}
+
+.sticky-back:hover { color: var(--black); }
+
+.sticky-title {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--black);
+  letter-spacing: -0.005em;
+}
+
+/* ── Sidebar Document Title ── */
+.sidebar-doc-title {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--black);
+  letter-spacing: -0.005em;
+  padding: 0 0 0.75rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--gray-200);
+  line-height: 1.25;
+}
+
 .back-btn {
   display: inline-flex;
   align-items: center;
@@ -371,12 +435,12 @@ body {
 /* Sidebar */
 .detail-sidebar {
   position: sticky;
-  top: 0;
+  top: 3rem;
   align-self: start;
   padding: 2.5rem 0;
   border-right: 1px solid var(--gray-200);
   height: fit-content;
-  max-height: 100vh;
+  max-height: calc(100vh - 3rem);
   overflow-y: auto;
   scrollbar-width: none;
 }
@@ -1119,6 +1183,15 @@ body {
 
   .sidebar-home { display: none; }
 
+  .sidebar-doc-title { 
+    width: 100%;
+    font-size: 0.875rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.375rem;
+  }
+
+  .detail-sticky-bar { padding: 0 1.5rem; }
+
   .detail-content {
     padding: 2rem 0 3rem;
   }
@@ -1262,7 +1335,7 @@ body {
   .back-btn, .print-btn, .detail-sidebar,
   .section-nav-wrap, .doc-footer, .cross-links,
   .search-trigger, .sidebar-home, .detail-hero-property,
-  .source-toggle { display: none !important; }
+  .source-toggle, .detail-sticky-bar { display: none !important; }
 
   .source-body {
     display: block !important;
@@ -1542,6 +1615,12 @@ body {
       </div>
     </div>
   </div>
+  <div class="detail-sticky-bar" id="detail-sticky-bar">
+    <div class="detail-sticky-inner">
+      <button class="sticky-back" onclick="goHome()">&#8592;</button>
+      <span class="sticky-title" id="sticky-title"></span>
+    </div>
+  </div>
   <div class="detail-body">
     <aside class="detail-sidebar" id="detail-sidebar"></aside>
     <div class="detail-content" id="detail-content"></div>
@@ -1747,9 +1826,14 @@ function openDetail(id, scrollToSection) {
   document.getElementById('detail-subtitle').textContent = a.subtitle;
   document.getElementById('detail-updated').textContent = a.updated ? `Last reviewed: ${a.updated}` : '';
 
-  // Build sidebar
+  // Set sticky bar title
+  document.getElementById('sticky-title').textContent = a.title;
+  document.getElementById('detail-sticky-bar').classList.remove('visible');
+
+  // Build sidebar with document title
   const sidebar = document.getElementById('detail-sidebar');
-  sidebar.innerHTML = `<div class="sidebar-label">Sections</div>` +
+  sidebar.innerHTML = `<div class="sidebar-doc-title">${a.title}</div>` +
+    `<div class="sidebar-label">Sections</div>` +
     a.sections.map((s, i) =>
       `<a class="sidebar-link${i === 0 ? ' active' : ''}" data-section="${i}" onclick="scrollToIdx(${i})">${s.name}</a>`
     ).join('') +
@@ -1820,9 +1904,10 @@ function openDetail(id, scrollToSection) {
   window.scrollTo({ top: 0, behavior: 'instant' });
   window.location.hash = id;
 
-  // Setup scroll spy
+  // Setup scroll spy and hero observer
   requestAnimationFrame(() => {
     setupScrollSpy();
+    setupHeroObserver();
     if (scrollToSection) {
       const idx = a.sections.findIndex(s => s.name === scrollToSection);
       if (idx > -1) setTimeout(() => scrollToIdx(idx), 100);
@@ -1833,7 +1918,9 @@ function openDetail(id, scrollToSection) {
 function scrollToIdx(idx) {
   const el = document.getElementById(`section-${idx}`);
   if (el) {
-    const y = el.getBoundingClientRect().top + window.scrollY - 24;
+    const stickyBar = document.getElementById('detail-sticky-bar');
+    const offset = stickyBar && stickyBar.classList.contains('visible') ? 60 : 24;
+    const y = el.getBoundingClientRect().top + window.scrollY - offset;
     window.scrollTo({ top: y, behavior: 'smooth' });
   }
 }
@@ -1855,10 +1942,34 @@ function setupScrollSpy() {
   sections.forEach(s => observer.observe(s));
 }
 
+let heroObserver = null;
+
+function setupHeroObserver() {
+  if (heroObserver) heroObserver.disconnect();
+
+  const hero = document.querySelector('.detail-hero');
+  const stickyBar = document.getElementById('detail-sticky-bar');
+  if (!hero || !stickyBar) return;
+
+  heroObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        stickyBar.classList.remove('visible');
+      } else {
+        stickyBar.classList.add('visible');
+      }
+    });
+  }, { threshold: 0, rootMargin: '0px' });
+
+  heroObserver.observe(hero);
+}
+
 function goHome() {
   document.getElementById('detail-view').classList.remove('active');
   document.getElementById('home-view').classList.remove('hidden');
   document.getElementById('home-header').classList.remove('hidden');
+  document.getElementById('detail-sticky-bar').classList.remove('visible');
+  if (heroObserver) heroObserver.disconnect();
   window.scrollTo({ top: 0, behavior: 'instant' });
   history.replaceState(null, '', window.location.pathname + window.location.search);
 }
