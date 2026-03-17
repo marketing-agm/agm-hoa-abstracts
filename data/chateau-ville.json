@@ -189,6 +189,212 @@
             }
           ]
         }
+      ],
+      "fullText": [
+        {
+          "type": "heading",
+          "text": "1. Association Insurance Requirements"
+        },
+        {
+          "type": "p",
+          "text": "The Château Ville Condominium Owners' Association is required to maintain insurance coverage for common areas and shared liabilities. The Board of Directors manages these policies."
+        },
+        {
+          "type": "heading",
+          "text": "1.1 Required Policies"
+        },
+        {
+          "type": "heading",
+          "text": "1.1.1 Property Insurance (Fire & Casualty)"
+        },
+        {
+          "type": "p",
+          "text": "Coverage: Full replacement value of all common areas and limited common areas (e.g., roofs, exterior walls, structural elements)."
+        },
+        {
+          "type": "p",
+          "text": "Scope: Includes fire, wind, water damage, and other perils as specified in the policy."
+        },
+        {
+          "type": "p",
+          "text": "Exclusions: Does not cover unit interiors, personal property, or unit owner modifications."
+        },
+        {
+          "type": "p",
+          "text": "Named Insured: The Association and Board of Directors are named as insured parties on behalf of all unit owners."
+        },
+        {
+          "type": "p",
+          "text": "Loss Payee: Insurance proceeds are held in trust and used for repairs or reconstruction unless a majority vote decides otherwise."
+        },
+        {
+          "type": "heading",
+          "text": "1.1.2 General Liability Insurance"
+        },
+        {
+          "type": "p",
+          "text": "Coverage: Protects the Association against claims for bodily injury, property damage, or liability incidents in common areas."
+        },
+        {
+          "type": "p",
+          "text": "Minimum Limits: $1,000,000 per occurrence (personal injury & death). $50,000 per occurrence (property damage)."
+        },
+        {
+          "type": "p",
+          "text": "Cross-Liability Clause: Ensures that claims by one insured party against another are not excluded."
+        },
+        {
+          "type": "heading",
+          "text": "1.1.3 Directors & Officers (D&O) Insurance"
+        },
+        {
+          "type": "p",
+          "text": "Purpose: Protects Board members from personal liability for decisions made in good faith on behalf of the Association."
+        },
+        {
+          "type": "p",
+          "text": "Scope: Covers legal fees, settlements, and damages related to governance disputes."
+        },
+        {
+          "type": "heading",
+          "text": "1.1.4 Fidelity Bond / Crime Insurance"
+        },
+        {
+          "type": "p",
+          "text": "Who is Covered: Association officers, directors, employees, and the property manager."
+        },
+        {
+          "type": "p",
+          "text": "Purpose: Protects against embezzlement, fraud, or financial misconduct involving Association funds."
+        },
+        {
+          "type": "p",
+          "text": "Coverage Amount: Minimum of 50% of the annual budget and reserve fund balance."
+        },
+        {
+          "type": "heading",
+          "text": "1.1.5 Workers' Compensation Insurance"
+        },
+        {
+          "type": "p",
+          "text": "Required if Employees Are Hired: Covers employees or contractors performing maintenance or management services for the Association."
+        },
+        {
+          "type": "heading",
+          "text": "1.1.6 Flood or Earthquake Insurance (if applicable)"
+        },
+        {
+          "type": "p",
+          "text": "Required if Mortgage Lenders Mandate It: Coverage for natural disaster-related losses in areas prone to flooding or seismic activity."
+        },
+        {
+          "type": "heading",
+          "text": "2. Unit Owner Insurance Requirements"
+        },
+        {
+          "type": "p",
+          "text": "Each unit owner is responsible for obtaining personal insurance to cover items that the Association's policies do not protect."
+        },
+        {
+          "type": "heading",
+          "text": "2.1.1 HO-6 (Condo Owners) Insurance"
+        },
+        {
+          "type": "p",
+          "text": "Personal Property: Covers furniture, appliances, clothing, electronics, and valuables inside the unit."
+        },
+        {
+          "type": "p",
+          "text": "Unit Improvements: Includes upgrades made by owners (e.g., flooring, countertops, cabinetry)."
+        },
+        {
+          "type": "p",
+          "text": "Liability Coverage: Protects owners from lawsuits if someone is injured inside their unit."
+        },
+        {
+          "type": "p",
+          "text": "Loss of Use: Provides reimbursement if the unit becomes uninhabitable due to damage."
+        },
+        {
+          "type": "heading",
+          "text": "2.1.2 Loss Assessment Coverage"
+        },
+        {
+          "type": "p",
+          "text": "Covers Special Assessments: Protects owners against unexpected charges levied by the Association due to uninsured losses or underinsured claims."
+        },
+        {
+          "type": "heading",
+          "text": "2.1.3 Personal Liability Insurance"
+        },
+        {
+          "type": "p",
+          "text": "Minimum Coverage Recommended: $300,000 - $500,000. Protects owners if a guest is injured inside their unit or if they accidentally cause damage to another unit or common area."
+        },
+        {
+          "type": "heading",
+          "text": "3. Insurance Provisions & Special Conditions"
+        },
+        {
+          "type": "heading",
+          "text": "3.1 Association's Role in Claims & Payouts"
+        },
+        {
+          "type": "p",
+          "text": "The Board of Directors handles claims, policy renewals, and loss payouts."
+        },
+        {
+          "type": "p",
+          "text": "Insurance proceeds must be used for repairs, unless unit owners vote not to rebuild after a catastrophic loss."
+        },
+        {
+          "type": "p",
+          "text": "The Board has the authority to settle insurance disputes on behalf of all owners."
+        },
+        {
+          "type": "heading",
+          "text": "3.2 Mortgagee Protections"
+        },
+        {
+          "type": "p",
+          "text": "Lenders are notified of major policy changes."
+        },
+        {
+          "type": "p",
+          "text": "Insurance must meet lender requirements to secure financing."
+        },
+        {
+          "type": "p",
+          "text": "Mortgage holders have the right to review policies and receive payouts if damage affects collateral."
+        },
+        {
+          "type": "heading",
+          "text": "3.3 Owner Responsibility for Damage"
+        },
+        {
+          "type": "p",
+          "text": "If a unit owner is responsible for damage to another unit or common area, they must pay for repairs unless covered by their personal policy."
+        },
+        {
+          "type": "p",
+          "text": "If an owner fails to carry insurance, the Association may charge them directly for any covered losses they caused."
+        },
+        {
+          "type": "heading",
+          "text": "4. Insurance Policy Requirements & Compliance"
+        },
+        {
+          "type": "p",
+          "text": "All policies must be obtained from reputable insurers licensed in Washington State."
+        },
+        {
+          "type": "p",
+          "text": "Policies must be reviewed annually to ensure adequate coverage and compliance with lending requirements."
+        },
+        {
+          "type": "p",
+          "text": "Unit owners must provide proof of insurance upon request by the Board."
+        }
       ]
     },
     {
@@ -379,6 +585,148 @@
             }
           ]
         }
+      ],
+      "fullText": [
+        {
+          "type": "heading",
+          "text": "Maintenance Responsibilities Overview"
+        },
+        {
+          "type": "p",
+          "text": "Defines responsibilities for maintaining units, common areas, and limited common areas."
+        },
+        {
+          "type": "p",
+          "text": "Ensures proper upkeep, preserves property values, and prevents disputes over maintenance duties."
+        },
+        {
+          "type": "p",
+          "text": "The Association handles shared elements, while unit owners are responsible for individual maintenance."
+        },
+        {
+          "type": "heading",
+          "text": "Unit Owner Responsibilities"
+        },
+        {
+          "type": "p",
+          "text": "Each unit owner is responsible for maintaining:"
+        },
+        {
+          "type": "p",
+          "text": "Interior unit maintenance (walls, ceilings, flooring, plumbing, electrical, HVAC)."
+        },
+        {
+          "type": "p",
+          "text": "Appliances and fixtures (water heaters, sinks, toilets, lighting)."
+        },
+        {
+          "type": "p",
+          "text": "Interior painting, repairs, and finishes (including wallpaper, tiling, carpets)."
+        },
+        {
+          "type": "p",
+          "text": "Windows, screens, storm doors (unless stated otherwise in the governing documents)."
+        },
+        {
+          "type": "p",
+          "text": "Limited Common Areas assigned to their unit (patios, decks, balconies, and storage units)."
+        },
+        {
+          "type": "p",
+          "text": "Minor repairs that do not impact structural integrity."
+        },
+        {
+          "type": "p",
+          "text": "Pest control within the unit (unless an infestation affects multiple units)."
+        },
+        {
+          "type": "p",
+          "text": "Unit owners are prohibited from making changes to structural components or common areas without Board/ACC approval."
+        },
+        {
+          "type": "heading",
+          "text": "Association Responsibilities (HOA)"
+        },
+        {
+          "type": "p",
+          "text": "The Chateau Ville Condominium Association is responsible for maintaining:"
+        },
+        {
+          "type": "p",
+          "text": "Common Areas & Facilities: Hallways, stairwells, lobbies, entryways. Sidewalks, driveways, and parking lots. Landscaping, irrigation, and outdoor lighting. Elevators, mailboxes, and clubhouse (if applicable). Swimming pools, fitness centers, and recreational areas."
+        },
+        {
+          "type": "p",
+          "text": "Building Exteriors: Roof, gutters, and exterior walls. Foundation and load-bearing structures. Exterior doors (unless designated as Limited Common Areas)."
+        },
+        {
+          "type": "p",
+          "text": "Shared Mechanical & Utility Systems: Plumbing and drainage serving multiple units. Electrical and gas systems shared by the building. Central HVAC systems (if not exclusive to individual units)."
+        },
+        {
+          "type": "p",
+          "text": "Limited Common Area Maintenance (HOA Discretion): The HOA may maintain decks, balconies, and patios but require unit owners to keep them clean and in good repair."
+        },
+        {
+          "type": "p",
+          "text": "The Association may charge owners for damage caused by negligence or misuse of common areas."
+        },
+        {
+          "type": "heading",
+          "text": "Emergency Repairs"
+        },
+        {
+          "type": "p",
+          "text": "The HOA has the right to enter a unit for emergency repairs to prevent damage to common areas or other units."
+        },
+        {
+          "type": "p",
+          "text": "Owners may be billed for repairs caused by negligence, leaks, or failure to maintain their unit."
+        },
+        {
+          "type": "p",
+          "text": "If an owner refuses necessary maintenance, the HOA may make repairs and assess the costs to the owner."
+        },
+        {
+          "type": "heading",
+          "text": "Assessment & Funding for Maintenance"
+        },
+        {
+          "type": "p",
+          "text": "Regular assessments cover routine maintenance and repairs for common areas."
+        },
+        {
+          "type": "p",
+          "text": "Reserve funds are set aside for major repairs and capital improvements."
+        },
+        {
+          "type": "p",
+          "text": "Special assessments may be levied for unexpected repairs (roof replacement, storm damage)."
+        },
+        {
+          "type": "p",
+          "text": "Failure to pay assessments may result in liens or legal action against the unit owner."
+        },
+        {
+          "type": "heading",
+          "text": "Consequences for Neglecting Maintenance"
+        },
+        {
+          "type": "p",
+          "text": "If an owner fails to maintain their unit properly:"
+        },
+        {
+          "type": "p",
+          "text": "The HOA may require repairs at the owner's expense."
+        },
+        {
+          "type": "p",
+          "text": "If damage spreads to other units, the owner may be held financially responsible."
+        },
+        {
+          "type": "p",
+          "text": "Fines, legal action, or forced maintenance may be imposed for repeated neglect."
+        }
       ]
     },
     {
@@ -508,6 +856,100 @@
               ]
             }
           ]
+        }
+      ],
+      "fullText": [
+        {
+          "type": "heading",
+          "text": "Purpose of the ACC"
+        },
+        {
+          "type": "p",
+          "text": "All alterations or modifications to a Unit—including changes to flooring, plumbing, electrical systems, exterior elements (such as windows), or any modifications impacting Common or Limited Common Elements—require prior written approval from the Board of Directors."
+        },
+        {
+          "type": "p",
+          "text": "The Architectural Control Committee (ACC) oversees modifications, alterations, and improvements to units and common areas."
+        },
+        {
+          "type": "p",
+          "text": "Ensures architectural consistency and maintains the aesthetic integrity of the condominium."
+        },
+        {
+          "type": "p",
+          "text": "Prevents modifications that could negatively impact property values or structural integrity."
+        },
+        {
+          "type": "heading",
+          "text": "Types of Changes Requiring ACC Approval"
+        },
+        {
+          "type": "p",
+          "text": "Unit owners must submit a request to the ACC before making any changes to: Exterior modifications (e.g., painting, siding, windows, doors). Structural changes (e.g., adding/removing walls, expansions). Common area modifications (e.g., landscaping, fences, decks). Limited common area modifications (e.g., patios, balconies, storage units). Hard surface flooring installations (if prohibited or regulated). Any modification visible from the exterior."
+        },
+        {
+          "type": "heading",
+          "text": "Approval Process"
+        },
+        {
+          "type": "p",
+          "text": "Submit Request: Owners must provide a written request with detailed plans, materials, and colors. May need to include contractor details and estimated completion time."
+        },
+        {
+          "type": "p",
+          "text": "Committee Review: The ACC reviews the request within a specified time (typically 30 days). The Board may also be involved in approvals for major modifications."
+        },
+        {
+          "type": "p",
+          "text": "Decision & Notification: The ACC approves, denies, or requests modifications to the proposal. Owners are not allowed to proceed until written approval is received."
+        },
+        {
+          "type": "p",
+          "text": "Inspection (If Required): The Board/ACC may inspect completed work to ensure compliance with approved plans."
+        },
+        {
+          "type": "heading",
+          "text": "Restrictions & Guidelines"
+        },
+        {
+          "type": "p",
+          "text": "No Unapproved Work: Any unauthorized changes must be reversed at the owner's expense."
+        },
+        {
+          "type": "p",
+          "text": "Maintaining Uniformity: Changes must be in harmony with existing architecture."
+        },
+        {
+          "type": "p",
+          "text": "No Structural Damage: Alterations cannot compromise building integrity or impact neighboring units."
+        },
+        {
+          "type": "p",
+          "text": "Limited Common Area Modifications: Owners must maintain any approved changes made to patios, decks, or exclusive-use spaces."
+        },
+        {
+          "type": "p",
+          "text": "Compliance with Local Codes: All modifications must comply with building codes and HOA regulations."
+        },
+        {
+          "type": "heading",
+          "text": "Consequences for Non-Compliance"
+        },
+        {
+          "type": "p",
+          "text": "If an owner makes unapproved modifications:"
+        },
+        {
+          "type": "p",
+          "text": "They may be required to restore the unit to its original state."
+        },
+        {
+          "type": "p",
+          "text": "The Board may impose fines or legal action for violations."
+        },
+        {
+          "type": "p",
+          "text": "Any costs incurred by the Association to correct violations will be billed to the owner."
         }
       ]
     },
@@ -802,6 +1244,132 @@
             }
           ]
         }
+      ],
+      "fullText": [
+        {
+          "type": "heading",
+          "text": "Board of Directors – Overview"
+        },
+        {
+          "type": "p",
+          "text": "The Board of Directors serves as the main decision-making body for the condominium. Its authority covers rule enforcement, financial management, maintenance, and legal matters. The Developer initially appoints the Board, but once unit owners take control, they elect directors to oversee operations. Board members serve without compensation and must act in the best interest of all unit owners."
+        },
+        {
+          "type": "heading",
+          "text": "Structure & Composition"
+        },
+        {
+          "type": "p",
+          "text": "Initially, there is a Temporary Board of Directors appointed by the Developer."
+        },
+        {
+          "type": "p",
+          "text": "Once unit owners assume control, the Board consists of five (5) elected directors."
+        },
+        {
+          "type": "p",
+          "text": "The number of directors may be adjusted by the Bylaws and can be changed by the Association."
+        },
+        {
+          "type": "heading",
+          "text": "Election & Term"
+        },
+        {
+          "type": "p",
+          "text": "The Developer appoints the initial Board. Unit owners elect their own Board no later than two (2) years after recording the Declaration or when 75% of units are sold, whichever occurs first. Thereafter, elections are held at the Annual Meeting."
+        },
+        {
+          "type": "p",
+          "text": "Directors serve two-year terms. Terms are staggered to ensure continuity: In even-numbered years, three (3) directors are elected. In odd-numbered years, two (2) directors are elected."
+        },
+        {
+          "type": "p",
+          "text": "If a director resigns or is removed, the remaining Board members may appoint a replacement to serve the remainder of the term. If the unit owners call a special election, a new director is elected by majority vote."
+        },
+        {
+          "type": "heading",
+          "text": "Removal of Directors"
+        },
+        {
+          "type": "p",
+          "text": "Directors can be removed by a majority vote of unit owners at a special meeting called for that purpose."
+        },
+        {
+          "type": "p",
+          "text": "While the Developer controls the Board, they can remove or replace any temporary director at will."
+        },
+        {
+          "type": "heading",
+          "text": "Board Meetings & Decision-Making"
+        },
+        {
+          "type": "p",
+          "text": "Regular Meetings: Held at least twice per year."
+        },
+        {
+          "type": "p",
+          "text": "Special Meetings: Can be called by the President or at the request of at least three (3) directors."
+        },
+        {
+          "type": "p",
+          "text": "Regular meetings require at least three (3) days' notice. Special meetings require at least three (3) days' notice and must state the purpose of the meeting."
+        },
+        {
+          "type": "p",
+          "text": "A majority of the Board must be present for meetings to be valid. Board decisions require a majority vote of those present. If all directors are present, no notice is required, and any business may be conducted."
+        },
+        {
+          "type": "heading",
+          "text": "Officers of the Board"
+        },
+        {
+          "type": "p",
+          "text": "The Board elects officers annually, including: President (Chief executive, presides over meetings). Vice President (Assists President, may act in their absence). Secretary (Maintains records, meeting minutes, and membership register). Treasurer (Handles finances, assessments, and bank accounts)."
+        },
+        {
+          "type": "heading",
+          "text": "Board Committees & Delegation"
+        },
+        {
+          "type": "p",
+          "text": "The Board may create committees to assist in managing specific tasks. At least one Board member must be on each committee."
+        },
+        {
+          "type": "p",
+          "text": "The Board may hire a professional manager but retains final authority over key decisions."
+        },
+        {
+          "type": "heading",
+          "text": "Compensation & Liability"
+        },
+        {
+          "type": "p",
+          "text": "Board members serve without pay. However, the Board may approve reasonable compensation for specific work beyond standard duties."
+        },
+        {
+          "type": "p",
+          "text": "Board members are not personally liable for decisions made in good faith. The Association must indemnify directors against legal claims unless misconduct is proven."
+        },
+        {
+          "type": "heading",
+          "text": "Assessments & Financial Authority"
+        },
+        {
+          "type": "p",
+          "text": "The Board sets annual budgets and assessments. They determine reserves, approve expenses, and collect fees. If needed, they may impose special assessments."
+        },
+        {
+          "type": "heading",
+          "text": "Amendments"
+        },
+        {
+          "type": "p",
+          "text": "The Board may amend some sections of the Bylaws without owner approval. Other amendments require a 60% unit owner vote."
+        },
+        {
+          "type": "p",
+          "text": "Any significant change to Board authority or governance rules requires: Approval of the Board. Approval of at least 60% of unit owners. Lender approval (if required by mortgagee provisions)."
+        }
       ]
     },
     {
@@ -1008,6 +1576,124 @@
               ]
             }
           ]
+        }
+      ],
+      "fullText": [
+        {
+          "type": "heading",
+          "text": "1. Purpose & Legal Requirement"
+        },
+        {
+          "type": "p",
+          "text": "Mandatory for Unit Sales: A Resale Certificate must be provided to the buyer before the sale of a unit, as required by Washington State Condominium Law (RCW 64.34.425). Reference: Section 19.9 - Amendments to Declaration and Bylaws."
+        },
+        {
+          "type": "p",
+          "text": "Ensures Buyer Awareness: The document discloses financial health, assessments, insurance, rules, and compliance details to protect both the buyer and the Association. Reference: Section 14.8 - Records & Financial Reports."
+        },
+        {
+          "type": "heading",
+          "text": "2. Who Prepares the Resale Certificate?"
+        },
+        {
+          "type": "p",
+          "text": "Prepared by: The Board of Directors or Association's property manager. Reference: Section 12.5 - Authority of the Association."
+        },
+        {
+          "type": "p",
+          "text": "Request Process: The unit seller (or their agent) must formally request the certificate from the Association. Reference: Section 14.11 - Certificate of Assessment."
+        },
+        {
+          "type": "p",
+          "text": "Timeframe: The Association must provide the certificate within 10 days of the request. Reference: Section 19.7.2 - Required Notices to Mortgagees."
+        },
+        {
+          "type": "heading",
+          "text": "3. Required Information"
+        },
+        {
+          "type": "heading",
+          "text": "3.1 Financial Information"
+        },
+        {
+          "type": "p",
+          "text": "Current & Future Assessments: Monthly regular assessments for common expenses. Any special assessments levied but not yet paid. Reference: Section 14.1 - Common Expenses & Assessments."
+        },
+        {
+          "type": "p",
+          "text": "Reserve Fund Balance: Statement of the Association's reserve funds and planned future contributions. Reference: Section 14.5 - Separate Accounts (Reserve & Insurance Accounts)."
+        },
+        {
+          "type": "p",
+          "text": "Delinquency Status: Confirmation if the unit seller is delinquent on payments to the Association. Reference: Section 14.10 - Liquidated Indebtedness."
+        },
+        {
+          "type": "p",
+          "text": "Annual Budget & Financial Statements: Copy of the current year's operating budget. Most recent audited financial statements. Reference: Section 14.8 - Records & Financial Reports."
+        },
+        {
+          "type": "heading",
+          "text": "3.2 Legal & Governance Disclosures"
+        },
+        {
+          "type": "p",
+          "text": "Pending Lawsuits: Disclosure of any ongoing litigation involving the Association. Reference: Section 12.5.12 - Authority to Institute Legal Action."
+        },
+        {
+          "type": "p",
+          "text": "Governing Documents: Copies of the Declaration, Bylaws, Rules & Regulations. Reference: Section 24.1 - Amendment by Unit Owners."
+        },
+        {
+          "type": "p",
+          "text": "Insurance Summary: A statement summarizing Association's insurance policies and owner requirements. Reference: Section 15.1 - Insurance Coverage."
+        },
+        {
+          "type": "heading",
+          "text": "3.3 Property & Maintenance Disclosures"
+        },
+        {
+          "type": "p",
+          "text": "Planned Major Repairs or Projects: Any scheduled capital improvements or major maintenance projects. Reference: Section 16.4 - Restoration (Repairs After Damage or Destruction)."
+        },
+        {
+          "type": "p",
+          "text": "Violation Notices: Whether the unit is in compliance with community rules and regulations. Reference: Section 10.1 - Enforcement of Declaration and Rules."
+        },
+        {
+          "type": "heading",
+          "text": "4. Buyer's Right to Cancel"
+        },
+        {
+          "type": "p",
+          "text": "Cancellation Period: The buyer has 5 days after receiving the Resale Certificate to review and cancel the contract without penalty. Reference: Section 19.7.2 - Required Notices to Mortgagees (Applies to Buyer Protections)."
+        },
+        {
+          "type": "p",
+          "text": "Method of Cancellation: Must be done in writing and sent to the seller or their agent within the allowed timeframe. Reference: Section 25 - Notices."
+        },
+        {
+          "type": "heading",
+          "text": "5. Fees & Seller Responsibility"
+        },
+        {
+          "type": "p",
+          "text": "Processing Fee: The Association may charge a reasonable fee for preparing the Resale Certificate. Reference: Section 14.12 - Security Deposit and Fees for Documentation."
+        },
+        {
+          "type": "p",
+          "text": "Seller's Obligation: The seller is responsible for obtaining and delivering the certificate to the buyer before closing. Reference: Section 12.5 - Authority of the Association (Obligation to Provide Documents)."
+        },
+        {
+          "type": "heading",
+          "text": "6. Importance of Compliance"
+        },
+        {
+          "type": "p",
+          "text": "Failure to Provide a Resale Certificate: May delay or void the transaction. Could expose the seller to legal liability. Reference: Section 14.10 - Liquidated Indebtedness (Outstanding Assessments on Transfer)."
+        },
+        {
+          "type": "p",
+          "text": "Ensures Transparency: Protects both buyers and the Association by providing key financial and governance details before the sale is finalized. Reference: Section 14.8 - Records & Financial Reports."
         }
       ]
     },
