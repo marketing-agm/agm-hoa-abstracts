@@ -859,6 +859,112 @@ body {
   margin-top: 0.5rem;
 }
 
+/* ── ORIGINAL DOCUMENT SECTION ── */
+.original-doc {
+  margin-top: 3rem;
+  border-top: 1px solid var(--gray-200);
+  padding-top: 2.5rem;
+}
+
+.original-doc-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  width: 100%;
+  text-align: left;
+}
+
+.original-doc-toggle-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--gray-200);
+  font-size: 0.75rem;
+  color: var(--gray-400);
+  flex-shrink: 0;
+  transition: border-color 0.2s var(--ease), color 0.2s var(--ease), transform 0.2s var(--ease);
+}
+
+.original-doc.open .original-doc-toggle-icon {
+  transform: rotate(90deg);
+  border-color: var(--gray-400);
+  color: var(--black);
+}
+
+.original-doc-toggle:hover .original-doc-toggle-icon {
+  border-color: var(--gray-400);
+  color: var(--black);
+}
+
+.original-doc-toggle-text h3 {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  color: var(--black);
+}
+
+.original-doc-toggle-text p {
+  font-size: 0.75rem;
+  color: var(--gray-400);
+  font-weight: 300;
+  margin-top: 0.125rem;
+}
+
+.original-doc-body {
+  display: none;
+  margin-top: 2rem;
+  padding: 2rem 2.25rem;
+  background: var(--gray-50);
+  border: 1px solid var(--gray-200);
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.original-doc.open .original-doc-body {
+  display: block;
+  animation: fadeIn 0.3s var(--ease);
+}
+
+.original-doc-body::-webkit-scrollbar { width: 4px; }
+.original-doc-body::-webkit-scrollbar-track { background: transparent; }
+.original-doc-body::-webkit-scrollbar-thumb { background: var(--gray-300); }
+
+.original-doc-body p {
+  font-size: 0.8125rem;
+  line-height: 1.75;
+  color: var(--gray-600);
+  font-weight: 300;
+  margin-bottom: 0.875rem;
+}
+
+.original-doc-body p:last-child { margin-bottom: 0; }
+
+.original-doc-heading {
+  font-family: var(--sans);
+  font-size: 0.625rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray-400);
+  margin-top: 1.5rem;
+  margin-bottom: 0.625rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--gray-200);
+}
+
+.original-doc-heading:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
 /* ── BLOCK SEPARATOR ── */
 .block-sep {
   border: none;
@@ -1167,6 +1273,19 @@ body {
 
   .source-text { color: #666 !important; font-size: 9pt; }
   .source-label { color: #999 !important; }
+
+  .original-doc-toggle { display: none !important; }
+  .original-doc-body {
+    display: block !important;
+    max-height: none !important;
+    overflow: visible !important;
+    background: #f8f8f8 !important;
+    border: 0.5pt solid #ddd !important;
+    padding: 1rem !important;
+    page-break-before: always;
+  }
+  .original-doc-body p { color: #444 !important; font-size: 9pt; }
+  .original-doc-heading { color: #777 !important; border-color: #ddd !important; }
 
   #detail-view { display: block !important; }
 
@@ -1636,15 +1755,49 @@ function openDetail(id, scrollToSection) {
     ).join('') +
     `<a class="sidebar-home" onclick="goHome()">\u2190 All Documents</a>`;
 
+  // Add "Original Document" to sidebar if fullText exists
+  if (a.fullText) {
+    const origIdx = a.sections.length;
+    const sidebarEl = document.getElementById('detail-sidebar');
+    const homeLink = sidebarEl.querySelector('.sidebar-home');
+    const origLink = document.createElement('a');
+    origLink.className = 'sidebar-link';
+    origLink.dataset.section = String(origIdx);
+    origLink.onclick = () => scrollToIdx(origIdx);
+    origLink.textContent = 'Original Document';
+    sidebarEl.insertBefore(origLink, homeLink);
+  }
+
   // Build content
   const content = document.getElementById('detail-content');
   const otherDocs = abstracts.filter(x => x.id !== id);
+
+  // Render original document section if fullText exists
+  const originalDocHtml = a.fullText ? `
+    <div class="doc-section" id="section-${a.sections.length}">
+      <div class="original-doc" id="original-doc-panel">
+        <button class="original-doc-toggle" onclick="document.getElementById('original-doc-panel').classList.toggle('open')">
+          <span class="original-doc-toggle-icon">\u25B6</span>
+          <div class="original-doc-toggle-text">
+            <h3>Original Document</h3>
+            <p>Full text from the governing documents as originally written</p>
+          </div>
+        </button>
+        <div class="original-doc-body">
+          ${a.fullText.map(block => {
+            if (block.type === 'heading') return `<div class="original-doc-heading">${block.text}</div>`;
+            return `<p>${block.text}</p>`;
+          }).join('')}
+        </div>
+      </div>
+    </div>` : '';
+
   content.innerHTML = a.sections.map((s, i) =>
     `<div class="doc-section" id="section-${i}">
       <div class="section-label">${s.name}</div>
       ${renderBlocks(s.blocks)}
     </div>`
-  ).join('') + `
+  ).join('') + originalDocHtml + `
     <div class="doc-footer">
       <div class="doc-footer-label">Continue Reading</div>
       <div class="doc-footer-grid">
@@ -1835,7 +1988,9 @@ const properties = [
   { slug: "lakewest", name: "Lakewest Condominiums", docs: 6 },
   { slug: "fransson-farms", name: "Fransson Farms", docs: 6 },
   { slug: "stone-horse", name: "Stone Horse Condominiums", docs: 7 },
-  { slug: "summerlin-ridge", name: "Summerlin Ridge Condominiums", docs: 6 }
+  { slug: "summerlin-ridge", name: "Summerlin Ridge Condominiums", docs: 6 },
+  { slug: "shannon-heights", name: "Shannon Heights", docs: 6 },
+  { slug: "chateau-ville", name: "Château Ville Condominiums", docs: 6 }
 ];
 
 function showAdminLanding() {
