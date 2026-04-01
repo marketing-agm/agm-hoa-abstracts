@@ -22,6 +22,9 @@
   --gray-600: #525252;
   --gray-800: #262626;
   --gray-900: #171717;
+  --brand-blue: #129AE5;
+  --brand-dark: #09212D;
+  --brand-offwhite: #F0F0F0;
   --serif: 'Instrument Serif', Georgia, serif;
   --sans: 'Geist', -apple-system, system-ui, sans-serif;
   --ease: cubic-bezier(0.16, 1, 0.3, 1);
@@ -188,8 +191,8 @@ body {
   font-size: 0.8125rem;
   font-weight: 400;
   color: var(--white);
-  background: var(--black);
-  border: 1px solid var(--black);
+  background: var(--brand-dark);
+  border: 1px solid var(--brand-dark);
   padding: 0.75rem 1.375rem;
   cursor: pointer;
   display: flex;
@@ -201,7 +204,7 @@ body {
   flex-shrink: 0;
 }
 
-.search-trigger:hover { background: var(--gray-800); border-color: var(--gray-800); }
+.search-trigger:hover { background: var(--brand-blue); border-color: var(--brand-blue); }
 
 .search-trigger kbd {
   font-family: var(--sans);
@@ -295,7 +298,7 @@ body {
 
 /* ── Hero ── */
 .detail-hero {
-  background: var(--black);
+  background: var(--brand-dark);
   color: var(--white);
   padding: 2.5rem 3rem 2.5rem;
   opacity: 0;
@@ -471,7 +474,7 @@ body {
 .sidebar-link:hover { color: var(--gray-600); }
 
 .sidebar-link.active {
-  color: var(--black);
+  color: var(--brand-blue);
   font-weight: 500;
 }
 
@@ -545,7 +548,7 @@ body {
 
 /* ── PULL QUOTE ── */
 .pull-quote {
-  border-left: 2px solid var(--black);
+  border-left: 2px solid var(--brand-blue);
   padding: 0.25rem 0 0.25rem 1.5rem;
   margin: 1.75rem 0;
   max-width: 580px;
@@ -667,7 +670,7 @@ body {
 
 /* ── TAKEAWAY BLOCK (enhanced) ── */
 .takeaway-block {
-  background: var(--black);
+  background: var(--brand-dark);
   color: var(--white);
   padding: 2.75rem 3rem;
 }
@@ -1029,6 +1032,18 @@ body {
   border-top: none;
 }
 
+/* ── DISCLAIMER ── */
+.section-disclaimer {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  background: var(--brand-offwhite);
+  border-left: 2px solid var(--gray-300);
+  font-size: 0.75rem;
+  line-height: 1.6;
+  color: var(--gray-500);
+  font-weight: 300;
+}
+
 /* ── BLOCK SEPARATOR ── */
 .block-sep {
   border: none;
@@ -1176,8 +1191,8 @@ body {
   }
 
   .sidebar-link.active {
-    border-color: var(--black);
-    background: var(--black);
+    border-color: var(--brand-dark);
+    background: var(--brand-dark);
     color: var(--white);
   }
 
@@ -1880,6 +1895,7 @@ function openDetail(id, scrollToSection) {
     `<div class="doc-section" id="section-${i}">
       <div class="section-label">${s.name}</div>
       ${renderBlocks(s.blocks)}
+      ${!s.isTakeaway ? '<div class="section-disclaimer">This is an abstract summary only. Please reference the official governing documents (Declaration, Bylaws, and Rules & Regulations) for complete and binding language.</div>' : ''}
     </div>`
   ).join('') + originalDocHtml + `
     <div class="doc-footer">
@@ -1994,7 +2010,7 @@ function renderBlocks(blocks) {
             </div>
           `).join('')}
         </div>
-        ${b.crossLinks ? renderCrossLinks(b.crossLinks) : ''}
+        ${b.crossLinks ? '' : ''}
       </div>`;
     }
 
@@ -2071,24 +2087,12 @@ function renderBlocks(blocks) {
       </div>`;
     }
 
-    if (b.crossLinks) {
-      html += renderCrossLinks(b.crossLinks);
-    }
-
     html += '</div>';
     if (i < blocks.length - 1 && !blocks[i + 1].takeaways) {
       html += '<hr class="block-sep">';
     }
     return html;
   }).join('');
-}
-
-function renderCrossLinks(links) {
-  return `<div class="cross-links">
-    ${links.map(l =>
-      `<button class="cross-link" onclick="openDetail('${l.docId}', '${l.section}')">${l.label} <span class="cross-link-arrow">\u2192</span></button>`
-    ).join('')}
-  </div>`;
 }
 
 // ══════════════════════════════════
