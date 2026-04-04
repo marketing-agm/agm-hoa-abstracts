@@ -4,9 +4,9 @@
     {
       "id": "insurance",
       "title": "Insurance Requirements",
-      "desc": "Coverage requirements for the Association and individual unit owners.",
+      "desc": "Summary of Insurance Requirements for Château Ville Condominiums.",
       "updated": "March 2026",
-      "subtitle": "The Insurance provisions from the Declaration, Bylaws, and Articles of Incorporation outline coverage requirements for both the Association and individual unit owners. Below is a structured summary.",
+      "subtitle": "The Insurance provisions from the Declaration, Bylaws, and Articles of Incorporation outline coverage requirements for both the Association and individual unit owners. Below is a structured summary:",
       "sections": [
         {
           "name": "Association",
@@ -17,48 +17,17 @@
             },
             {
               "heading": "1.1 Required Policies",
-              "text": "The Association must obtain and maintain the following:"
-            },
-            {
-              "heading": "1.1.1 Property Insurance (Fire & Casualty)",
-              "items": [
-                "Coverage: Full replacement value of all common areas and limited common areas (e.g., roofs, exterior walls, structural elements).",
-                "Scope: Includes fire, wind, water damage, and other perils as specified in the policy.",
-                "Exclusions: Does not cover unit interiors, personal property, or unit owner modifications.",
-                "Named Insured: The Association and Board of Directors are named as insured parties on behalf of all unit owners.",
-                "Loss Payee: Insurance proceeds are held in trust and used for repairs or reconstruction unless a majority vote decides otherwise."
-              ]
-            },
-            {
-              "heading": "1.1.2 General Liability Insurance",
-              "items": [
-                "Coverage: Protects the Association against claims for bodily injury, property damage, or liability incidents in common areas.",
-                "Minimum Limits: $1,000,000 per occurrence (personal injury & death). $50,000 per occurrence (property damage).",
-                "Cross-Liability Clause: Ensures that claims by one insured party against another are not excluded."
-              ]
-            },
-            {
-              "heading": "1.1.3 Directors & Officers (D&O) Insurance",
-              "items": [
-                "Purpose: Protects Board members from personal liability for decisions made in good faith on behalf of the Association.",
-                "Scope: Covers legal fees, settlements, and damages related to governance disputes."
-              ]
-            },
-            {
-              "heading": "1.1.4 Fidelity Bond / Crime Insurance",
-              "items": [
-                "Who is Covered: Association officers, directors, employees, and the property manager.",
-                "Purpose: Protects against embezzlement, fraud, or financial misconduct involving Association funds.",
-                "Coverage Amount: Minimum of 50% of the annual budget and reserve fund balance."
-              ]
-            },
-            {
-              "heading": "1.1.5 Workers' Compensation Insurance",
-              "text": "Required if Employees Are Hired: Covers employees or contractors performing maintenance or management services for the Association."
-            },
-            {
-              "heading": "1.1.6 Flood or Earthquake Insurance (if applicable)",
-              "text": "Required if Mortgage Lenders Mandate It: Coverage for natural disaster-related losses in areas prone to flooding or seismic activity."
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6\"/>",
+              "text": "The Association must obtain and maintain the following:",
+              "cards": [
+                { "label": "1.1.1 Property Insurance (Fire & Casualty)", "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>", "text": "Coverage: Full replacement value of all common areas and limited common areas (e.g., roofs, exterior walls, structural elements).\n\nScope: Includes fire, wind, water damage, and other perils as specified in the policy.\n\nExclusions: Does not cover unit interiors, personal property, or unit owner modifications.\n\nNamed Insured: The Association and Board of Directors are named as insured parties on behalf of all unit owners.\n\nLoss Payee: Insurance proceeds are held in trust and used for repairs or reconstruction unless a majority vote decides otherwise." },
+                { "label": "1.1.2 General Liability Insurance", "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4l3 3\"/>", "text": "Coverage: Protects the Association against claims for bodily injury, property damage, or liability incidents in common areas.\n\nMinimum Limits:\n\n$1,000,000 per occurrence (personal injury & death).\n\n$50,000 per occurrence (property damage).\n\nCross-Liability Clause: Ensures that claims by one insured party against another are not excluded." },
+                { "label": "1.1.3 Directors & Officers (D&O) Insurance", "icon": "<path d=\"M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75\"/>", "text": "Purpose: Protects Board members from personal liability for decisions made in good faith on behalf of the Association.\n\nScope: Covers legal fees, settlements, and damages related to governance disputes." },
+                { "label": "1.1.4 Fidelity Bond / Crime Insurance", "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>", "text": "Who is Covered: Association officers, directors, employees, and the property manager.\n\nPurpose: Protects against embezzlement, fraud, or financial misconduct involving Association funds.\n\nCoverage Amount: Minimum of 50% of the annual budget and reserve fund balance." },
+                { "label": "1.1.5 Workers' Compensation Insurance", "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6M16 13H8M16 17H8M10 9H8\"/>", "text": "Required if Employees Are Hired: Covers employees or contractors performing maintenance or management services for the Association." },
+                { "label": "1.1.6 Flood or Earthquake Insurance (if applicable)", "icon": "<path d=\"M18 10h-1.26A8 8 0 109 20h9a5 5 0 000-10z\"/>", "text": "Required if Mortgage Lenders Mandate It: Coverage for natural disaster-related losses in areas prone to flooding or seismic activity." }
+              ],
+              "cardColumns": 3
             }
           ]
         },
@@ -70,7 +39,12 @@
               "text": "Each unit owner is responsible for obtaining personal insurance to cover items that the Association's policies do not protect."
             },
             {
+              "heading": "2.1 Required Coverage for Owners",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6\"/>"
+            },
+            {
               "heading": "2.1.1 HO-6 (Condo Owners) Insurance",
+              "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>",
               "items": [
                 "Personal Property: Covers furniture, appliances, clothing, electronics, and valuables inside the unit.",
                 "Unit Improvements: Includes upgrades made by owners (e.g., flooring, countertops, cabinetry).",
@@ -80,12 +54,16 @@
             },
             {
               "heading": "2.1.2 Loss Assessment Coverage",
-              "text": "Covers Special Assessments: Protects owners against unexpected charges levied by the Association due to uninsured losses or underinsured claims."
+              "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>",
+              "items": [
+                "Covers Special Assessments: Protects owners against unexpected charges levied by the Association due to uninsured losses or underinsured claims."
+              ]
             },
             {
               "heading": "2.1.3 Personal Liability Insurance",
+              "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>",
               "items": [
-                "Minimum Coverage Recommended: $300,000 - $500,000.",
+                "Minimum Coverage Recommended: $300,000 - $500,000",
                 "Protects owners if a guest is injured inside their unit or if they accidentally cause damage to another unit or common area."
               ]
             }
@@ -99,6 +77,7 @@
             },
             {
               "heading": "3.1 Association's Role in Claims & Payouts",
+              "icon": "<path d=\"M22 11.08V12a10 10 0 11-5.93-9.14\"/><path d=\"M22 4L12 14.01l-3-3\"/>",
               "items": [
                 "The Board of Directors handles claims, policy renewals, and loss payouts.",
                 "Insurance proceeds must be used for repairs, unless unit owners vote not to rebuild after a catastrophic loss.",
@@ -107,6 +86,7 @@
             },
             {
               "heading": "3.2 Mortgagee Protections",
+              "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>",
               "items": [
                 "Lenders are notified of major policy changes.",
                 "Insurance must meet lender requirements to secure financing.",
@@ -115,6 +95,7 @@
             },
             {
               "heading": "3.3 Owner Responsibility for Damage",
+              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4M12 16h.01\"/>",
               "items": [
                 "If a unit owner is responsible for damage to another unit or common area, they must pay for repairs unless covered by their personal policy.",
                 "If an owner fails to carry insurance, the Association may charge them directly for any covered losses they caused."
@@ -136,7 +117,7 @@
           ]
         },
         {
-          "name": "Key Takeaways",
+          "name": "Takeaways",
           "isTakeaway": true,
           "blocks": [
             {
@@ -155,7 +136,7 @@
     {
       "id": "maintenance",
       "title": "Maintenance Responsibilities",
-      "desc": "Responsibilities for maintaining units, common areas, and limited common areas.",
+      "desc": "Maintenance Responsibilities Summary for Château Ville Condominiums.",
       "updated": "March 2026",
       "subtitle": "From Articles of Incorporation, Bylaws, and Declaration of Chateau Ville Condominiums Association.",
       "sections": [
@@ -202,6 +183,7 @@
             },
             {
               "heading": "Common Areas & Facilities",
+              "icon": "<path d=\"M3 21h18M3 7v14M21 7v14M6 21V10M10 21V10M14 21V10M18 21V10M12 3l9 4-9 4-9-4 9-4z\"/>",
               "items": [
                 "Hallways, stairwells, lobbies, entryways.",
                 "Sidewalks, driveways, and parking lots.",
@@ -212,6 +194,7 @@
             },
             {
               "heading": "Building Exteriors",
+              "icon": "<path d=\"M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z\"/><path d=\"M9 22V12h6v10\"/>",
               "items": [
                 "Roof, gutters, and exterior walls.",
                 "Foundation and load-bearing structures.",
@@ -220,6 +203,7 @@
             },
             {
               "heading": "Shared Mechanical & Utility Systems",
+              "icon": "<path d=\"M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z\"/>",
               "items": [
                 "Plumbing and drainage serving multiple units.",
                 "Electrical and gas systems shared by the building.",
@@ -228,6 +212,7 @@
             },
             {
               "heading": "Limited Common Area Maintenance (HOA Discretion)",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6\"/>",
               "text": "The HOA may maintain decks, balconies, and patios but require unit owners to keep them clean and in good repair."
             },
             {
@@ -271,7 +256,7 @@
               "heading": "Consequences for Neglecting Maintenance",
               "text": "If an owner fails to maintain their unit properly:",
               "items": [
-                "The HOA may require repairs at the owner\u2019s expense.",
+                "The HOA may require repairs at the owner's expense.",
                 "If damage spreads to other units, the owner may be held financially responsible.",
                 "Fines, legal action, or forced maintenance may be imposed for repeated neglect."
               ]
@@ -279,7 +264,7 @@
           ]
         },
         {
-          "name": "Key Takeaways",
+          "name": "Takeaways",
           "isTakeaway": true,
           "blocks": [
             {
@@ -298,7 +283,7 @@
     {
       "id": "acc",
       "title": "ACC Requests",
-      "desc": "Architectural Control Committee requests and modification approval process.",
+      "desc": "Architectural Control Committee (ACC) Requests Summary.",
       "updated": "March 2026",
       "subtitle": "From Articles of Incorporation, Bylaws, and Declaration of Chateau Ville Condominiums Association.",
       "sections": [
@@ -341,6 +326,7 @@
             },
             {
               "heading": "Submit Request",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6\"/>",
               "items": [
                 "Owners must provide a written request with detailed plans, materials, and colors.",
                 "May need to include contractor details and estimated completion time."
@@ -348,6 +334,7 @@
             },
             {
               "heading": "Committee Review",
+              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4l3 3\"/>",
               "items": [
                 "The ACC reviews the request within a specified time (typically 30 days).",
                 "The Board may also be involved in approvals for major modifications."
@@ -355,6 +342,7 @@
             },
             {
               "heading": "Decision & Notification",
+              "icon": "<path d=\"M22 11.08V12a10 10 0 11-5.93-9.14\"/><path d=\"M22 4L12 14.01l-3-3\"/>",
               "items": [
                 "The ACC approves, denies, or requests modifications to the proposal.",
                 "Owners are not allowed to proceed until written approval is received."
@@ -362,6 +350,7 @@
             },
             {
               "heading": "Inspection (If Required)",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6M16 13H8M16 17H8M10 9H8\"/>",
               "text": "The Board/ACC may inspect completed work to ensure compliance with approved plans."
             }
           ]
@@ -396,7 +385,7 @@
           ]
         },
         {
-          "name": "Key Takeaways",
+          "name": "Takeaways",
           "isTakeaway": true,
           "blocks": [
             {
@@ -414,7 +403,7 @@
     {
       "id": "board",
       "title": "Board of Directors",
-      "desc": "Governance structure, elections, authority, and current board composition.",
+      "desc": "Summary of Board of Directors Provisions.",
       "updated": "March 2026",
       "subtitle": "The Board of Directors serves as the main decision-making body for the condominium. Its authority covers rule enforcement, financial management, maintenance, and legal matters. The Developer initially appoints the Board, but once unit owners take control, they elect directors to oversee operations. Board members serve without compensation and must act in the best interest of all unit owners.",
       "sections": [
@@ -446,11 +435,10 @@
         {
           "name": "Elections",
           "blocks": [
-            {
-              "heading": "Election & Term"
-            },
+            { "heading": "Election & Term" },
             {
               "heading": "Election",
+              "icon": "<path d=\"M22 11.08V12a10 10 0 11-5.93-9.14\"/><path d=\"M22 4L12 14.01l-3-3\"/>",
               "items": [
                 "The Developer appoints the initial Board.",
                 "Unit owners elect their own Board no later than two (2) years after recording the Declaration or when 75% of units are sold, whichever occurs first.",
@@ -459,6 +447,7 @@
             },
             {
               "heading": "Term Length",
+              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4l3 3\"/>",
               "items": [
                 "Directors serve two-year terms.",
                 "Terms are staggered to ensure continuity:",
@@ -468,6 +457,7 @@
             },
             {
               "heading": "Filling Vacancies",
+              "icon": "<path d=\"M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75\"/>",
               "items": [
                 "If a director resigns or is removed, the remaining Board members may appoint a replacement to serve the remainder of the term.",
                 "If the unit owners call a special election, a new director is elected by majority vote."
@@ -478,15 +468,15 @@
         {
           "name": "Removal",
           "blocks": [
+            { "heading": "Removal of Directors" },
             {
-              "heading": "Removal of Directors"
-            },
-            {
-              "heading": "Unit Owners\u2019 Authority",
+              "heading": "Unit Owners' Authority",
+              "icon": "<path d=\"M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/>",
               "text": "Directors can be removed by a majority vote of unit owners at a special meeting called for that purpose."
             },
             {
-              "heading": "Developer\u2019s Authority (Temporary Board Only)",
+              "heading": "Developer's Authority (Temporary Board Only)",
+              "icon": "<path d=\"M3 21h18M3 7v14M21 7v14M6 21V10M10 21V10M14 21V10M18 21V10M12 3l9 4-9 4-9-4 9-4z\"/>",
               "text": "While the Developer controls the Board, they can remove or replace any temporary director at will."
             }
           ]
@@ -499,7 +489,7 @@
               "items": [
                 "Regular Meetings: Held at least twice per year.",
                 "Special Meetings: Can be called by the President or at the request of at least three (3) directors.",
-                "Notice: Regular meetings require at least three (3) days\u2019 notice. Special meetings require at least three (3) days\u2019 notice and must state the purpose of the meeting.",
+                "Notice: Regular meetings require at least three (3) days' notice. Special meetings require at least three (3) days' notice and must state the purpose of the meeting.",
                 "Quorum: A majority of the Board must be present for meetings to be valid.",
                 "Voting: Board decisions require a majority vote of those present.",
                 "If all directors are present, no notice is required, and any business may be conducted."
@@ -515,7 +505,7 @@
               "text": "The Board of Directors governs the Association and manages common areas. Key responsibilities include:",
               "items": [
                 "Enforcing the Declaration, Bylaws, and Rules & Regulations.",
-                "Managing the Association\u2019s finances, budget, and assessments.",
+                "Managing the Association's finances, budget, and assessments.",
                 "Hiring and supervising property managers, attorneys, and other professionals.",
                 "Maintaining insurance policies for the condominium.",
                 "Overseeing maintenance, repairs, and capital improvements.",
@@ -543,11 +533,10 @@
         {
           "name": "Committees",
           "blocks": [
-            {
-              "heading": "Board Committees & Delegation"
-            },
+            { "heading": "Board Committees & Delegation" },
             {
               "heading": "Committees",
+              "icon": "<path d=\"M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M22 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75\"/>",
               "items": [
                 "The Board may create committees to assist in managing specific tasks.",
                 "At least one Board member must be on each committee."
@@ -555,6 +544,7 @@
             },
             {
               "heading": "Delegation of Duties",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6\"/>",
               "text": "The Board may hire a professional manager but retains final authority over key decisions."
             }
           ]
@@ -562,11 +552,10 @@
         {
           "name": "Compensation",
           "blocks": [
-            {
-              "heading": "Compensation & Liability"
-            },
+            { "heading": "Compensation & Liability" },
             {
               "heading": "Compensation",
+              "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>",
               "items": [
                 "Board members serve without pay.",
                 "However, the Board may approve reasonable compensation for specific work beyond standard duties."
@@ -574,6 +563,7 @@
             },
             {
               "heading": "Liability Protection",
+              "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>",
               "items": [
                 "Board members are not personally liable for decisions made in good faith.",
                 "The Association must indemnify directors against legal claims unless misconduct is proven."
@@ -584,11 +574,10 @@
         {
           "name": "Authority",
           "blocks": [
-            {
-              "heading": "Decision-Making Authority & Rule Enforcement"
-            },
+            { "heading": "Decision-Making Authority & Rule Enforcement" },
             {
               "heading": "Rulemaking Power",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6M16 13H8M16 17H8M10 9H8\"/>",
               "items": [
                 "The Board can adopt and enforce rules & regulations for common areas, parking, pets, and leasing.",
                 "Unit owners must comply with all rules, and violations may result in fines or legal action."
@@ -596,6 +585,7 @@
             },
             {
               "heading": "Assessments & Financial Authority",
+              "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>",
               "items": [
                 "The Board sets annual budgets and assessments.",
                 "They determine reserves, approve expenses, and collect fees.",
@@ -604,6 +594,7 @@
             },
             {
               "heading": "Legal & Insurance Authority",
+              "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>",
               "items": [
                 "The Board ensures the condominium has proper insurance.",
                 "They can initiate legal action against rule violators or non-paying owners."
@@ -614,11 +605,10 @@
         {
           "name": "Mortgagee Rights",
           "blocks": [
-            {
-              "heading": "Board and Mortgagee Rights"
-            },
+            { "heading": "Board and Mortgagee Rights" },
             {
               "heading": "Lender Notification",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6\"/>",
               "text": "Mortgagees (lenders) have the right to be notified about certain Board actions, including:",
               "items": [
                 "Budget changes.",
@@ -628,6 +618,7 @@
             },
             {
               "heading": "Mortgagee Oversight",
+              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4M12 16h.01\"/>",
               "text": "Certain changes require lender approval, including:",
               "items": [
                 "Abandonment of the condominium structure.",
@@ -639,11 +630,10 @@
         {
           "name": "Amendments",
           "blocks": [
-            {
-              "heading": "Amendments & Board Authority Changes"
-            },
+            { "heading": "Amendments & Board Authority Changes" },
             {
               "heading": "Amending the Bylaws",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6M16 13H8M16 17H8M10 9H8\"/>",
               "items": [
                 "The Board may amend some sections of the Bylaws without owner approval.",
                 "Other amendments require a 60% unit owner vote."
@@ -651,6 +641,7 @@
             },
             {
               "heading": "Changes to Board Powers",
+              "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>",
               "text": "Any significant change to Board authority or governance rules requires:",
               "items": [
                 "Approval of the Board.",
@@ -682,7 +673,7 @@
     {
       "id": "resale",
       "title": "Resale Certificate",
-      "desc": "Required disclosures for the sale or transfer of any unit.",
+      "desc": "Resale Certificate Summary for Château Ville Condominiums.",
       "updated": "March 2026",
       "subtitle": "A Resale Certificate is required for the sale or transfer of any unit within Château Ville Condominiums. It provides critical financial and governance disclosures to prospective buyers. Below is a consolidation of all relevant sections regarding the Resale Certificate from the governing documents, with section references for easy verification.",
       "sections": [
@@ -692,8 +683,10 @@
             {
               "heading": "1. Purpose & Legal Requirement",
               "items": [
-                "Mandatory for Unit Sales: A Resale Certificate must be provided to the buyer before the sale of a unit, as required by Washington State Condominium Law (RCW 64.34.425). Reference: Section 19.9 - Amendments to Declaration and Bylaws.",
-                "Ensures Buyer Awareness: The document discloses financial health, assessments, insurance, rules, and compliance details to protect both the buyer and the Association. Reference: Section 14.8 - Records & Financial Reports."
+                "Mandatory for Unit Sales: A Resale Certificate must be provided to the buyer before the sale of a unit, as required by Washington State Condominium Law (RCW 64.34.425).",
+                "Reference: Section 19.9 - Amendments to Declaration and Bylaws",
+                "Ensures Buyer Awareness: The document discloses financial health, assessments, insurance, rules, and compliance details to protect both the buyer and the Association.",
+                "Reference: Section 14.8 - Records & Financial Reports"
               ]
             }
           ]
@@ -704,9 +697,12 @@
             {
               "heading": "2. Who Prepares the Resale Certificate?",
               "items": [
-                "Prepared by: The Board of Directors or Association\u2019s property manager. Reference: Section 12.5 - Authority of the Association.",
-                "Request Process: The unit seller (or their agent) must formally request the certificate from the Association. Reference: Section 14.11 - Certificate of Assessment.",
-                "Timeframe: The Association must provide the certificate within 10 days of the request. Reference: Section 19.7.2 - Required Notices to Mortgagees."
+                "Prepared by: The Board of Directors or Association's property manager.",
+                "Reference: Section 12.5 - Authority of the Association",
+                "Request Process: The unit seller (or their agent) must formally request the certificate from the Association.",
+                "Reference: Section 14.11 - Certificate of Assessment",
+                "Timeframe: The Association must provide the certificate within 10 days of the request.",
+                "Reference: Section 19.7.2 - Required Notices to Mortgagees"
               ]
             }
           ]
@@ -720,26 +716,49 @@
             },
             {
               "heading": "3.1 Financial Information",
+              "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>",
               "items": [
-                "Current & Future Assessments: Monthly regular assessments for common expenses. Any special assessments levied but not yet paid. Reference: Section 14.1 - Common Expenses & Assessments.",
-                "Reserve Fund Balance: Statement of the Association\u2019s reserve funds and planned future contributions. Reference: Section 14.5 - Separate Accounts (Reserve & Insurance Accounts).",
-                "Delinquency Status: Confirmation if the unit seller is delinquent on payments to the Association. Reference: Section 14.10 - Liquidated Indebtedness.",
-                "Annual Budget & Financial Statements: Copy of the current year\u2019s operating budget. Most recent audited financial statements. Reference: Section 14.8 - Records & Financial Reports."
+                "Current & Future Assessments:",
+                "Monthly regular assessments for common expenses.",
+                "Any special assessments levied but not yet paid.",
+                "Reference: Section 14.1 - Common Expenses & Assessments",
+                "Reserve Fund Balance:",
+                "Statement of the Association's reserve funds and planned future contributions.",
+                "Reference: Section 14.5 - Separate Accounts (Reserve & Insurance Accounts)",
+                "Delinquency Status:",
+                "Confirmation if the unit seller is delinquent on payments to the Association.",
+                "Reference: Section 14.10 - Liquidated Indebtedness",
+                "Annual Budget & Financial Statements:",
+                "Copy of the current year's operating budget.",
+                "Most recent audited financial statements.",
+                "Reference: Section 14.8 - Records & Financial Reports"
               ]
             },
             {
               "heading": "3.2 Legal & Governance Disclosures",
+              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6M16 13H8M16 17H8M10 9H8\"/>",
               "items": [
-                "Pending Lawsuits: Disclosure of any ongoing litigation involving the Association. Reference: Section 12.5.12 - Authority to Institute Legal Action.",
-                "Governing Documents: Copies of the Declaration, Bylaws, Rules & Regulations. Reference: Section 24.1 - Amendment by Unit Owners.",
-                "Insurance Summary: A statement summarizing Association\u2019s insurance policies and owner requirements. Reference: Section 15.1 - Insurance Coverage."
+                "Pending Lawsuits:",
+                "Disclosure of any ongoing litigation involving the Association.",
+                "Reference: Section 12.5.12 - Authority to Institute Legal Action",
+                "Governing Documents:",
+                "Copies of the Declaration, Bylaws, Rules & Regulations.",
+                "Reference: Section 24.1 - Amendment by Unit Owners",
+                "Insurance Summary:",
+                "A statement summarizing Association's insurance policies and owner requirements.",
+                "Reference: Section 15.1 - Insurance Coverage"
               ]
             },
             {
               "heading": "3.3 Property & Maintenance Disclosures",
+              "icon": "<path d=\"M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z\"/><path d=\"M9 22V12h6v10\"/>",
               "items": [
-                "Planned Major Repairs or Projects: Any scheduled capital improvements or major maintenance projects. Reference: Section 16.4 - Restoration (Repairs After Damage or Destruction).",
-                "Violation Notices: Whether the unit is in compliance with community rules and regulations. Reference: Section 10.1 - Enforcement of Declaration and Rules."
+                "Planned Major Repairs or Projects:",
+                "Any scheduled capital improvements or major maintenance projects.",
+                "Reference: Section 16.4 - Restoration (Repairs After Damage or Destruction)",
+                "Violation Notices:",
+                "Whether the unit is in compliance with community rules and regulations.",
+                "Reference: Section 10.1 - Enforcement of Declaration and Rules"
               ]
             }
           ]
@@ -748,10 +767,12 @@
           "name": "Right to Cancel",
           "blocks": [
             {
-              "heading": "4. Buyer\u2019s Right to Cancel",
+              "heading": "4. Buyer's Right to Cancel",
               "items": [
-                "Cancellation Period: The buyer has 5 days after receiving the Resale Certificate to review and cancel the contract without penalty. Reference: Section 19.7.2 - Required Notices to Mortgagees (Applies to Buyer Protections).",
-                "Method of Cancellation: Must be done in writing and sent to the seller or their agent within the allowed timeframe. Reference: Section 25 - Notices."
+                "Cancellation Period: The buyer has 5 days after receiving the Resale Certificate to review and cancel the contract without penalty.",
+                "Reference: Section 19.7.2 - Required Notices to Mortgagees (Applies to Buyer Protections)",
+                "Method of Cancellation: Must be done in writing and sent to the seller or their agent within the allowed timeframe.",
+                "Reference: Section 25 - Notices"
               ]
             }
           ]
@@ -762,8 +783,10 @@
             {
               "heading": "5. Fees & Seller Responsibility",
               "items": [
-                "Processing Fee: The Association may charge a reasonable fee for preparing the Resale Certificate. Reference: Section 14.12 - Security Deposit and Fees for Documentation.",
-                "Seller\u2019s Obligation: The seller is responsible for obtaining and delivering the certificate to the buyer before closing. Reference: Section 12.5 - Authority of the Association (Obligation to Provide Documents)."
+                "Processing Fee: The Association may charge a reasonable fee for preparing the Resale Certificate.",
+                "Reference: Section 14.12 - Security Deposit and Fees for Documentation",
+                "Seller's Obligation: The seller is responsible for obtaining and delivering the certificate to the buyer before closing.",
+                "Reference: Section 12.5 - Authority of the Association (Obligation to Provide Documents)"
               ]
             }
           ]
@@ -774,14 +797,18 @@
             {
               "heading": "6. Importance of Compliance",
               "items": [
-                "Failure to Provide a Resale Certificate: May delay or void the transaction. Could expose the seller to legal liability. Reference: Section 14.10 - Liquidated Indebtedness (Outstanding Assessments on Transfer).",
-                "Ensures Transparency: Protects both buyers and the Association by providing key financial and governance details before the sale is finalized. Reference: Section 14.8 - Records & Financial Reports."
+                "Failure to Provide a Resale Certificate:",
+                "May delay or void the transaction.",
+                "Could expose the seller to legal liability.",
+                "Reference: Section 14.10 - Liquidated Indebtedness (Outstanding Assessments on Transfer)",
+                "Ensures Transparency: Protects both buyers and the Association by providing key financial and governance details before the sale is finalized.",
+                "Reference: Section 14.8 - Records & Financial Reports"
               ]
             }
           ]
         },
         {
-          "name": "Key Takeaways",
+          "name": "Takeaways",
           "isTakeaway": true,
           "blocks": [
             {
@@ -796,89 +823,20 @@
           ]
         }
       ]
-    },
-    {
-      "id": "reference",
-      "title": "Quick Reference",
-      "desc": "Key numbers, deadlines, and thresholds from all governing documents.",
-      "updated": "March 2026",
-      "subtitle": "Important numbers, deadlines, and thresholds from across the Ch\u00e2teau Ville governing document abstracts.",
-      "sections": [
-        {
-          "name": "Deadlines",
-          "blocks": [
-            {
-              "heading": "Time-Sensitive Requirements",
-              "cards": [
-                { "label": "ACC Review", "text": "Typically 30 days for ACC to review modification requests." },
-                { "label": "Board Meetings", "text": "At least twice per year. 3 days\u2019 notice required." },
-                { "label": "Special Meetings", "text": "3 directors can call a special meeting with 3 days\u2019 notice." },
-                { "label": "Resale Response", "text": "Association must provide Resale Certificate within 10 days." },
-                { "label": "Buyer Cancellation", "text": "5 days to cancel after receiving Resale Certificate." },
-                { "label": "Owner Transition", "text": "Board elected within 2 years of Declaration recording or 75% of units sold." }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Insurance",
-          "blocks": [
-            {
-              "heading": "Insurance Essentials",
-              "cards": [
-                { "label": "Association Liability", "text": "$1,000,000 per occurrence (injury/death); $50,000 per occurrence (property damage)." },
-                { "label": "Fidelity Bond", "text": "Minimum 50% of annual budget plus reserve fund balance." },
-                { "label": "Owner Liability", "text": "Recommended $300,000\u2013$500,000 personal liability." },
-                { "label": "Owner Fails to Insure", "text": "Association may charge owner directly for any covered losses they caused." }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Voting",
-          "blocks": [
-            {
-              "heading": "Voting Thresholds",
-              "cards": [
-                { "label": "Remove Director", "text": "Majority vote of unit owners at a special meeting." },
-                { "label": "Amend Bylaws", "text": "60% unit owner vote (some sections Board-only)." },
-                { "label": "Board Authority Changes", "text": "Board approval + 60% owner vote + lender approval if applicable." },
-                { "label": "Board Quorum", "text": "Majority of directors present." }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Key Takeaways",
-          "isTakeaway": true,
-          "blocks": [
-            {
-              "takeaways": [
-                "ACC reviews modification requests within 30 days. Do not start work without written approval.",
-                "Association liability: $1M per occurrence. Fidelity bond: 50% of budget + reserves.",
-                "Major amendments need 60% owner approval. Some also need lender consent.",
-                "Resale Certificate delivered within 10 days. Buyers get 5 days to cancel.",
-                "Board elected within 2 years of Declaration or 75% units sold.",
-                "If you cause damage and lack insurance, the Association charges you directly."
-              ]
-            }
-          ]
-        }
-      ]
     }
   ],
   "quickAnswers": [
     { "question": "Do I need ACC approval?", "docId": "acc", "section": "Requirements" },
     { "question": "What insurance do I need?", "docId": "insurance", "section": "Unit Owner" },
-    { "question": "What are my maintenance responsibilities?", "docId": "maintenance", "section": "Unit Owner" },
-    { "question": "Who\u2019s on the Board?", "docId": "board", "section": "Structure" },
+    { "question": "What does the Association insure?", "docId": "insurance", "section": "Association" },
+    { "question": "Who's on the Board?", "docId": "board", "section": "Structure" },
     { "question": "What happens if I make unapproved changes?", "docId": "acc", "section": "Consequences" },
-    { "question": "What are the Association\u2019s insurance policies?", "docId": "insurance", "section": "Association" },
-    { "question": "How are my assessments used?", "docId": "maintenance", "section": "Funding" },
-    { "question": "What\u2019s needed to sell my unit?", "docId": "resale", "section": "Preparation" },
-    { "question": "What if I don\u2019t pay assessments?", "docId": "maintenance", "section": "Consequences" },
-    { "question": "How do elections work?", "docId": "board", "section": "Elections" },
-    { "question": "What does the fidelity bond cover?", "docId": "insurance", "section": "Association" },
-    { "question": "How can Bylaws be amended?", "docId": "board", "section": "Amendments" }
+    { "question": "What are my maintenance responsibilities?", "docId": "maintenance", "section": "Unit Owner" },
+    { "question": "How are assessments used?", "docId": "maintenance", "section": "Funding" },
+    { "question": "What's needed to sell my unit?", "docId": "resale", "section": "Preparation" },
+    { "question": "How do I get on the Board?", "docId": "board", "section": "Elections" },
+    { "question": "What are the Board's responsibilities?", "docId": "board", "section": "Roles" },
+    { "question": "How can a director be removed?", "docId": "board", "section": "Removal" },
+    { "question": "What does the fidelity bond cover?", "docId": "insurance", "section": "Association" }
   ]
 }
