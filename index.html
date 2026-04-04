@@ -601,6 +601,30 @@ body {
   font-weight: 300;
 }
 
+/* ── SUB-ITEMS ── */
+.item-sub-rows {
+  margin-top: 0.375rem;
+  padding-left: 0.75rem;
+  border-left: 1.5px solid var(--gray-200);
+}
+
+.item-sub-row {
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  color: var(--gray-500);
+  font-weight: 300;
+  padding: 0.25rem 0 0.25rem 0.75rem;
+  position: relative;
+}
+
+.item-sub-row::before {
+  content: '\25E6';
+  position: absolute;
+  left: -0.125rem;
+  color: var(--gray-400);
+  font-size: 0.625rem;
+}
+
 /* ── SECTION ICON BADGE ── */
 .section-icon-badge {
   width: 2.5rem;
@@ -2135,12 +2159,25 @@ function renderBlocks(blocks) {
 
     if (b.items) {
       html += `<div class="item-rows">
-        ${b.items.map((item, j) => `
-          <div class="item-row">
+        ${b.items.map((item, j) => {
+          if (typeof item === 'string') {
+            return `<div class="item-row">
+              <span class="item-num">${String(j + 1).padStart(2, '0')}</span>
+              <span class="item-text">${item}</span>
+            </div>`;
+          }
+          // Object with text and sub-items
+          let subHtml = '';
+          if (item.sub) {
+            subHtml = `<div class="item-sub-rows">
+              ${item.sub.map(s => `<div class="item-sub-row">${s}</div>`).join('')}
+            </div>`;
+          }
+          return `<div class="item-row">
             <span class="item-num">${String(j + 1).padStart(2, '0')}</span>
-            <span class="item-text">${item}</span>
-          </div>
-        `).join('')}
+            <span class="item-text">${item.text}${subHtml}</span>
+          </div>`;
+        }).join('')}
       </div>`;
     }
 
