@@ -1,0 +1,507 @@
+{
+  "property": "Lakewest Condominiums",
+  "abstracts": [
+    {
+      "id": "insurance",
+      "title": "Insurance Requirements",
+      "desc": "Summary of Insurance Requirements for Lakewest Condominiums.",
+      "updated": "April 2025",
+      "subtitle": "The Lakewest Condominiums Association is required to maintain master insurance policies covering common areas, liability, and governance. Unit owners must carry personal insurance for their units and belongings.",
+      "sections": [
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "Association Insurance Requirements",
+              "text": "The Lakewest Condominiums Association is responsible for maintaining a master insurance policy that covers:",
+              "items": [
+                "Property insurance for common elements and limited common elements.",
+                "General liability insurance to protect the Association against lawsuits related to property damage or personal injury.",
+                "Directors and Officers (D&O) insurance for legal defense and liability coverage for the Board of Directors.",
+                "Fidelity Bond (Crime Insurance) to cover financial losses due to fraud, embezzlement, or theft involving Association funds.",
+                "The Board of Directors is responsible for reviewing and renewing insurance policies annually to ensure compliance with legal requirements and lender standards."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unit Owner",
+          "blocks": [
+            {
+              "heading": "Unit Owner Insurance Requirements (HO-6 Policy)",
+              "text": "Each unit owner is required to maintain an HO-6 homeowner's insurance policy to cover:",
+              "items": [
+                "Interior structures and improvements within their unit.",
+                "Personal belongings and personal liability coverage.",
+                "Loss assessment coverage to cover the owner's share of Association claims or damage.",
+                "Deductible responsibility for claims originating within their unit.",
+                "Unit owners must provide proof of insurance upon request by the Board or Property Manager."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Provisions",
+          "blocks": [
+            {
+              "heading": "Insurance Provisions & Special Conditions",
+              "items": [
+                "If damage originates within a unit (e.g., water leaks, electrical issues), the unit owner is responsible for the deductible and repair costs.",
+                "If damage affects common areas or multiple units, the Association's policy applies, but owners may be assessed a portion of the costs.",
+                "The Association may special assess owners for any insurance shortfalls or uncovered claims."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "Insurance Policy Requirements & Compliance",
+              "items": [
+                "Any structural modification to a unit requires Board approval and may impact insurance coverage.",
+                "Owners must ensure their contractors carry proper liability insurance for renovations.",
+                "Unauthorized modifications that cause damage or safety risks may result in fines or mandated repairs."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Association maintains master property, liability, D&O, and fidelity bond insurance for common areas.",
+                "Unit owners must carry HO-6 insurance covering interior structures, personal property, liability, and loss assessment.",
+                "Owners are responsible for deductibles when damage originates from their unit.",
+                "The Board reviews insurance annually. Provide proof of your policy upon request.",
+                "Unauthorized modifications may affect your coverage and result in penalties."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "title": "ACC Requests",
+      "desc": "Architectural Control Committee (ACC) Requests Summary.",
+      "updated": "April 2025",
+      "subtitle": "From Articles of Incorporation, Bylaws, and Declaration of Lakewest Condominiums Association.",
+      "sections": [
+        {
+          "name": "Purpose",
+          "blocks": [
+            {
+              "heading": "Purpose of the ACC",
+              "text": "The Architectural Control Committee (ACC) is responsible for ensuring that any exterior modifications, improvements, or structural changes to units within the Lakewest Condominiums comply with the Association's Declaration, Bylaws, and Rules & Regulations. The ACC aims to maintain the aesthetic integrity, property values, and overall safety of the community."
+            }
+          ]
+        },
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "Types of Changes Requiring ACC Approval",
+              "text": "ACC approval is required for any modification that affects the external appearance or structure of a unit, including but not limited to:",
+              "items": [
+                "All alterations or modifications to a Unit—including changes to flooring, plumbing, electrical systems, exterior elements (such as windows), or any modifications impacting Common or Limited Common Elements—require prior written approval from the Board of Directors.",
+                "Structural modifications (e.g., room additions, deck extensions).",
+                "Exterior painting or material changes.",
+                "Landscaping alterations beyond standard maintenance.",
+                "Installation of solar panels, satellite dishes, or security systems.",
+                "Window or door replacements that differ from the original design.",
+                "Fencing, enclosures, or privacy screens.",
+                "HVAC system modifications (e.g., exterior air conditioning units)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Process",
+          "blocks": [
+            {
+              "heading": "Approval Process",
+              "items": [
+                "Submission of ACC Request: The owner must submit a written ACC request form along with detailed plans, material samples, and estimated timelines. Requests must be submitted at least 30 days before the intended start date.",
+                "Review by the ACC & Board Approval: The ACC will review the request based on compliance with Lakewest Condominiums Governing Documents. The Board of Directors has the final decision on any disputed applications.",
+                "Notification of Decision: Owners will receive a written decision within 30 days of submission.",
+                "Approved requests must be completed within six months unless an extension is granted."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Guidelines",
+          "blocks": [
+            {
+              "heading": "Restrictions & Guidelines",
+              "items": [
+                "Modifications must align with existing architectural styles and colors.",
+                "Prohibited modifications include bright, non-standard exterior colors and materials that significantly alter the building's original design.",
+                "All modifications must comply with City of Seattle building codes and require necessary permits.",
+                "Work must be completed by licensed contractors when applicable.",
+                "Owners remain responsible for maintaining approved modifications.",
+                "If modifications lead to damage or deterioration, the Association may require repairs at the owner's expense."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "Consequences for Non-Compliance",
+              "items": [
+                "Unauthorized modifications may result in fines ranging from $250 - $1,000.",
+                "Owners may be required to remove or reverse unapproved modifications at their own cost.",
+                "Continued non-compliance may result in legal action or a lien placed against the property for cost recovery."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "All exterior and structural modifications require prior ACC approval.",
+                "Submit requests at least 30 days before the intended start date with detailed plans.",
+                "Modifications must comply with City of Seattle building codes.",
+                "Fines for unauthorized work range from $250 to $1,000.",
+                "Approved projects must be completed within six months."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance Responsibilities",
+      "desc": "Maintenance Responsibilities Summary.",
+      "updated": "April 2025",
+      "subtitle": "The Lakewest Condominiums governing documents define maintenance responsibilities between the Association and individual unit owners.",
+      "sections": [
+        {
+          "name": "Unit Owner",
+          "blocks": [
+            {
+              "heading": "Unit Owner Responsibilities",
+              "text": "Each unit owner is responsible for maintaining:",
+              "items": [
+                "Interior components such as walls, floors, ceilings, and fixtures.",
+                "Appliances, heating, and cooling systems within their unit.",
+                "Windows, doors, and balconies, except when damage results from an Association-covered event.",
+                "Plumbing and electrical components servicing only their unit.",
+                "Pest control within their unit."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "Association Responsibilities",
+              "text": "The Association is responsible for maintaining:",
+              "items": [
+                "Common Areas (e.g., walkways, driveways, landscaped spaces, retaining walls).",
+                "Limited Common Areas shared among multiple units, such as hallways and stairwells.",
+                "Building structures and roofs to ensure weather protection.",
+                "Utility systems servicing multiple units (e.g., plumbing, electrical conduits).",
+                "Fire safety equipment and security systems."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Emergencies",
+          "blocks": [
+            {
+              "heading": "Emergency Repairs",
+              "items": [
+                "The Association has the right to enter a unit to perform emergency repairs affecting common elements or neighboring units.",
+                "Owners will be billed for repairs if the issue originated from their negligence (e.g., plumbing leaks).",
+                "Security and fire safety take precedence, and the Association may take immediate action in case of hazards."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Funding",
+          "blocks": [
+            {
+              "heading": "Assessment & Funding for Maintenance",
+              "items": [
+                "Maintenance costs are covered through monthly HOA fees, which fund routine upkeep of shared spaces and infrastructure.",
+                "Long-term reserves for major repairs like roof replacement or resurfacing of parking areas.",
+                "Special assessments may be imposed for unexpected major expenses.",
+                "If a maintenance issue is traced back to an owner's negligence or misuse, they must cover repair costs.",
+                "Owners may be required to carry insurance (HO-6) to cover damages originating from their unit."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "Consequences for Neglecting Maintenance",
+              "items": [
+                "Owners who neglect their units (e.g., failing to address water leaks) may be fined or assessed for damages.",
+                "The Association may conduct repairs and bill the owner if the problem affects other units or common areas.",
+                "Unauthorized modifications to limited common areas (e.g., adding structures, altering landscaping) are subject to fines.",
+                "Non-compliant structures may require removal at the owner's expense.",
+                "If an owner repeatedly fails to comply with maintenance responsibilities, the Association may take legal action or place a lien on the property for unpaid repair costs."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Unit owners maintain interiors, appliances, and unit-specific systems. The Association handles common areas and building structure.",
+                "The Association can enter your unit for emergency repairs and bill you if the issue originated from your unit.",
+                "Monthly HOA fees fund routine maintenance; reserves cover major repairs.",
+                "Neglect can result in fines, forced repairs, liens, or legal action.",
+                "Carry HO-6 insurance to cover damages from your unit."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board",
+      "title": "Board of Directors",
+      "desc": "Summary of Board of Directors Provisions.",
+      "updated": "April 2025",
+      "subtitle": "The Board of Directors is the governing body of the Lakewest Condominiums Association, responsible for managing operations, finances, maintenance, and rule enforcement.",
+      "sections": [
+        {
+          "name": "Structure",
+          "blocks": [
+            {
+              "heading": "Structure & Composition",
+              "items": [
+                "The Board consists of five directors elected from among unit owners.",
+                "At least one director must be a Townhouse owner if eligible and willing.",
+                "Directors must be natural persons but may act through designated representatives if the unit is owned by an entity."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Elections",
+          "blocks": [
+            {
+              "heading": "Election & Term",
+              "items": [
+                "Directors serve staggered two-year terms (three seats expiring in odd years, two in even years).",
+                "Elections are held annually at the members' meeting or by mail ballot.",
+                "Members may nominate additional candidates beyond those proposed by the Board."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Removal",
+          "blocks": [
+            {
+              "heading": "Removal of Directors",
+              "text": "Directors may be removed by a vote of the unit owners at a properly called meeting."
+            }
+          ]
+        },
+        {
+          "name": "Meetings",
+          "blocks": [
+            {
+              "heading": "Board Meetings & Decision-Making",
+              "items": [
+                "Regular meetings require no notice; special meetings require five days' notice.",
+                "A majority of directors constitutes a quorum.",
+                "Actions may be taken without a meeting via unanimous written consent or via remote participation."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Authority",
+          "blocks": [
+            {
+              "heading": "Decision-Making Authority & Rule Enforcement",
+              "items": [
+                "Enforcing rules and regulations and hearing violations through a formal process.",
+                "Preparing and adopting budgets and levying assessments.",
+                "Approving expenditures and managing reserve accounts.",
+                "Representing the Association in legal and administrative matters.",
+                "Authorizing repairs, improvements, and common area maintenance.",
+                "The Board can adopt and amend rules, impose fines, and initiate legal action for violations.",
+                "A due-process hearing procedure is in place for alleged rule violations.",
+                "Amendments to Bylaws or Declaration require 67% owner approval, and in some cases, 51% mortgagee consent.",
+                "The Board cannot override rules adopted by a majority of owners."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Five directors serve staggered two-year terms, elected by unit owners.",
+                "The Board manages finances, enforces rules, oversees maintenance, and handles legal matters.",
+                "Amendments to governing documents require 67% owner approval.",
+                "A formal due-process hearing procedure exists for rule violations.",
+                "Directors may be removed by unit owner vote at a called meeting."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resale",
+      "title": "Resale Certificate",
+      "desc": "Resale Certificate Summary for Lakewest Condominiums.",
+      "updated": "April 2025",
+      "subtitle": "A Resale Certificate is required for the sale or transfer of any unit at Lakewest Condominiums, providing buyers with essential financial, governance, and operational disclosures.",
+      "sections": [
+        {
+          "name": "Purpose",
+          "blocks": [
+            {
+              "heading": "Purpose & Legal Requirement",
+              "text": "The Resale Certificate ensures that buyers receive complete, accurate, and current information regarding the unit and Association operations before closing. It is required by Washington state law (RCW 64.34.425) and supported by the Lakewest governing documents."
+            }
+          ]
+        },
+        {
+          "name": "Preparation",
+          "blocks": [
+            {
+              "heading": "Who Prepares the Resale Certificate?",
+              "text": "The Association or its managing agent prepares the certificate upon request from the selling owner. The Association must respond within the timeframe required by Washington law."
+            }
+          ]
+        },
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "Required Information",
+              "items": [
+                "Association Governance and Membership: Confirmation of the unit owner's membership in the Association; voting rights and designation of voting representative.",
+                "Financial Information: Monthly assessments and outstanding balances. Recent and upcoming special assessments. Approved annual budget and reserves.",
+                "Legal & Enforcement Disclosures: Any pending litigation involving the Association. Any known violations of governing documents by the unit. Liens due to unpaid assessments."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Right to Cancel",
+          "blocks": [
+            {
+              "heading": "Buyer's Right to Cancel",
+              "text": "Buyers have the right to cancel the purchase agreement after receiving the Resale Certificate within the timeframe specified by Washington law. Cancellation must be in writing."
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "Importance of Compliance",
+              "text": "Failure to provide a complete and accurate Resale Certificate may delay closing or expose the seller to legal liability. The Association must respond within the required timeframe."
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "A Resale Certificate is mandatory for all unit sales at Lakewest.",
+                "It includes financial, governance, legal, and compliance disclosures.",
+                "Buyers have a cancellation right after receiving the certificate.",
+                "The seller is responsible for requesting and paying for the certificate.",
+                "Compliance protects both buyers and the Association."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quickAnswers": [
+    {
+      "question": "Do I need ACC approval?",
+      "docId": "acc",
+      "section": "Requirements"
+    },
+    {
+      "question": "What insurance do I need?",
+      "docId": "insurance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "How do I report a maintenance issue?",
+      "docId": "maintenance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "Who's on the Board?",
+      "docId": "board",
+      "section": "Structure"
+    },
+    {
+      "question": "What are the fines for violations?",
+      "docId": "acc",
+      "section": "Consequences"
+    },
+    {
+      "question": "What are my maintenance responsibilities?",
+      "docId": "maintenance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "How are HOA dues used?",
+      "docId": "maintenance",
+      "section": "Funding"
+    },
+    {
+      "question": "What's needed to sell my unit?",
+      "docId": "resale",
+      "section": "Preparation"
+    },
+    {
+      "question": "How do I get on the Board?",
+      "docId": "board",
+      "section": "Elections"
+    },
+    {
+      "question": "What happens without ACC approval?",
+      "docId": "acc",
+      "section": "Consequences"
+    },
+    {
+      "question": "What does the Association insure?",
+      "docId": "insurance",
+      "section": "Association"
+    },
+    {
+      "question": "How can a director be removed?",
+      "docId": "board",
+      "section": "Removal"
+    }
+  ]
+}
