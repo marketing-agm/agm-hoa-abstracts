@@ -1851,7 +1851,10 @@ function buildSearchIndex() {
         const texts = [];
         if (block.heading) texts.push(block.heading);
         if (block.text) texts.push(block.text);
-        if (block.items) texts.push(...block.items);
+        if (block.items) block.items.forEach(item => {
+          if (typeof item === 'string') texts.push(item);
+          else { texts.push(item.text); if (item.sub) texts.push(...item.sub); }
+        });
         if (block.cards) block.cards.forEach(c => texts.push(c.label + ' ' + c.text));
         if (block.pullQuote) texts.push(block.pullQuote.text);
         if (block.action) { texts.push(block.action.title); block.action.steps.forEach(s => texts.push(s)); }
