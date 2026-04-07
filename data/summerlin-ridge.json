@@ -518,6 +518,15 @@
           ]
         },
         {
+          "name": "Authority Summary",
+          "blocks": [
+            {
+              "heading": "Summary of Board of Directors’ Authority",
+              "text": "The Board holds comprehensive authority to manage the Association, including rule enforcement, financial oversight, and legal compliance. It delegates tasks through committees or agents while retaining control over major decisions. Directors act in the best interest of Unit Owners, with structured processes for elections, removals, and decision-making."
+            }
+          ]
+        },
+        {
           "name": "Summary",
           "isTakeaway": true,
           "blocks": [
