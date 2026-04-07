@@ -13,27 +13,13 @@
           "blocks": [
             {
               "heading": "1. Association Insurance Requirements",
-              "text": "The Shannon Heights Owners Association is obligated to obtain and maintain comprehensive insurance coverage for the common areas and facilities of the condominium, as outlined in Article 12.1 of the Declaration (Page 71). These requirements include:"
-            },
-            {
-              "heading": "Fire Insurance",
-              "icon": "<path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>",
-              "text": "The Association must secure fire insurance with extended coverage endorsement, covering the full insurable replacement value of the common areas and facilities, without deduction for depreciation (Page 72). This ensures protection against fire-related damages to shared structures and amenities."
-            },
-            {
-              "heading": "Liability Insurance",
-              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4l3 3\"/>",
-              "text": "The Association is required to maintain liability insurance with minimum coverage limits of $200,000 per person injured, $500,000 per accident, and $50,000 for property damage (Page 72). These limits are subject to annual review and may be increased at the Board's discretion to ensure adequate protection."
-            },
-            {
-              "heading": "Workers' Compensation Insurance",
-              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6M16 13H8M16 17H8M10 9H8\"/>",
-              "text": "The Association must obtain workers' compensation insurance as required by applicable Washington state laws to cover any employees or contractors working on Association-managed property (Page 73)."
-            },
-            {
-              "heading": "Fidelity Bonds",
-              "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>",
-              "text": "The Association is required to maintain fidelity bonds for Board members and other relevant personnel to protect against financial misconduct, ensuring the safeguarding of Association funds (Page 73)."
+              "text": "The Shannon Heights Owners Association is obligated to obtain and maintain comprehensive insurance coverage for the common areas and facilities of the condominium, as outlined in Article 12.1 of the Declaration (Page 71). These requirements include:",
+              "items": [
+                "Fire Insurance: The Association must secure fire insurance with extended coverage endorsement, covering the full insurable replacement value of the common areas and facilities, without deduction for depreciation (Page 72). This ensures protection against fire-related damages to shared structures and amenities.",
+                "Liability Insurance: The Association is required to maintain liability insurance with minimum coverage limits of $200,000 per person injured, $500,000 per accident, and $50,000 for property damage (Page 72). These limits are subject to annual review and may be increased at the Board’s discretion to ensure adequate protection.",
+                "Workers’ Compensation Insurance: The Association must obtain workers’ compensation insurance as required by applicable Washington state laws to cover any employees or contractors working on Association-managed property (Page 73).",
+                "Fidelity Bonds: The Association is required to maintain fidelity bonds for Board members and other relevant personnel to protect against financial misconduct, ensuring the safeguarding of Association funds (Page 73)."
+              ]
             },
             {
               "text": "These policies are funded as a common expense, paid through assessments collected from unit owners based on their respective percentages of ownership in the common areas (Page 67)."
@@ -45,22 +31,12 @@
           "blocks": [
             {
               "heading": "2. Unit Owner Insurance Requirements",
-              "text": "Each unit owner is responsible for obtaining personal insurance to cover items and risks not protected by the Association's policies, as specified in Article 12 of the Declaration (Page 73):"
-            },
-            {
-              "heading": "Personal Property Insurance",
-              "icon": "<path d=\"M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/>",
-              "text": "Owners must secure insurance for personal property within their units, as the Association's policies do not cover individual belongings (Page 74)."
-            },
-            {
-              "heading": "Improvements Exceeding $1,000",
-              "icon": "<path d=\"M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z\"/><path d=\"M9 22V12h6v10\"/>",
-              "text": "Owners are required to notify the Board of any improvements to their unit valued over $1,000, as these may affect the overall insurable value of the condominium (Page 73). Owners must file copies of any individual insurance policies covering such improvements with the Association (Page 74)."
-            },
-            {
-              "heading": "Liability for Unit-Specific Risks",
-              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4M12 16h.01\"/>",
-              "text": "Owners are responsible for insuring against risks specific to their units, such as damages caused by plumbing fixtures, appliances, or other equipment within their unit (Page 61). For example, owners must maintain and replace hot water tanks to prevent leaks that could damage their unit or neighboring units (Page 5 of House Rules)."
+              "text": "Each unit owner is responsible for obtaining personal insurance to cover items and risks not protected by the Association's policies, as specified in Article 12 of the Declaration (Page 73):",
+              "items": [
+                "Personal Property Insurance: Owners must secure insurance for personal property within their units, as the Association’s policies do not cover individual belongings (Page 74).",
+                "Improvements Exceeding $1,000: Owners are required to notify the Board of any improvements to their unit valued over $1,000, as these may affect the overall insurable value of the condominium (Page 73). Owners must file copies of any individual insurance policies covering such improvements with the Association (Page 74).",
+                "Liability for Unit-Specific Risks: Owners are responsible for insuring against risks specific to their units, such as damages caused by plumbing fixtures, appliances, or other equipment within their unit (Page 61). For example, owners must maintain and replace hot water tanks to prevent leaks that could damage their unit or neighboring units (Page 5 of House Rules)."
+              ]
             }
           ]
         },
@@ -68,32 +44,14 @@
           "name": "Provisions",
           "blocks": [
             {
-              "heading": "3. Insurance Provisions & Special Conditions"
-            },
-            {
-              "heading": "No Set-Off or Contribution",
-              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6\"/>",
-              "text": "The Association's insurance policies must include provisions ensuring that the insurer's liability is not affected by other insurance obtained by unit owners. This prevents set-off, counterclaim, apportionment, proration, or contribution by reason of additional owner policies (Page 74)."
-            },
-            {
-              "heading": "Mortgagee Protections",
-              "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>",
-              "text": "Policies must include a mortgagee clause that protects institutional first mortgagees or deed of trust beneficiaries. This ensures that insurance proceeds are handled in a manner that does not affect mortgagees' interests, and any settlement exceeding $2,500 requires mortgagee approval, provided such approval is not unreasonably withheld (Pages 97-98)."
-            },
-            {
-              "heading": "Hazardous Use or Vacancy",
-              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4M12 16h.01\"/>",
-              "text": "Insurance policies must not be affected by hazardous use or vacancy of the property, ensuring continuous coverage regardless of occupancy status (Page 76)."
-            },
-            {
-              "heading": "Emergency Repairs",
-              "icon": "<path d=\"M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z\"/>",
-              "text": "In cases of damage or destruction, the Board may authorize emergency work to prevent further damage or diminution in value, funded by insurance proceeds or assessments, as outlined in Article 13.3.2 (Page 78)."
-            },
-            {
-              "heading": "Condemnation Awards",
-              "icon": "<path d=\"M3 21h18M3 7v14M21 7v14M6 21V10M10 21V10M14 21V10M18 21V10M12 3l9 4-9 4-9-4 9-4z\"/>",
-              "text": "In the event of condemnation, insurance proceeds are apportioned among owners based on their undivided interest in the common areas, with the Board allocating awards between compensation, damages, or other proceeds (Pages 84-85)."
+              "heading": "3. Insurance Provisions & Special Conditions",
+              "items": [
+                "No Set-Off or Contribution: The Association’s insurance policies must include provisions ensuring that the insurer’s liability is not affected by other insurance obtained by unit owners. This prevents set-off, counterclaim, apportionment, proration, or contribution by reason of additional owner policies (Page 74).",
+                "Mortgagee Protections: Policies must include a mortgagee clause that protects institutional first mortgagees or deed of trust beneficiaries. This ensures that insurance proceeds are handled in a manner that does not affect mortgagees’ interests, and any settlement exceeding $2,500 requires mortgagee approval, provided such approval is not unreasonably withheld (Pages 97-98).",
+                "Hazardous Use or Vacancy: Insurance policies must not be affected by hazardous use or vacancy of the property, ensuring continuous coverage regardless of occupancy status (Page 76).",
+                "Emergency Repairs: In cases of damage or destruction, the Board may authorize emergency work to prevent further damage or diminution in value, funded by insurance proceeds or assessments, as outlined in Article 13.3.2 (Page 78).",
+                "Condemnation Awards: In the event of condemnation, insurance proceeds are apportioned among owners based on their undivided interest in the common areas, with the Board allocating awards between compensation, damages, or other proceeds (Pages 84-85)."
+              ]
             }
           ]
         },
@@ -101,27 +59,13 @@
           "name": "Compliance",
           "blocks": [
             {
-              "heading": "4. Insurance Policy Requirements & Compliance"
-            },
-            {
-              "heading": "Board Oversight",
-              "icon": "<path d=\"M22 11.08V12a10 10 0 11-5.93-9.14\"/><path d=\"M22 4L12 14.01l-3-3\"/>",
-              "text": "The Board is responsible for annually reviewing and adjusting insurance coverage limits to ensure they remain adequate (Page 72). This includes obtaining at least two firm bids from responsible contractors for repair or restoration estimates (Page 76)."
-            },
-            {
-              "heading": "Owner Notification and Compliance",
-              "icon": "<path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z\"/><path d=\"M14 2v6h6M16 13H8M16 17H8M10 9H8\"/>",
-              "text": "Owners must promptly notify the Board of any improvements exceeding $1,000 and provide copies of individual insurance policies to ensure compliance with the Declaration (Page 74). Failure to comply may result in owners bearing the cost of uninsured damages."
-            },
-            {
-              "heading": "Assessment for Insurance Costs",
-              "icon": "<rect x=\"2\" y=\"7\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16\"/>",
-              "text": "Insurance costs are included in the common expense assessments, which are levied based on each owner's percentage of ownership in the common areas (Page 67). Non-payment of assessments can lead to liens or foreclosure, as outlined in Article 11.11 (Page 69)."
-            },
-            {
-              "heading": "Enforcement of Compliance",
-              "icon": "<circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4M12 16h.01\"/>",
-              "text": "Owners are responsible for ensuring their tenants comply with insurance-related obligations, such as maintaining the unit to prevent damage (Page 5 of House Rules). Violations may result in fines or liens, as specified in Addendum 4 (Page 10 of House Rules)."
+              "heading": "4. Insurance Policy Requirements & Compliance",
+              "items": [
+                "Board Oversight: The Board is responsible for annually reviewing and adjusting insurance coverage limits to ensure they remain adequate (Page 72). This includes obtaining at least two firm bids from responsible contractors for repair or restoration estimates (Page 76).",
+                "Owner Notification and Compliance: Owners must promptly notify the Board of any improvements exceeding $1,000 and provide copies of individual insurance policies to ensure compliance with the Declaration (Page 74). Failure to comply may result in owners bearing the cost of uninsured damages.",
+                "Assessment for Insurance Costs: Insurance costs are included in the common expense assessments, which are levied based on each owner’s percentage of ownership in the common areas (Page 67). Non-payment of assessments can lead to liens or foreclosure, as outlined in Article 11.11 (Page 69).",
+                "Enforcement of Compliance: Owners are responsible for ensuring their tenants comply with insurance-related obligations, such as maintaining the unit to prevent damage (Page 5 of House Rules). Violations may result in fines or liens, as specified in Addendum 4 (Page 10 of House Rules)."
+              ]
             }
           ]
         },
@@ -268,12 +212,12 @@
           "blocks": [
             {
               "heading": "Types of Changes Requiring ACC Approval",
-              "text": "All alterations or modifications to a Unit\u2014including changes to flooring, plumbing, electrical systems, exterior elements (such as windows), or any modifications impacting Common or Limited Common Elements\u2014require prior written approval from the Board of Directors.",
+              "text": "All alterations or modifications to a Unit—including changes to flooring, plumbing, electrical systems, exterior elements (such as windows), or any modifications impacting Common or Limited Common Elements—require prior written approval from the Board of Directors.",
               "items": [
                 "Exterior Modifications: Any painting, modification, or alteration to the building, decks, doors, windows, or other exterior-visible portions of a unit (House Rules, Rule 17; Declaration, Section 10.5).",
                 "Structural Changes: Alterations to structural components of a unit, including subdividing or combining units (Declaration, Section 24.1).",
                 "Common and Limited Common Areas: Changes to common areas (hallways, stairwells, roof decks) or limited common areas (unit decks), such as attaching plant boxes, installing carpet, or adding structures like trellises (House Rules, Rule 16; Declaration, Section 10.11).",
-                "Signs: Displaying signs, notices, or advertisements in units or common areas, except for approved \u201CFor Sale\u201D signs (House Rules, Rule 5, Addendum 2)."
+                "Signs: Displaying signs, notices, or advertisements in units or common areas, except for approved “For Sale” signs (House Rules, Rule 5, Addendum 2)."
               ]
             }
           ]
@@ -314,7 +258,7 @@
               "items": [
                 "Fines: Violations incur a warning for the first infraction, a minimum $50 fine for the second, and a minimum $200 fine for continuing infractions until corrected (House Rules, Addendum 4).",
                 "Repair Costs: Owners are liable for repair costs due to negligence or unauthorized changes, e.g., deck damage from improper planter placement or glued carpet (House Rules, Rule 16; Addendum 4).",
-                "Liens: Unpaid fines or repair costs result in a lien against the owner\u2019s unit (House Rules, Addendum 4; Declaration, Section 11.2).",
+                "Liens: Unpaid fines or repair costs result in a lien against the owner’s unit (House Rules, Addendum 4; Declaration, Section 11.2).",
                 "Legal Action: Owners are responsible for attorney fees and costs if legal action is needed to enforce compliance (House Rules, Addendum 4; Declaration, Section 18.1)."
               ]
             }
@@ -359,13 +303,43 @@
             {
               "heading": "Current Board Members",
               "table": {
-                "headers": ["Position", "Name", "Term", "Dates"],
+                "headers": [
+                  "Position",
+                  "Name",
+                  "Term",
+                  "Dates"
+                ],
                 "rows": [
-                  ["President", "Susan Carroll", "2 Years", "3/2024 \u2013 3/2026"],
-                  ["Vice President", "David Driscoll", "2 Years", "4/2025 \u2013 4/2027"],
-                  ["Treasurer", "Alexia Bailey", "2 Years", "3/2024 \u2013 3/2026"],
-                  ["Board Member", "Susan Hindmarsh", "2 Years", "3/2024 \u2013 3/2026"],
-                  ["Board Member", "Julie Bublitz", "2 Years", "3/2025 \u2013 3/2027"]
+                  [
+                    "President",
+                    "Susan Carroll",
+                    "2 Years",
+                    "3/2024 – 3/2026"
+                  ],
+                  [
+                    "Vice President",
+                    "David Driscoll",
+                    "2 Years",
+                    "4/2025 – 4/2027"
+                  ],
+                  [
+                    "Treasurer",
+                    "Alexia Bailey",
+                    "2 Years",
+                    "3/2024 – 3/2026"
+                  ],
+                  [
+                    "Board Member",
+                    "Susan Hindmarsh",
+                    "2 Years",
+                    "3/2024 – 3/2026"
+                  ],
+                  [
+                    "Board Member",
+                    "Julie Bublitz",
+                    "2 Years",
+                    "3/2025 – 3/2027"
+                  ]
                 ]
               }
             }
@@ -495,7 +469,7 @@
               "heading": "Board and Mortgagee Rights",
               "items": [
                 "Mortgagees are notified of unpaid assessments upon request (Page 22, Article 8.2).",
-                "Owners must notify the Association of mortgagees' names and addresses, maintained in a \u201CMortgagees of Apartments\u201D list (Page 22, Article 8.1).",
+                "Owners must notify the Association of mortgagees' names and addresses, maintained in a “Mortgagees of Apartments” list (Page 22, Article 8.1).",
                 "Major decisions, such as expenditures over $5,000 or property acquisition, are not explicitly mentioned in the provided Bylaws but may require owner approval per the Declaration (implied).",
                 "Mortgagees have priority over assessment liens in some cases, as specified in the Declaration (implied, not detailed in Bylaws)."
               ]
@@ -508,10 +482,25 @@
             {
               "heading": "Amendments & Board Authority Changes",
               "items": [
-                "Amendments to the Bylaws require approval by owners holding sixty-six and two-thirds percent (66\u2154%) of the voting power at a regular or special meeting, with at least 10 days' notice (Page 22, Article 7.1).",
+                "Amendments to the Bylaws require approval by owners holding sixty-six and two-thirds percent (66⅔%) of the voting power at a regular or special meeting, with at least 10 days' notice (Page 22, Article 7.1).",
                 "The Board proposes amendments, which must be recorded to be effective (Page 8, Certificate of Adoption).",
                 "The Declarant's management authority transitions to the Board once its control ends, as specified in the Declaration (Page 11, Article 3.1; Declaration Section 9.1).",
                 "The amendment process was followed for the provided Bylaws amendment, adopted on October 13, 1999, by a 66% vote and certified on November 23, 1999 (Page 8)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Notes",
+          "blocks": [
+            {
+              "heading": "Notes on Corrections and Omissions",
+              "items": [
+                "The provided template referenced a 75% threshold for the transition of Declarant control, but the document does not specify this percentage (Page 11, Article 3.1). It refers to the Declaration’s terms for the end of Declarant control.",
+                "The template mentioned expenditures over $5,000 requiring owner approval, but this is not explicitly stated in the provided Bylaws. Such provisions may exist in the Declaration.",
+                "Mortgagee rights regarding assessment liens limited to three months are implied but not detailed in the Bylaws (Declaration reference).",
+                "The number of directors (five) is specified in the Bylaws (Page 11, Article 3.1), correcting the template’s lack of specificity.",
+                "The Hearing Board provisions (Pages 3-7, Articles 14.2-14.4) were incorporated to highlight the Board’s enforcement mechanisms, which were not mentioned in the template but are critical to its authority."
               ]
             }
           ]
@@ -521,10 +510,14 @@
           "isTakeaway": true,
           "blocks": [
             {
+              "heading": "Summary of Board of Directors’ Authority",
+              "text": "The Board holds broad authority to manage Shannon Heights, including rule enforcement, financial oversight, and maintenance of common areas. It acts as the Association’s agent, with powers to hire professionals, manage reserves, establish a Hearing Board for rule enforcement, and pursue legal remedies for non-compliance. Initially controlled by the Declarant, the Board becomes owner-elected, ensuring democratic governance. Major decisions, such as Bylaw amendments, require significant owner approval, and directors are protected from liability when acting in good faith."
+            },
+            {
               "takeaways": [
                 "The Board, consisting of five owner-elected members post-Declarant control, is the central authority for condominium operations.",
                 "It enforces rules, manages finances, and maintains common areas without compensation, with officers handling specific administrative duties.",
-                "Major decisions, such as Bylaw amendments, require 66\u2154% owner approval, ensuring checks on Board power.",
+                "Major decisions, such as Bylaw amendments, require 66⅔% owner approval, ensuring checks on Board power.",
                 "Mortgagees have specific rights regarding delinquent assessments and must be notified accordingly.",
                 "The Hearing Board provides a structured process for handling violations, with fines and legal remedies available.",
                 "Amendments maintain stability in governance, with clear procedures for adoption and recording."
@@ -644,17 +637,65 @@
     }
   ],
   "quickAnswers": [
-    { "question": "Do I need Board approval for changes?", "docId": "acc", "section": "Requirements" },
-    { "question": "What insurance do I need?", "docId": "insurance", "section": "Unit Owner" },
-    { "question": "How do I report a maintenance issue?", "docId": "maintenance", "section": "Emergencies" },
-    { "question": "Who's on the Board?", "docId": "board", "section": "Structure" },
-    { "question": "What are the fines for violations?", "docId": "acc", "section": "Consequences" },
-    { "question": "What are the deck rules?", "docId": "acc", "section": "Guidelines" },
-    { "question": "How are my assessments used?", "docId": "maintenance", "section": "Funding" },
-    { "question": "What's needed to sell my unit?", "docId": "resale", "section": "Preparation" },
-    { "question": "What if I don't pay my assessments?", "docId": "maintenance", "section": "Consequences" },
-    { "question": "How do I get on the Board?", "docId": "board", "section": "Elections" },
-    { "question": "What's the move-in/out fee?", "docId": "maintenance", "section": "Funding" },
-    { "question": "How long does a buyer have to cancel?", "docId": "resale", "section": "Right to Cancel" }
+    {
+      "question": "Do I need Board approval for changes?",
+      "docId": "acc",
+      "section": "Requirements"
+    },
+    {
+      "question": "What insurance do I need?",
+      "docId": "insurance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "How do I report a maintenance issue?",
+      "docId": "maintenance",
+      "section": "Emergencies"
+    },
+    {
+      "question": "Who's on the Board?",
+      "docId": "board",
+      "section": "Structure"
+    },
+    {
+      "question": "What are the fines for violations?",
+      "docId": "acc",
+      "section": "Consequences"
+    },
+    {
+      "question": "What are the deck rules?",
+      "docId": "acc",
+      "section": "Guidelines"
+    },
+    {
+      "question": "How are my assessments used?",
+      "docId": "maintenance",
+      "section": "Funding"
+    },
+    {
+      "question": "What's needed to sell my unit?",
+      "docId": "resale",
+      "section": "Preparation"
+    },
+    {
+      "question": "What if I don't pay my assessments?",
+      "docId": "maintenance",
+      "section": "Consequences"
+    },
+    {
+      "question": "How do I get on the Board?",
+      "docId": "board",
+      "section": "Elections"
+    },
+    {
+      "question": "What's the move-in/out fee?",
+      "docId": "maintenance",
+      "section": "Funding"
+    },
+    {
+      "question": "How long does a buyer have to cancel?",
+      "docId": "resale",
+      "section": "Right to Cancel"
+    }
   ]
 }
