@@ -6,8 +6,16 @@
 <title>Community Abstracts</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Geist:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
+@font-face {
+  font-family: 'Linotype Didot';
+  src: url('fonts/Linotype_Didot_Roman.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {
@@ -25,7 +33,7 @@
   --brand-blue: #129AE5;
   --brand-dark: #09212D;
   --brand-offwhite: #F0F0F0;
-  --serif: 'Instrument Serif', Georgia, serif;
+  --serif: 'Linotype Didot', 'Didot', Georgia, serif;
   --sans: 'Geist', -apple-system, system-ui, sans-serif;
   --ease: cubic-bezier(0.16, 1, 0.3, 1);
   --max-w: 1280px;
@@ -247,7 +255,7 @@ body {
 .card:nth-child(4) { animation-delay: 0.25s; }
 .card:nth-child(5) { animation-delay: 0.3s; }
 
-.card:hover { background: var(--gray-50); }
+.card:hover { background: rgba(18, 154, 229, 0.06); }
 
 .card-number {
   font-size: 0.6875rem;
