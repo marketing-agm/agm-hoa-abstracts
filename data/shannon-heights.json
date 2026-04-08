@@ -1,0 +1,701 @@
+{
+  "property": "Shannon Heights",
+  "abstracts": [
+    {
+      "id": "insurance",
+      "title": "Insurance Requirements",
+      "desc": "Summary of Insurance Requirements for Shannon Heights Owners Association.",
+      "updated": "March 2026",
+      "subtitle": "The Insurance provisions from the Declaration, Bylaws, and Articles of Incorporation for Shannon Heights Condominium Association outline the coverage responsibilities for the Association and individual unit owners. Below is a structured summary based on the provided documents, specifically referencing the Declaration.",
+      "sections": [
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "1. Association Insurance Requirements",
+              "text": "The Shannon Heights Owners Association is obligated to obtain and maintain comprehensive insurance coverage for the common areas and facilities of the condominium, as outlined in Article 12.1 of the Declaration (Page 71). These requirements include:",
+              "items": [
+                "Fire Insurance: The Association must secure fire insurance with extended coverage endorsement, covering the full insurable replacement value of the common areas and facilities, without deduction for depreciation (Page 72). This ensures protection against fire-related damages to shared structures and amenities.",
+                "Liability Insurance: The Association is required to maintain liability insurance with minimum coverage limits of $200,000 per person injured, $500,000 per accident, and $50,000 for property damage (Page 72). These limits are subject to annual review and may be increased at the Board’s discretion to ensure adequate protection.",
+                "Workers’ Compensation Insurance: The Association must obtain workers’ compensation insurance as required by applicable Washington state laws to cover any employees or contractors working on Association-managed property (Page 73).",
+                "Fidelity Bonds: The Association is required to maintain fidelity bonds for Board members and other relevant personnel to protect against financial misconduct, ensuring the safeguarding of Association funds (Page 73)."
+              ]
+            },
+            {
+              "text": "These policies are funded as a common expense, paid through assessments collected from unit owners based on their respective percentages of ownership in the common areas (Page 67)."
+            }
+          ]
+        },
+        {
+          "name": "Unit Owner",
+          "blocks": [
+            {
+              "heading": "2. Unit Owner Insurance Requirements",
+              "text": "Each unit owner is responsible for obtaining personal insurance to cover items and risks not protected by the Association's policies, as specified in Article 12 of the Declaration (Page 73):",
+              "items": [
+                "Personal Property Insurance: Owners must secure insurance for personal property within their units, as the Association’s policies do not cover individual belongings (Page 74).",
+                "Improvements Exceeding $1,000: Owners are required to notify the Board of any improvements to their unit valued over $1,000, as these may affect the overall insurable value of the condominium (Page 73). Owners must file copies of any individual insurance policies covering such improvements with the Association (Page 74).",
+                "Liability for Unit-Specific Risks: Owners are responsible for insuring against risks specific to their units, such as damages caused by plumbing fixtures, appliances, or other equipment within their unit (Page 61). For example, owners must maintain and replace hot water tanks to prevent leaks that could damage their unit or neighboring units (Page 5 of House Rules)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Provisions",
+          "blocks": [
+            {
+              "heading": "3. Insurance Provisions & Special Conditions",
+              "items": [
+                "No Set-Off or Contribution: The Association’s insurance policies must include provisions ensuring that the insurer’s liability is not affected by other insurance obtained by unit owners. This prevents set-off, counterclaim, apportionment, proration, or contribution by reason of additional owner policies (Page 74).",
+                "Mortgagee Protections: Policies must include a mortgagee clause that protects institutional first mortgagees or deed of trust beneficiaries. This ensures that insurance proceeds are handled in a manner that does not affect mortgagees’ interests, and any settlement exceeding $2,500 requires mortgagee approval, provided such approval is not unreasonably withheld (Pages 97-98).",
+                "Hazardous Use or Vacancy: Insurance policies must not be affected by hazardous use or vacancy of the property, ensuring continuous coverage regardless of occupancy status (Page 76).",
+                "Emergency Repairs: In cases of damage or destruction, the Board may authorize emergency work to prevent further damage or diminution in value, funded by insurance proceeds or assessments, as outlined in Article 13.3.2 (Page 78).",
+                "Condemnation Awards: In the event of condemnation, insurance proceeds are apportioned among owners based on their undivided interest in the common areas, with the Board allocating awards between compensation, damages, or other proceeds (Pages 84-85)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "4. Insurance Policy Requirements & Compliance",
+              "items": [
+                "Board Oversight: The Board is responsible for annually reviewing and adjusting insurance coverage limits to ensure they remain adequate (Page 72). This includes obtaining at least two firm bids from responsible contractors for repair or restoration estimates (Page 76).",
+                "Owner Notification and Compliance: Owners must promptly notify the Board of any improvements exceeding $1,000 and provide copies of individual insurance policies to ensure compliance with the Declaration (Page 74). Failure to comply may result in owners bearing the cost of uninsured damages.",
+                "Assessment for Insurance Costs: Insurance costs are included in the common expense assessments, which are levied based on each owner’s percentage of ownership in the common areas (Page 67). Non-payment of assessments can lead to liens or foreclosure, as outlined in Article 11.11 (Page 69).",
+                "Enforcement of Compliance: Owners are responsible for ensuring their tenants comply with insurance-related obligations, such as maintaining the unit to prevent damage (Page 5 of House Rules). Violations may result in fines or liens, as specified in Addendum 4 (Page 10 of House Rules)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Association is responsible for maintaining comprehensive insurance (fire, liability, workers' compensation, and fidelity bonds) for common areas, funded through owner assessments.",
+                "Unit owners must secure personal property insurance and cover unit-specific risks, notifying the Board of significant improvements.",
+                "Special conditions ensure mortgagee protections and prevent conflicts with owner-purchased insurance.",
+                "Compliance requires owners to maintain their units and provide necessary documentation to the Board, with non-compliance potentially leading to financial penalties or liens.",
+                "The Board plays a critical role in overseeing insurance coverage, ensuring adequate protection, and managing claims or condemnation proceeds."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance Responsibilities",
+      "desc": "Maintenance Responsibilities Summary for Shannon Heights.",
+      "updated": "March 2026",
+      "subtitle": "From Articles of Incorporation, Bylaws, and Declaration of Shannon Heights Owners Association.",
+      "sections": [
+        {
+          "name": "Overview",
+          "blocks": [
+            {
+              "heading": "Maintenance Responsibilities Overview",
+              "text": "The Shannon Heights Condominium Association governs maintenance responsibilities to ensure the property remains well-maintained, safe, and aesthetically uniform. Rules are outlined in the Declaration, Bylaws, and House Rules to balance individual owner obligations with collective responsibilities, minimizing costs and preserving property value."
+            }
+          ]
+        },
+        {
+          "name": "Unit Owner",
+          "blocks": [
+            {
+              "heading": "Unit Owner Responsibilities",
+              "items": [
+                "Interior Maintenance: Owners are responsible for maintaining, repairing, and replacing all elements within their unit, including appliances, plumbing, electrical fixtures, wiring, water heaters, wall and floor coverings, and mailboxes.",
+                "Limited Common Areas: Owners must maintain assigned limited common areas (e.g., decks, lanais) without modifying or damaging them (e.g., no drilling, no heavy planters directly on deck surfaces). They must report damage like cuts or cracks in deck coatings to the management company.",
+                "Tenant Oversight: Owners leasing units must ensure tenants comply with all rules, provide tenants with House Rules, and are liable for tenant-caused damage.",
+                "Specific Actions: Owners must prevent leaks (e.g., turn off washer valves when away, maintain hot water tanks), avoid actions increasing insurance rates, and obtain Board approval for structural or exterior changes.",
+                "Move-In/Move-Out: Owners coordinate move-in/move-out activities, pay associated fees ($250 as of 2017), and ensure trash is removed promptly."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "Association Responsibilities (HOA)",
+              "items": [
+                "Common Areas: The HOA maintains common areas, including hallways, stairwells, lobbies, garages, grounds, roofs, and exterior building components (e.g., railings, exterior deck surfaces).",
+                "Building-Wide Systems: The HOA oversees maintenance of shared systems like water, sewer, and electrical services affecting the entire building.",
+                "Emergency Work: The HOA authorizes emergency repairs to prevent further damage or safety risks, using reserve funds if necessary.",
+                "Administration: The HOA manages reserve accounts, budgets, and assessments, ensuring funds are available for maintenance and repairs."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Emergencies",
+          "blocks": [
+            {
+              "heading": "Emergency Repairs",
+              "items": [
+                "The HOA can authorize immediate repairs for emergencies (e.g., to prevent further damage or ensure safety), with costs potentially covered by reserve funds or special assessments.",
+                "Owners must report urgent issues (e.g., leaks, structural damage) to the management company (AGM Real Estate Group, (206) 622-8600) for prompt action.",
+                "For significant emergencies, the Board may confer via phone or email to expedite decisions."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Funding",
+          "blocks": [
+            {
+              "heading": "Assessment & Funding for Maintenance",
+              "items": [
+                "Assessments: Owners pay monthly maintenance fees based on their percentage of ownership in common areas, covering water, sewer, garbage, and common area upkeep. Assessments fund routine and emergency repairs.",
+                "Reserve Account: A reserve account is maintained for unforeseen or unbudgeted costs, with the Board responsible for its administration.",
+                "Special Assessments: Costs for specific repairs (e.g., owner-caused damage or major projects exceeding $5,000) may lead to special assessments, requiring owner approval for significant expenses.",
+                "Fines and Fees: Owners face fines for rule violations (e.g., $50 for second infraction, $200 for ongoing issues) or fees for move-in/move-out ($250) and reserved parking ($44-$110). Unpaid assessments or fines result in liens on the unit."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "Consequences for Neglecting Maintenance",
+              "items": [
+                "Fines and Liens: Failure to maintain units or comply with rules incurs fines (e.g., $100 per occurrence for tenant violations, $200 for unapproved rentals). Non-payment within 30 days leads to a lien on the unit.",
+                "Liability for Damage: Owners are financially responsible for damage to common or limited common areas caused by themselves, tenants, or guests, including repair costs (e.g., deck damage from negligence could exceed $8,000).",
+                "Legal Action: The HOA may pursue legal action to enforce compliance, with owners liable for attorney fees and costs.",
+                "Towing: Unauthorized parking in non-deeded spaces risks vehicle towing at the owner's expense.",
+                "Loss of Privileges: Non-compliance with rental rules may result in loss of rental privileges or termination of parking agreements."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Owners are responsible for interior unit maintenance and limited common areas, while the HOA handles common areas and building-wide systems.",
+                "Compliance with House Rules, especially for decks and rentals, is critical to avoid costly repairs or fines.",
+                "Emergency repairs are managed by the HOA, with owners obligated to report issues promptly.",
+                "Assessments fund maintenance, with reserve accounts for unexpected costs; unpaid fees lead to liens.",
+                "Owners must obtain Board approval for structural/exterior changes and ensure tenant compliance to avoid penalties.",
+                "Contact AGM Real Estate Group (206-622-8600) for maintenance requests or emergencies."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "title": "ACC Requests",
+      "desc": "Architectural Control Committee (ACC) Requests Summary.",
+      "updated": "March 2026",
+      "subtitle": "From Articles of Incorporation, Bylaws, and Declaration of Shannon Heights Owners Association.",
+      "sections": [
+        {
+          "name": "Purpose",
+          "blocks": [
+            {
+              "heading": "Purpose of the ACC",
+              "text": "The Architectural Control Committee (ACC), managed by the Board of Directors, ensures a uniform exterior appearance and structural integrity of Shannon Heights Condominium. It regulates modifications to maintain property aesthetics, safety, and compliance with the Declaration, Bylaws, and House Rules, protecting property values and community standards."
+            }
+          ]
+        },
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "Types of Changes Requiring ACC Approval",
+              "text": "All alterations or modifications to a Unit—including changes to flooring, plumbing, electrical systems, exterior elements (such as windows), or any modifications impacting Common or Limited Common Elements—require prior written approval from the Board of Directors.",
+              "items": [
+                "Exterior Modifications: Any painting, modification, or alteration to the building, decks, doors, windows, or other exterior-visible portions of a unit (House Rules, Rule 17; Declaration, Section 10.5).",
+                "Structural Changes: Alterations to structural components of a unit, including subdividing or combining units (Declaration, Section 24.1).",
+                "Common and Limited Common Areas: Changes to common areas (hallways, stairwells, roof decks) or limited common areas (unit decks), such as attaching plant boxes, installing carpet, or adding structures like trellises (House Rules, Rule 16; Declaration, Section 10.11).",
+                "Signs: Displaying signs, notices, or advertisements in units or common areas, except for approved “For Sale” signs (House Rules, Rule 5, Addendum 2)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Process",
+          "blocks": [
+            {
+              "heading": "Approval Process",
+              "items": [
+                "Submission: Owners must submit written requests to the Board of Directors through the property management company (AGM Real Estate Group, 206-622-8600) with detailed plans and specifications (Declaration, Section 24.1).",
+                "Review: The Board reviews requests, ensuring compliance with governing documents. For structural changes, approval requires a vote of owners holding more than 66 2/3% of the voting power (Declaration, Section 24.1.2).",
+                "Additional Requirements: Owners must obtain necessary amendments to the Declaration, Lake Forest Park city building permits, insurance coverage, and other provisions as required (House Rules, Rule 17).",
+                "Timeline: The Board responds within 10 days of receiving complete documentation for rental-related requests, and similar timelines may apply for ACC requests (House Rules, Addendum 3)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Guidelines",
+          "blocks": [
+            {
+              "heading": "Restrictions & Guidelines",
+              "items": [
+                "Exterior Uniformity: Modifications must not deviate from the original building appearance, including deck coatings and colors, which are controlled by the Board (House Rules, Rule 16.s, 17).",
+                "Deck Maintenance: No screws, nails, or adhesives may penetrate deck surfaces. Heavy planters must be supported on foam or neoprene and precast concrete pavers. Outdoor carpeting requires Board approval and must be loose-laid, non-absorbent, and removed seasonally (House Rules, Rule 16).",
+                "Prohibited Actions: No drilling into exterior stucco, storing unsightly items, or attaching lattice/trellises to deck railings. Hot grease or caustic/abrasive materials are banned on decks (House Rules, Rule 16).",
+                "Compliance with Laws: All changes must adhere to King County and Lake Forest Park regulations (House Rules, Rule 17)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "Consequences for Non-Compliance",
+              "items": [
+                "Fines: Violations incur a warning for the first infraction, a minimum $50 fine for the second, and a minimum $200 fine for continuing infractions until corrected (House Rules, Addendum 4).",
+                "Repair Costs: Owners are liable for repair costs due to negligence or unauthorized changes, e.g., deck damage from improper planter placement or glued carpet (House Rules, Rule 16; Addendum 4).",
+                "Liens: Unpaid fines or repair costs result in a lien against the owner’s unit (House Rules, Addendum 4; Declaration, Section 11.2).",
+                "Legal Action: Owners are responsible for attorney fees and costs if legal action is needed to enforce compliance (House Rules, Addendum 4; Declaration, Section 18.1)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Obtain prior written Board approval for all exterior, structural, or common area changes to avoid costly penalties.",
+                "Adhere to strict deck maintenance guidelines to prevent expensive repairs and maintain structural integrity.",
+                "Submit detailed plans and comply with local regulations to ensure a smooth approval process.",
+                "Owners are financially responsible for damages or violations caused by themselves, tenants, or guests.",
+                "Contact AGM Real Estate Group (206-622-8600) for ACC request submissions and inquiries."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board",
+      "title": "Board of Directors",
+      "desc": "Summary of Board of Directors Provisions.",
+      "updated": "March 2026",
+      "subtitle": "The Board of Directors is the primary governing body of the Shannon Heights Owners Association, responsible for managing the condominium's operations, enforcing rules, overseeing financial matters, maintaining common areas, and handling legal issues. Initially appointed by the Declarant, the Board transitions to being elected by unit owners after the Declarant's management authority ends. Directors serve without compensation, must act in good faith, and prioritize the interests of all unit owners.",
+      "sections": [
+        {
+          "name": "Structure",
+          "blocks": [
+            {
+              "heading": "Structure & Composition",
+              "items": [
+                "The Board is part of the Shannon Heights Owners Association, a nonprofit corporation under Washington law (Page 9, Article 1.1).",
+                "The Board consists of five (5) members after the Declarant's management authority ends (Page 11, Article 3.1).",
+                "Initially, the Declarant controls the Board until its management authority ends, as specified in the Declaration (Page 11, Article 3.1; Declaration Section 9.1).",
+                "The Board includes officers (President, Vice-President, Secretary, and Treasurer) elected by the Board members (Page 14, Article 4.1)."
+              ]
+            },
+            {
+              "heading": "Current Board Members",
+              "table": {
+                "headers": [
+                  "Position",
+                  "Name",
+                  "Term",
+                  "Dates"
+                ],
+                "rows": [
+                  [
+                    "President",
+                    "Susan Carroll",
+                    "2 Years",
+                    "3/2024-3/2026"
+                  ],
+                  [
+                    "Vice President",
+                    "David Driscoll",
+                    "2 Years",
+                    "4/2025-4/2027"
+                  ],
+                  [
+                    "Treasurer",
+                    "Alexia Bailey",
+                    "2 Years",
+                    "3/2024-3/2026"
+                  ],
+                  [
+                    "Board Member",
+                    "Susan Hindmarsh",
+                    "2 Years",
+                    "3/2024-3/2026"
+                  ],
+                  [
+                    "Board Member",
+                    "Julie Bublitz",
+                    "2 Years",
+                    "3/2025-3/2027"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Elections",
+          "blocks": [
+            {
+              "heading": "Election & Term",
+              "items": [
+                "Directors are elected at the first annual meeting after the Declarant's management authority ends, with the initial Board serving a one-year term (Page 12, Article 3.2.1).",
+                "Subsequent elections occur at annual meetings, with terms governed by the Bylaws, though specific term lengths for later boards are not detailed in the provided document (Page 12, Article 3.2.1).",
+                "Vacancies caused by reasons other than removal are filled by a majority vote of the remaining Board members, with appointees serving until the next annual meeting (Page 12, Article 3.2.2)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Removal",
+          "blocks": [
+            {
+              "heading": "Removal of Directors",
+              "items": [
+                "Any Board member may be removed, with or without cause, by a majority vote of all apartment owners at a regular or special meeting called for that purpose (Page 12, Article 3.2.3).",
+                "The Board member proposed for removal is given an opportunity to be heard at the meeting (Page 12, Article 3.2.3).",
+                "Until the Declarant's management authority ends, only the Declarant may remove Board members (Page 12, Article 3.2.3).",
+                "Removal of a Board member requires an affirmative vote of a majority of all unit owners, not just those present (Page 10, Article 2.2.1; Page 11, Article 2.2.3)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Meetings",
+          "blocks": [
+            {
+              "heading": "Board Meetings & Decision-Making",
+              "items": [
+                "The Board president presides over Board and Association meetings (Page 15, Article 4.4).",
+                "Regular meetings are held at least twice per fiscal year, including one immediately following the annual owners' meeting, with at least three days' notice to Board members (Page 13, Article 3.2.5).",
+                "Special meetings may be called by the President or upon written request of at least two Board members, with three days' notice specifying the time, place, and purpose (Page 13, Article 3.2.6).",
+                "A majority of Board members constitutes a quorum, and decisions require a majority vote of those present at a meeting with a quorum (Page 14, Article 3.2.8).",
+                "Notice may be waived in writing or by attendance, and no notice is required if all Board members are present (Page 14, Article 3.2.7).",
+                "Owners are notified of proposed budgets within 30 days of adoption, with a meeting set to ratify the budget (Declaration reference implied, not explicitly in provided Bylaws)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Roles",
+          "blocks": [
+            {
+              "heading": "Roles & Responsibilities of Directors",
+              "items": [
+                "Enforce the Declaration, Bylaws, and House Rules, including compliance with the Washington Horizontal Property Regimes Act (Page 9, Article 1.1; Page 17, Article 6.1).",
+                "Manage common areas, including maintenance, repairs, and structural alterations, with authority to access apartments for these purposes (Page 19, Article 6.3).",
+                "Administer financial matters, including assessments, reserve accounts, and unforeseen expenses (Page 18, Article 6.1; Declaration Article 11).",
+                "Oversee insurance coverage, including fire, liability, and fidelity bonds for officers handling funds (Page 14, Article 3.2.9).",
+                "Handle legal and accounting services as needed, with authority to pursue legal remedies for non-compliance (Page 7, Article 14.3.5).",
+                "Adopt, amend, or revoke administrative rules and regulations to supplement the Declaration and Bylaws (Page 21, Article 6.5.9)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Officers",
+          "blocks": [
+            {
+              "heading": "Officers of the Board",
+              "items": [
+                "The Board elects a President, Vice-President (optional), Secretary, and Treasurer annually at the organization meeting (Page 15, Article 4.1-4.2).",
+                "The President serves as the chief executive officer, presides over meetings, and appoints committees as needed (Page 15, Article 4.4).",
+                "The Vice-President assumes the President's duties in their absence (Page 15, Article 4.5).",
+                "The Secretary keeps minutes, maintains records, and manages the member list with registered mailing addresses (Page 16, Article 4.6).",
+                "The Treasurer oversees financial records, assessments, and deposits of Association funds (Page 16, Article 4.7).",
+                "Assistant Secretaries and Treasurers may be appointed to perform duties in the absence of the primary officers (Page 16, Articles 4.8-4.9).",
+                "Officers may be removed by a majority vote of the Board, with or without cause, at any regular or special meeting (Page 15, Article 4.3)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Committees",
+          "blocks": [
+            {
+              "heading": "Board Committees & Delegation",
+              "items": [
+                "The Board may appoint committees from among owners to assist in Association affairs (Page 15, Article 4.4).",
+                "The Board may hire personnel or firms (e.g., Managing Agent) to manage operations and delegate tasks, such as maintenance or legal services (Page 19, Article 6.3.1).",
+                "A Hearing Board is established to investigate, hear, and determine complaints regarding violations of Governing Documents, with authority to impose fines (Page 3, Article 14.4)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Compensation",
+          "blocks": [
+            {
+              "heading": "Compensation & Liability",
+              "items": [
+                "Directors serve without compensation for their services as directors, though reasonable expenses may be reimbursed (Page 14, Article 3.2.10; Page 25, Article 11).",
+                "The Association indemnifies Board members and officers for actions taken in good faith, except for willful misconduct, as provided in the Declaration (Page 17, Article 5.1).",
+                "Indemnification does not extend to liabilities incurred as apartment owners under the Declaration (Page 17, Article 5.1)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Authority",
+          "blocks": [
+            {
+              "heading": "Decision-Making Authority & Rule Enforcement",
+              "items": [
+                "The Board has authority to enforce covenants, conditions, and restrictions, including imposing fines (up to a maximum set by Board resolution) and pursuing legal action (Page 3, Article 14.4; Page 7, Article 14.3.5).",
+                "The Hearing Board handles complaints, conducts hearings, and issues decisions on violations, with orders effective 10 days after service unless otherwise specified (Page 6, Article 14.3.5.2).",
+                "The Board may enter apartments for emergency repairs or maintenance with minimal inconvenience, with immediate entry permitted in emergencies (Page 19, Article 6.3).",
+                "The Board may collect rent from tenants to cover delinquent assessments (Declaration Article 11.14, implied in Bylaws).",
+                "Non-compliance by owners does not waive future enforcement (Page 7, implied in Article 14.3.5)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mortgagee Rights",
+          "blocks": [
+            {
+              "heading": "Board and Mortgagee Rights",
+              "items": [
+                "Mortgagees are notified of unpaid assessments upon request (Page 22, Article 8.2).",
+                "Owners must notify the Association of mortgagees' names and addresses, maintained in a “Mortgagees of Apartments” list (Page 22, Article 8.1).",
+                "Major decisions, such as expenditures over $5,000 or property acquisition, are not explicitly mentioned in the provided Bylaws but may require owner approval per the Declaration (implied).",
+                "Mortgagees have priority over assessment liens in some cases, as specified in the Declaration (implied, not detailed in Bylaws)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Amendments",
+          "blocks": [
+            {
+              "heading": "Amendments & Board Authority Changes",
+              "items": [
+                "Amendments to the Bylaws require approval by owners holding sixty-six and two-thirds percent (66⅔%) of the voting power at a regular or special meeting, with at least 10 days' notice (Page 22, Article 7.1).",
+                "The Board proposes amendments, which must be recorded to be effective (Page 8, Certificate of Adoption).",
+                "The Declarant's management authority transitions to the Board once its control ends, as specified in the Declaration (Page 11, Article 3.1; Declaration Section 9.1).",
+                "The amendment process was followed for the provided Bylaws amendment, adopted on October 13, 1999, by a 66% vote and certified on November 23, 1999 (Page 8)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Notes",
+          "blocks": [
+            {
+              "heading": "Notes on Corrections and Omissions",
+              "items": [
+                "The provided template referenced a 75% threshold for the transition of Declarant control, but the document does not specify this percentage (Page 11, Article 3.1). It refers to the Declaration’s terms for the end of Declarant control.",
+                "The template mentioned expenditures over $5,000 requiring owner approval, but this is not explicitly stated in the provided Bylaws. Such provisions may exist in the Declaration.",
+                "Mortgagee rights regarding assessment liens limited to three months are implied but not detailed in the Bylaws (Declaration reference).",
+                "The number of directors (five) is specified in the Bylaws (Page 11, Article 3.1), correcting the template’s lack of specificity.",
+                "The Hearing Board provisions (Pages 3-7, Articles 14.2-14.4) were incorporated to highlight the Board’s enforcement mechanisms, which were not mentioned in the template but are critical to its authority."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Summary",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "heading": "Summary of Board of Directors’ Authority",
+              "text": "The Board holds broad authority to manage Shannon Heights, including rule enforcement, financial oversight, and maintenance of common areas. It acts as the Association’s agent, with powers to hire professionals, manage reserves, establish a Hearing Board for rule enforcement, and pursue legal remedies for non-compliance. Initially controlled by the Declarant, the Board becomes owner-elected, ensuring democratic governance. Major decisions, such as Bylaw amendments, require significant owner approval, and directors are protected from liability when acting in good faith."
+            },
+            {
+              "takeaways": [
+                "The Board, consisting of five owner-elected members post-Declarant control, is the central authority for condominium operations.",
+                "It enforces rules, manages finances, and maintains common areas without compensation, with officers handling specific administrative duties.",
+                "Major decisions, such as Bylaw amendments, require 66⅔% owner approval, ensuring checks on Board power.",
+                "Mortgagees have specific rights regarding delinquent assessments and must be notified accordingly.",
+                "The Hearing Board provides a structured process for handling violations, with fines and legal remedies available.",
+                "Amendments maintain stability in governance, with clear procedures for adoption and recording."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resale",
+      "title": "Resale Certificate",
+      "desc": "Resale Certificate Summary for Shannon Heights.",
+      "updated": "March 2026",
+      "subtitle": "A Resale Certificate is required for the sale or transfer of any unit within Shannon Heights Owners Association. It provides critical financial and governance disclosures to prospective buyers. Below is a consolidation of all relevant sections regarding the Resale Certificate from the governing documents, with section references for easy verification.",
+      "sections": [
+        {
+          "name": "Purpose",
+          "blocks": [
+            {
+              "heading": "1. Purpose & Legal Requirement",
+              "text": "The Resale Certificate ensures transparency for prospective buyers by disclosing the financial status, governance structure, and obligations of the Shannon Heights Owners Association. It is mandated by the Washington Condominium Act (RCW 64.34.425) to provide buyers with essential information to make informed decisions about purchasing a unit.",
+              "items": [
+                "Reference: Declaration, Article 14.1; RCW 64.34.425."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Preparation",
+          "blocks": [
+            {
+              "heading": "2. Who Prepares the Resale Certificate?",
+              "text": "The Shannon Heights Owners Association, through its management company (AGM Real Estate Group, (206) 622-8600), is responsible for preparing the Resale Certificate. The seller must request the certificate from the management company, typically at the seller's expense, to be delivered to the buyer within 10 days of the request.",
+              "items": [
+                "Reference: Bylaws, Article 5.3; Declaration, Article 14.2."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "3. Required Information in the Resale Certificate",
+              "text": "The Resale Certificate must include:",
+              "items": [
+                "Financial Information: Current monthly assessment fees, special assessments, outstanding fees or fines on the unit, and reserve account status (Declaration, Article 10.2; RCW 64.34.425(1)(a)).",
+                "Governance Documents: Copies of the Declaration, Bylaws, House Rules, and any amendments (Bylaws, Article 9.1).",
+                "Insurance: Details of the Association's insurance coverage, including coverage limits and deductibles (Declaration, Article 12.1).",
+                "Litigation: Any pending or threatened litigation involving the Association (RCW 64.34.425(1)(g)).",
+                "Maintenance and Repairs: Status of major repairs or capital improvements planned or in progress (Declaration, Article 8.3).",
+                "Compliance Violations: Any known violations of House Rules or governing documents specific to the unit (Bylaws, Article 7.4).",
+                "Other: Budget details, reserve study, and any restrictions on unit use or leasing (Declaration, Articles 6.2, 10.4).",
+                "Reference: RCW 64.34.425(1); Declaration, Article 14.1."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Right to Cancel",
+          "blocks": [
+            {
+              "heading": "4. Buyer's Right to Cancel",
+              "text": "Buyers have a 7-day right to cancel the purchase agreement after receiving the Resale Certificate, as mandated by state law. Cancellation must be in writing and delivered to the seller or their agent within the 7-day period. If the buyer cancels, any earnest money is refunded without penalty.",
+              "items": [
+                "Reference: RCW 64.34.425(3); Declaration, Article 14.3."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fees",
+          "blocks": [
+            {
+              "heading": "5. Fees & Seller Responsibility",
+              "items": [
+                "The seller is responsible for obtaining the Resale Certificate and paying the associated preparation fee (approximately $200-$300 as of 2017, subject to change; contact AGM Real Estate Group for current rates).",
+                "The seller must ensure all assessments, fines, or fees on the unit are paid in full before transfer, as unpaid amounts may result in a lien on the unit.",
+                "The Association may charge a transfer fee (e.g., $250 move-in/move-out fee, per House Rules, Section 3.5).",
+                "Reference: Declaration, Article 10.5; Bylaws, Article 5.4; House Rules, Section 3.5."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "6. Importance of Compliance",
+              "items": [
+                "Failure to provide a Resale Certificate can delay or void the sale, as it is a legal requirement under RCW 64.34.425.",
+                "Incomplete or inaccurate certificates may lead to buyer cancellation or legal disputes, with the seller potentially liable for damages.",
+                "The Association may pursue legal action to enforce payment of outstanding fees or fines, with costs and attorney fees charged to the seller (Declaration, Article 13.2).",
+                "Reference: RCW 64.34.425; Declaration, Articles 13.2, 14.4."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Resale Certificate is a legal requirement to disclose financial, governance, and operational details to buyers (RCW 64.34.425).",
+                "The Association, via AGM Real Estate Group, prepares the certificate at the seller's request and expense.",
+                "Buyers have a 7-day cancellation period after receiving the certificate.",
+                "Sellers must clear all unit-related fees/fines to avoid liens or delays in the sale.",
+                "Non-compliance risks legal action, financial penalties, or sale cancellation.",
+                "Contact AGM Real Estate Group (206-622-8600) to initiate the Resale Certificate process."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quickAnswers": [
+    {
+      "question": "Do I need Board approval for changes?",
+      "docId": "acc",
+      "section": "Requirements"
+    },
+    {
+      "question": "What insurance do I need?",
+      "docId": "insurance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "How do I report a maintenance issue?",
+      "docId": "maintenance",
+      "section": "Emergencies"
+    },
+    {
+      "question": "Who's on the Board?",
+      "docId": "board",
+      "section": "Structure"
+    },
+    {
+      "question": "What are the fines for violations?",
+      "docId": "acc",
+      "section": "Consequences"
+    },
+    {
+      "question": "What are the deck rules?",
+      "docId": "acc",
+      "section": "Guidelines"
+    },
+    {
+      "question": "How are my assessments used?",
+      "docId": "maintenance",
+      "section": "Funding"
+    },
+    {
+      "question": "What's needed to sell my unit?",
+      "docId": "resale",
+      "section": "Preparation"
+    },
+    {
+      "question": "What if I don't pay my assessments?",
+      "docId": "maintenance",
+      "section": "Consequences"
+    },
+    {
+      "question": "How do I get on the Board?",
+      "docId": "board",
+      "section": "Elections"
+    },
+    {
+      "question": "What's the move-in/out fee?",
+      "docId": "maintenance",
+      "section": "Funding"
+    },
+    {
+      "question": "How long does a buyer have to cancel?",
+      "docId": "resale",
+      "section": "Right to Cancel"
+    }
+  ]
+}
