@@ -255,7 +255,12 @@ body {
 .card:nth-child(4) { animation-delay: 0.25s; }
 .card:nth-child(5) { animation-delay: 0.3s; }
 
-.card:hover { background: rgba(18, 154, 229, 0.06); }
+.card:hover { background: #129AE5; }
+.card:hover .card-number,
+.card:hover h2,
+.card:hover p,
+.card:hover .card-updated,
+.card:hover .card-arrow { color: var(--white); }
 
 .card-number {
   font-size: 0.6875rem;
@@ -292,7 +297,7 @@ body {
   transition: color 0.3s var(--ease), transform 0.3s var(--ease);
 }
 
-.card:hover .card-arrow { color: var(--black); transform: translateX(4px); }
+.card:hover .card-arrow { color: var(--white); transform: translateX(4px); }
 
 .cards-grid .card:last-child:nth-child(odd) { grid-column: 1 / -1; }
 
