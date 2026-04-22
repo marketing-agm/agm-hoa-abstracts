@@ -1,0 +1,752 @@
+{
+  "property": "Queens Court Condominiums",
+  "abstracts": [
+    {
+      "id": "insurance",
+      "title": "Insurance Requirements",
+      "desc": "Insurance provisions from the Declaration of Queens Court Condominiums.",
+      "updated": "January 2025",
+      "subtitle": "The Declaration of Queens Court Condominiums requires the Association to maintain comprehensive insurance coverage. These sections contain the exact policy language from the governing documents.",
+      "sections": [
+        {
+          "name": "Association Coverage",
+          "blocks": [
+            {
+              "heading": "Article 20. INSURANCE."
+            },
+            {
+              "heading": "Section 20.1 General Requirements",
+              "text": "Commencing not later than the time of the first conveyance of a Unit to a person other than the Declarant, the Association shall maintain, to the extent reasonably available, a policy or policies and bonds necessary to provide (a) property insurance, (b) commercial general liability insurance, (c) fidelity insurance, (d) worker’s compensation insurance to the extent required by applicable laws, (e) directors and officers liability insurance, and (f) such other insurance as the Board deems advisable. The Board shall review at least annually the adequacy of the Association’s insurance coverage. All insurance shall be obtained from insurance carriers that are generally acceptable for similar projects, authorized to do business in the state of Washington, and meet the specific requirements of FNMA, HUD, VA, and FHLMC regarding the qualifications of insurance carriers."
+            },
+            {
+              "heading": "Section 20.2 Property Insurance; Deductible",
+              "text": "The property insurance shall, at the minimum and subject to such reasonable deductible as the Board may determine, provide All Risks of Direct Physical Loss coverage in an amount equal to the full replacement cost of the Common Elements, the Limited Common Elements, the Units, and the equipment, fixtures, appliances, improvements in the Units installed by the Declarant, and personal property of the Association with an \"Agreed Amount Endorsement.\" Each Owner and the Owner’s Mortgagee, if any, shall be beneficiaries of the policy in accordance with the interest in the Common Elements appertaining to the Owner’s Unit.",
+              "items": [
+                "Up to the amount of the deductible under the Association’s policy, each Unit Owner shall be responsible for (a) damage or loss within the Owner’s Unit, (b) damage to another Unit or to the Common Elements resulting from the negligence or misconduct of the Unit Owner or tenant of the Owner’s Unit, or (c) damage resulting from faulty or leaking plumbing fixtures or pipes, hot water tanks, sinks, bathtubs, toilets, dishwashers, washers, including any connecting hoses or drains in or serving only the Owner’s Unit."
+              ]
+            },
+            {
+              "heading": "Section 20.3 Commercial General Liability Insurance",
+              "text": "The liability insurance coverage shall insure the Board, the Association, the Owners, the Declarant, and the Managing Agent, and cover all of the Common Elements in the Condominium with a \"Severability of Interest Endorsement\" or equivalent coverage. The limits of liability shall be at least $1,000,000 combined single limit for bodily injury and property damage per occurrence and $2,000,000 general aggregate."
+            }
+          ]
+        },
+        {
+          "name": "Policy Provisions",
+          "blocks": [
+            {
+              "heading": "Section 20.5 Additional Policy Provisions",
+              "text": "The insurance obtained pursuant to Section 20.2 and Section 20.3 shall contain the following provisions and limitations:",
+              "items": [
+                "20.5.1 Each Unit Owner is an insured person under the policy with respect to liability arising out of the Owner’s interest in the Common Elements or membership in the Association.",
+                "20.5.2 Such policies shall not provide for contribution by or assessment against Mortgagees or become a lien on the property superior to the lien of a first mortgage.",
+                "20.5.3 If, at the time of the loss under the policy, there is other insurance in the name of the Unit Owner covering the same risk covered by the policy, the Association’s policy provides primary insurance.",
+                "20.5.4 Coverage shall not be prejudiced by (a) any act, omission, or neglect of the Owners of Units when such act or neglect is not within the scope of the Owner’s authority on behalf of the Association, or (b) failure of the Association to comply with any warranty or condition with regard to any portion of the premises over which the Association has no control.",
+                "20.5.5 A waiver of subrogation by the insurer as to any and all claims against the Association, the Owner of any Unit, and/or their respective agents, members of the Owner’s household, employees, or lessees, and of any defenses based upon co-insurance or upon invalidity arising from the acts of the insured."
+              ]
+            },
+            {
+              "heading": "Section 20.6 Fidelity Insurance",
+              "text": "The required fidelity insurance shall afford coverage to protect against dishonest acts on the part of officers, directors, trustees, and employees of the Association and all other persons who handle or are responsible for handling funds of or administered by the Association. All such fidelity insurance shall name the Association as an obligee and shall be not less than the estimated maximum of funds, including reserve funds, in custody of the Association at any time during the term of each policy, but, in no event, shall the aggregate amount of insurance be less than three months’ aggregate Assessments."
+            }
+          ]
+        },
+        {
+          "name": "Unit Owner",
+          "blocks": [
+            {
+              "heading": "Section 20.7 Owners’ Individual Insurance",
+              "text": "An insurance policy issued to the Association does not prevent an Owner from obtaining insurance for the Owner’s own benefit. Each Unit Owner shall be required to obtain and maintain standard condominium unit owners insurance. The Board may establish, in the rules and regulations, the minimum coverage for Owners’ policies, provided that the minimum coverage shall not be less than the amount of the deductible for the Association’s policy of property insurance."
+            },
+            {
+              "heading": "Unit Insurance Required (Rules & Regulations)",
+              "text": "Declaration Section 20.7 requires each Unit Owner to obtain and maintain standard condominium Unit Owners insurance for the Owner’s Unit. Currently, the Association maintains property insurance with a deductible in the amount of $5,000.00. Consistent with Declaration Section 20.7, Owners are required to obtain and maintain standard condominium Unit Owners insurance for their Unit with minimum coverage of not less than $5,000.00. Owners should check to make sure their policy covers the Association’s deductible, for which the Owner may be responsible in the event of a loss. Sometimes, this is referred to as “loss assessment coverage.”"
+            }
+          ]
+        },
+        {
+          "name": "Damage & Repair",
+          "blocks": [
+            {
+              "heading": "Section 20.8 Use of Insurance Proceeds",
+              "text": "Any portion of the Condominium for which insurance is required under this Article which is damaged or destroyed shall be repaired or replaced promptly by the Association pursuant to Article 21 unless: (a) the Condominium is terminated; (b) repair or replacement would be illegal under any state or local health or safety statute or ordinance; or (c) Owners holding at least 80% of the votes in the Association, including every Owner of a Unit or Limited Common Element which will not be rebuilt, vote not to rebuild. The cost of repair or replacement in excess of the deductible, insurance proceeds and available reserves is a Common Expense. The Unit Owner shall be responsible for the amount of the deductible applicable to damage or loss within the Owner’s Unit."
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Association maintains property, liability, fidelity, workers’ comp, and D&O insurance — reviewed annually.",
+                "Liability limits: at least $1,000,000 per occurrence and $2,000,000 general aggregate.",
+                "Fidelity insurance must cover at least three months’ aggregate Assessments.",
+                "Unit Owners must carry standard condo unit owners insurance with minimum $5,000 coverage (matching the Association’s deductible).",
+                "The Association’s policy is primary over Unit Owner policies.",
+                "Owners are responsible for the deductible for damage within their Unit, from their negligence, or from faulty plumbing/appliances.",
+                "80% of Owners must vote not to rebuild for damage to go unrepaired."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance & Repair",
+      "desc": "Maintenance and repair responsibility provisions from the Declaration.",
+      "updated": "January 2025",
+      "subtitle": "The Declaration and applicable statute (RCW 64.90.440) define maintenance responsibilities between the Association and Unit Owners.",
+      "sections": [
+        {
+          "name": "General Rules",
+          "blocks": [
+            {
+              "heading": "Section 9.3 Maintenance of Units, Common Elements, and Limited Common Elements",
+              "text": "Except as provided below, the Association is responsible for maintenance, repair, and replacement of the Common Elements and the Limited Common Elements, and each Owner is responsible for maintenance, repair, and replacement of the Owner’s Unit. Each Owner shall, at the Owner’s sole expense, keep the interior of the Unit and its equipment, appliances, and appurtenances in a clean and sanitary condition, free of rodents and pests, and in good order, condition, and repair."
+            },
+            {
+              "heading": "Who Pays/Repairs Generally?",
+              "items": [
+                "Unit — Owner fixes and pays (§ 9.3; RCW 64.34.328(1)).",
+                "Limited Common Element — Association fixes and pays (§ 9.3; RCW 64.34.328(1)).",
+                "Common Element — Association fixes and pays (§ 12.4.6; § 9.3; RCW 64.34.328(1))."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Owner Responsibilities",
+          "blocks": [
+            {
+              "heading": "Owner Responsible at Owner Expense (§ 9.3)",
+              "items": [
+                "Keeping Unit interior, equipment and appliances in clean and sanitary condition, free of rodents and pests, and in good order, condition and repair.",
+                "Repair and replacement of broken or damaged glass (including fogged glass or failed seals) in windows and exterior doors of the Unit.",
+                "Plumbing fixtures, plumbing, electrical fixtures, wiring, appliances or equipment, including water heaters, fans or heating/cooling equipment, which serve only that Unit, regardless of location.",
+                "Maintaining allocated Limited Common Element in a neat and clean condition in accordance with Rules."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Association Responsibilities",
+          "blocks": [
+            {
+              "heading": "Association Responsible at Association Expense (§ 9.3)",
+              "text": "Repair and replacement of storage areas and the repaving and re-striping of parking areas."
+            },
+            {
+              "heading": "Section 9.4 Exterior Appearance",
+              "text": "The Board shall provide for the maintenance of the exterior of the buildings and other structures in the Condominium."
+            },
+            {
+              "heading": "Section 12.6 Association Annual Inspections",
+              "text": "At least annually, the Association shall have the Condominium inspected by a qualified engineer or architect, in order to ascertain the physical condition of the improvements and to determine whether maintenance, repairs & replacements are indicated. The inspection shall cover, at a minimum, the “building enclosure” as defined in RCW 64.55, including the roofs, siding, decks, caulking, windows and doors."
+            }
+          ]
+        },
+        {
+          "name": "Insured Events",
+          "blocks": [
+            {
+              "heading": "Question 1: Is this an “Insured Event”?",
+              "text": "Check the Association’s master insurance policy to see whether the damage is covered. The Association is required to insure the entire condominium, including Units and developer-installed improvements (RCW 64.34.352(1)(a); Decl. § 20.2). The Association policy is primary over Unit policies (RCW 64.34.352(3)(d); § 20.5.3).",
+              "items": [
+                "Who undertakes? Association (RCW 64.34.352(7); Decl., § 21.4.1).",
+                {
+                  "text": "Who Pays?",
+                  "sub": [
+                    "Insured amounts: Association pays with insurance proceeds, if any (RCW 64.34.352(7); § 20.8).",
+                    "Deductible: Up to amount of the deductible, Owner pays for damage within the Owner’s Unit; to another Unit or Common Elements resulting from negligence or misconduct; or resulting from faulty plumbing fixtures or pipes, hot water tanks, sinks, bathtubs, toilets, dishwashers, washers (§§ 20.2, 20.8)."
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": "Question 2: Is this “Significant Damage”?",
+              "text": "Sometimes major damage occurs that affects an owner’s ability to live in a unit and the Association does not have the funds available to pay for the repair, even with insurance proceeds.",
+              "items": [
+                "Who undertakes? Association (§ 21.4.1).",
+                "Who pays? Association (§ 21.4.1).",
+                {
+                  "text": "Exceptions:",
+                  "sub": [
+                    "Owner may be required to pay deductible under §§ 20.2 and 20.8.",
+                    "Misconduct: Owner may be responsible for uninsured expenses for damages occurring due to misconduct (§ 15.7)."
+                  ]
+                },
+                "Follow “Damage and Repair” procedures in Article 21, which vary depending on whether the Damage is “Substantial.”"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Entry & Access",
+          "blocks": [
+            {
+              "heading": "Article 11. Entry for Repairs or Maintenance",
+              "text": "The Association and its agents or employees may enter any Unit and the Limited Common Elements allocated thereto to effect repairs, improvements, replacements, maintenance, or sanitation work deemed by the Board to be necessary, to do necessary work that the Owner has failed to perform, or to prevent damage to the Common Elements or to another Unit. Except in cases of great emergency that preclude advance notice, the Board shall cause the Unit occupant to be given Notice and an Opportunity to be Heard as far in advance of entry as is reasonably practicable."
+            }
+          ]
+        },
+        {
+          "name": "Damage & Repair",
+          "blocks": [
+            {
+              "heading": "Article 21. DAMAGE AND REPAIR OR DAMAGE TO PROPERTY"
+            },
+            {
+              "heading": "Section 21.1 Initial Board Determination",
+              "text": "In the event of damage to any Common Element or to any portion of a Unit or its Limited Common Elements, equipment, or appliances covered by the Association’s insurance policy, the Board shall promptly, and in all events within 60 days after the date of damage, make the following determinations:",
+              "items": [
+                "21.1.1 The nature and extent of the damage, together with an inventory of the improvements and property directly affected thereby.",
+                "21.1.2 A reasonably reliable estimate of the cost to repair the damage, based upon two or more firm bids obtained from responsible contractors.",
+                "21.1.3 The expected insurance proceeds, if any, to be available.",
+                "21.1.4 The amount of the deductible to be paid by a Unit Owner with respect to damage or loss within the Owner’s Unit.",
+                "21.1.5 The amount of available reserves or other Association funds.",
+                "21.1.6 The amount, if any, by which the estimated cost of repair exceeds the deductible, expected insurance proceeds and available reserves."
+              ]
+            },
+            {
+              "heading": "Section 21.2 Notice of Damage",
+              "text": "The Board shall promptly, and in all events within 60 days after the date of damage, file a proof of loss statement with the insurance company if the loss is covered by insurance. The Board shall then provide each Owner with a written notice describing the damage and summarizing the initial Board determinations."
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Association maintains Common Elements and Limited Common Elements; Owners maintain their Units.",
+                "For insured events, the Association undertakes repairs; Owners pay the deductible for Unit-related damage.",
+                "The Association’s master policy is primary over Unit Owner policies.",
+                "The Board must make damage determinations within 60 days, including cost estimates from two or more firm bids.",
+                "The Association may enter Units for repairs with notice, or immediately in emergencies.",
+                "Annual inspections by a qualified engineer/architect are required for the building enclosure."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "title": "ACC Requests",
+      "desc": "Architectural Control and Modification provisions.",
+      "updated": "January 2025",
+      "subtitle": "The Declaration governs all modifications to Units, Common Elements, and Limited Common Elements.",
+      "sections": [
+        {
+          "name": "Exterior Appearance",
+          "blocks": [
+            {
+              "heading": "Section 9.4 Exterior Appearance",
+              "text": "In order to preserve a uniform exterior appearance of the buildings and other structures in the Condominium, the Board shall provide for the maintenance of the exterior of the buildings and other structures in the Condominium. No Owner may modify or decorate the exterior of a building or other structure in the Condominium, or the screens, doors, awnings, or other portions of any Unit visible from outside the Unit without the prior written consent of the Board or in accordance with rules or regulations of the Association. No solar panels, radio or television antennas or other appliances may be installed on the exterior of the building without the prior written consent of the Board. Unless otherwise established by rule or regulation of the Board, all portions of curtains, blinds or draperies visible from outside the Units shall be white or off-white and the Owners shall not replace the glass or screens in the windows or doors of the Units except with materials of similar color and quality to those originally installed."
+            },
+            {
+              "heading": "Section 9.5 Protected Antennas",
+              "text": "Owners may not install antennas, dishes or other receiving devices in or on any portion of the Common Elements or Limited Common Elements, except as provided in this Section. Each Owner shall have the right to install a Protected Antenna (as defined by 47 C.F.R. § 1.4000 (“FCC Rule”)) within a Limited Common Element area allocated to the Owner’s Unit, subject to such reasonable rules and regulations as the Board may adopt."
+            },
+            {
+              "heading": "Section 9.7 Use or Alteration of Common and Limited Common Elements",
+              "text": "Use of the Common Elements and Limited Common Elements shall be subject to the provisions of this Declaration and the rules and regulations of the Board. Nothing shall be altered or constructed in or removed from any Common Element or Limited Common Element except upon the prior written consent of the Board."
+            },
+            {
+              "heading": "Section 9.8 Signs",
+              "text": "No sign of any kind shall be displayed to the public view on or from any Unit, Limited Common Element, or Common Element without the prior consent of the Board."
+            }
+          ]
+        },
+        {
+          "name": "Minor Alterations",
+          "blocks": [
+            {
+              "heading": "Section 24.2 Minor Alterations; Hard Surface Flooring",
+              "text": "No Unit may be altered in any way except in accordance with this Article. An Owner may make any improvements or alterations to the Owner’s Unit that do not change the structural walls, floors or ceilings; reduce the fire resistance rating; affect the structural integrity or acoustical properties of the building; or affect the plumbing, mechanical or electrical systems. An Owner may not change the flooring from carpeting to hard surface flooring in a portion of the Unit that is over another Unit without the prior written approval of the Board, which may be withheld in its sole discretion. An Owner may not penetrate the boundaries of the Unit without the prior written approval of the Board."
+            }
+          ]
+        },
+        {
+          "name": "Substantial Alterations",
+          "blocks": [
+            {
+              "heading": "Section 24.4 Substantial Alteration",
+              "text": "A proposal that contemplates substantial alteration of one or more Units is subject to approval by the Board. The Board shall approve an Owner’s request under this Section within 30 days, unless the proposed alteration does not comply with Section 24.3 or impairs the structural integrity or mechanical or electrical systems in the Condominium. The failure of the Board to act upon a request within such period shall be deemed approval thereof."
+            },
+            {
+              "heading": "Section 24.5 Procedure After Approval",
+              "text": "Upon approval of a proposal under this Article, the Owner making it may proceed according to the proposed plans and specifications, provided that the Board may in its discretion require that the Board administer the work or provide for the protection of other Units or Common Elements or provide that reasonable deadline for completion of the work be inserted in the contracts for the work."
+            }
+          ]
+        },
+        {
+          "name": "Contractor Requirements",
+          "blocks": [
+            {
+              "heading": "Unit Modification — Information Required (Rules & Regulations)",
+              "text": "Owners must inform the Board of any remodeling or other major construction work to be done in their Unit. The Board shall be provided with the name and phone number of the contractor, architect, project manager and each sub-contractor, and shall provide an emergency number. Owners must submit current licensing and insurance coverage for all contractors who will work at the Condominium, with an insurance policy endorsement from their provider verifying coverage for work performed on condominiums, in advance of starting their work."
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "No exterior modifications without prior written Board consent — including paint, screens, doors, awnings, solar panels, and antennas.",
+                "Hard surface flooring over another Unit requires Board approval, which may be withheld at sole discretion.",
+                "Substantial alterations must be approved by the Board within 30 days, or silence is deemed approval.",
+                "All contractors must provide licensing, insurance, and emergency contacts before starting work.",
+                "Curtains, blinds, and draperies visible from outside must be white or off-white.",
+                "Nothing may be altered, constructed, or removed from Common or Limited Common Elements without Board consent."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board",
+      "title": "Board of Directors",
+      "desc": "Board of Directors provisions from the Bylaws and Declaration.",
+      "updated": "January 2025",
+      "subtitle": "The Board of Directors governs Queens Court Condominiums. Below are the provisions from the Bylaws and Declaration.",
+      "sections": [
+        {
+          "name": "Structure",
+          "blocks": [
+            {
+              "heading": "Section 3.1 Number, Term, and Qualifications",
+              "text": "The affairs of the Association shall be governed by a Board of three directors. Until the Transition Date, the Declarant shall elect the members of the Board pursuant to the Declaration. Within 30 days after the Transition Date, the Declarant or the Board shall call a special meeting of the Owners to elect a Board of three directors. The normal term of office for directors will be for two years and until their successors are elected and take office. However, to provide for staggered terms, at the first annual meeting two directors shall be elected for one year and one director shall be elected for two years. A majority of the directors elected by the Owners after the Transition Date shall be members of the Association."
+            },
+            {
+              "heading": "Current Board Members",
+              "table": {
+                "headers": [
+                  "Position",
+                  "Name",
+                  "Term",
+                  "Dates"
+                ],
+                "rows": [
+                  [
+                    "President",
+                    "Jennifer Simpson",
+                    "2 Years",
+                    "02/10/2023-02/10/2025"
+                  ],
+                  [
+                    "Secretary",
+                    "Hannah Rose Furfaro",
+                    "2 Years",
+                    "03/27/2024-03/31/2026"
+                  ],
+                  [
+                    "Treasurer",
+                    "Stephanie Harmon",
+                    "2 Years",
+                    "02/10/2023-02/10/2025"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Elections",
+          "blocks": [
+            {
+              "heading": "Section 3.5 Removal of Directors",
+              "text": "At any regular or special meeting after the Transition Date, any one or more of the directors elected by the Owners may be removed, with or without cause, by members holding a majority of the votes in the Association and a successor may then and there be elected to fill the vacancy thus created. Any director whose removal has been proposed shall be given an opportunity to be heard at the meeting."
+            },
+            {
+              "heading": "Section 3.6 Compensation",
+              "text": "No compensation shall be paid to directors for their services as directors."
+            }
+          ]
+        },
+        {
+          "name": "Meetings",
+          "blocks": [
+            {
+              "heading": "Section 3.8 Regular Meetings",
+              "text": "Regular meetings of the Board may be held at such time and place as shall be determined from time to time by a majority of the directors, but at least two such meetings shall be held during each fiscal year. Notice of regular meetings of the Board shall be given to each director personally or by mail, telephone, facsimile transmission or internet transmission, at least three days before the day fixed for the meeting."
+            },
+            {
+              "heading": "Section 3.9 Special Meetings",
+              "text": "Special meetings of the Board may be called by the president on three days’ notice to each director, given personally or by mail, telephone, facsimile transmission or internet transmission, which notice shall state the time, place, and purpose of the meeting. Special meetings of the Board shall be called by either the president or secretary in like manner and on like notice on the written request of any two directors."
+            },
+            {
+              "heading": "Section 3.10 Waiver of Notice",
+              "text": "Before any meeting of the Board, any director may, in writing, waive notice of such meeting. Attendance by a director at any meeting of the Board shall be a waiver by him of timely and adequate notice unless he expressly challenges the notice when the meeting begins. If all directors are present at any meeting of the Board, no notice shall be required and any business may be transacted at the meeting."
+            },
+            {
+              "heading": "Section 3.11 Quorum",
+              "text": "At all meetings of the Board, a majority of the directors shall constitute a quorum for the transaction of business, and the acts of the majority of the directors present at a meeting at which a quorum is present shall be the acts of the Board."
+            },
+            {
+              "heading": "Section 3.12 Open Meeting",
+              "text": "Any Owner or voting representative may attend any meeting of the Board, but shall not be entitled to participate except with the consent of the Board. The Board may, however, go into private, executive session to consider the employment or dismissal of the managing agent or other persons, or to hear complaints or charges, or to discuss with legal counsel litigation in which the Association is or is likely to become a party."
+            }
+          ]
+        },
+        {
+          "name": "Officers",
+          "blocks": [
+            {
+              "heading": "Section 4.1 Designation",
+              "text": "The principal officers of the Association shall be a president, a vice president, a secretary, and a treasurer, all of whom shall be elected by and from the Board. Two or more offices may be held by the same person, except that a person may not hold the offices of president and secretary simultaneously."
+            },
+            {
+              "heading": "Section 4.2 Election of Officers",
+              "text": "The officers of the Association shall be elected annually by the Board at the first Board meeting after the annual meeting of the Association. They shall hold office at the pleasure of the Board."
+            },
+            {
+              "heading": "Section 4.3 Removal of Officers",
+              "text": "At any regular meeting of the Board or at any special meeting of the Board called for such purpose, upon an affirmative vote of a majority of the members of the Board, any officer may be removed, either with or without cause."
+            },
+            {
+              "heading": "Section 4.4 President",
+              "text": "The president shall be the chief executive officer of the Association. He/She shall preside at all meetings of the Association and of the Board and shall have such authority and duties as may be prescribed by the Board."
+            },
+            {
+              "heading": "Section 4.5 Vice President",
+              "text": "The vice president shall perform the duties of the president when the president is absent or unable to act, and shall perform such other duties as may be prescribed by the Board."
+            },
+            {
+              "heading": "Section 4.6 Secretary",
+              "text": "The secretary shall keep the minutes of all meetings of the Board and of the Association and shall have custody of the business records of the Board and the Association, other than financial records kept by the treasurer."
+            },
+            {
+              "heading": "Section 4.7 Treasurer",
+              "text": "The treasurer shall have responsibility for Association funds and securities and shall be responsible for keeping full and accurate accounts of all receipts and disbursements in books belonging to the Association."
+            },
+            {
+              "heading": "Section 4.9 Compensation",
+              "text": "The Board may pay reasonable compensation to any officer or Owner who performs substantial services for the Condominium in carrying out the management duties of the Board. The Board’s decision to compensate an officer shall not become final until 60 days after notice of it (including the amount of compensation to be paid) has been given to all persons entitled to notice of meetings of the Association."
+            }
+          ]
+        },
+        {
+          "name": "Committees",
+          "blocks": [
+            {
+              "heading": "Section 5.1 Committees of Directors",
+              "text": "The Board may appoint one or more committees that consist of one or more directors. Such committees, if composed entirely of Board members, shall have and exercise, to the extent provided in the resolution establishing the committee, the authority of the Board in the management of the Association."
+            },
+            {
+              "heading": "Section 5.2 Other Committees",
+              "text": "Other committees, not having or exercising the authority of the Board in the management of the Association, may be appointed by the president or the directors, and such committees may be composed of one or more members of the Association."
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Three directors, two-year staggered terms. Majority must be Association members after Transition Date.",
+                "Directors serve without compensation and may be removed with or without cause by majority vote.",
+                "At least two regular Board meetings per fiscal year with three days’ notice.",
+                "Officers elected annually: President, Vice President, Secretary, Treasurer.",
+                "Owners may attend Board meetings but cannot participate without Board consent.",
+                "The Board may go into executive session for personnel, legal, or complaint matters."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget & Assessments",
+      "desc": "Budget process and assessment provisions from the Declaration.",
+      "updated": "January 2025",
+      "subtitle": "The Declaration governs how the Association prepares budgets, levies assessments, and manages reserves.",
+      "sections": [
+        {
+          "name": "Budget Process",
+          "blocks": [
+            {
+              "heading": "Article 15. BUDGET AND ASSESSMENTS"
+            },
+            {
+              "heading": "Section 15.1 Fiscal Year",
+              "text": "The fiscal year of the Association will be the calendar year."
+            },
+            {
+              "heading": "Section 15.2 Preparation of Budget",
+              "text": "Not less than 30 days before the end of the fiscal year the Board shall prepare a budget for the Association for the coming year. In preparing its budget the Board shall estimate the Common Expenses of the Association to be paid during the year, make suitable provision for accumulation of reserves, including amounts reasonably anticipated to be required for maintenance, repair, and replacement of the Common Elements and the Limited Common Elements, and shall take into account any surplus or deficit carried over from the preceding year and any expected income to the Association."
+            },
+            {
+              "heading": "Section 15.3 Ratification of Budget",
+              "text": "Within 30 days after adoption of any proposed budget for the Condominium after the Transition Date, the Board shall provide a summary of the budget to all the Owners and shall set a date for a meeting of the Owners to consider ratification of the budget not less than 14 nor more than 60 days after mailing of the summary. Unless at that meeting the Owners to which a majority of the votes in the Association are allocated reject the budget, the budget is ratified, whether or not a quorum is present. In the event the proposed budget is rejected or the required notice is not given, the periodic budget last ratified by the Unit Owners shall be continued until such time as the Unit Owners ratify a subsequent budget proposed by the Board."
+            },
+            {
+              "heading": "Section 15.4 Supplemental Budget",
+              "text": "If during the year the budget proves to be inadequate for any reason, including nonpayment of any Owner’s Assessments, the Board may prepare a supplemental budget for the remainder of the year. A supplemental budget that results in an increase in an Owner’s Assessments shall be ratified pursuant to Section 15.3."
+            },
+            {
+              "heading": "Section 15.5 Monthly Assessments",
+              "text": "The amounts required by the Association for Common Expenses as reflected by the annual budget and any supplemental budgets shall be divided into installments to be paid each month over the period of time covered by the budget or supplemental budget."
+            },
+            {
+              "heading": "Section 15.12 Failure to Assess",
+              "text": "Any failure by the Board or the Association to make the budgets and Assessments hereunder before the expiration of any year for the ensuing year shall not be deemed a waiver or modification in any respect of the provisions of this Declaration, or a release of the Owners from the obligation to pay Assessments during that or any subsequent year. The monthly Assessment amounts established for the preceding year shall continue until new Assessments are established."
+            }
+          ]
+        },
+        {
+          "name": "FAQ",
+          "blocks": [
+            {
+              "heading": "Budget FAQ",
+              "items": [
+                {
+                  "text": "Q: What is a budget for a homeowners association (HOA)?",
+                  "sub": [
+                    "A: A budget for a homeowners association outlines the projected revenues, expenditures, and reserves for the association for a specific period, typically a fiscal year."
+                  ]
+                },
+                {
+                  "text": "Q: What does the budget include?",
+                  "sub": [
+                    "A: The budget includes estimated common expenses, provisions for accumulation of reserves, anticipated maintenance, repair, and replacement costs for common elements, as well as any surplus or deficit from the previous year and expected income."
+                  ]
+                },
+                {
+                  "text": "Q: How is the budget ratified?",
+                  "sub": [
+                    "A: The board provides a summary of the budget to all owners and sets a date for a meeting to consider ratification. If a majority of the votes in the association do not reject the budget at the meeting, it is ratified."
+                  ]
+                },
+                {
+                  "text": "Q: Can the budget be amended during the year?",
+                  "sub": [
+                    "A: If the budget proves to be inadequate for any reason, including nonpayment of assessments, the board may prepare a supplemental budget for the remainder of the year, which may require ratification."
+                  ]
+                },
+                {
+                  "text": "Q: How are monthly assessments determined?",
+                  "sub": [
+                    "A: The amounts required for common expenses as per the annual budget and any supplemental budgets are divided into installments to be paid each month over the budget period. Monthly assessments for each unit are calculated based on the unit’s common expense liability."
+                  ]
+                },
+                {
+                  "text": "Q: What happens if the board fails to assess?",
+                  "sub": [
+                    "A: Failure to establish budgets and assessments does not waive owners’ obligation to pay assessments. The monthly assessment amounts from the preceding year continue until new assessments are established."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Board prepares the budget at least 30 days before fiscal year end.",
+                "Owners can reject the budget by majority vote; otherwise it is ratified automatically.",
+                "Supplemental budgets may be prepared if the original proves inadequate.",
+                "Monthly assessments continue from the prior year if the Board fails to establish new ones.",
+                "The fiscal year is the calendar year."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "late-fees",
+      "title": "Late Fees & Collections",
+      "desc": "Late fee policy, fines, and collections authority.",
+      "updated": "January 2025",
+      "subtitle": "Assessment payment requirements, late fee schedule, fine enforcement policy, and the Association’s collection authority.",
+      "sections": [
+        {
+          "name": "Payment",
+          "blocks": [
+            {
+              "heading": "Section 15.10 Payment of Monthly Assessments",
+              "text": "On or before the first day of each calendar month each Owner shall pay or cause to be paid to the treasurer or designated agent of the Association all Assessments against the Unit for that month. Any Assessment not paid by the tenth day of the calendar month for which it is due shall be delinquent and subject to late charges, interest charges, and collection procedures as provided in Article 16."
+            },
+            {
+              "text": "Monthly assessments become payable on the first of each month and are delinquent on the second. However, to allow for mail and other unforeseen delays, the Association allows a ten (10) day grace period for the payment of assessments. Owners whose assessments are not received by the management company by 5:00 PM on the 10th of the month will be charged a late fee as set forth in the Schedule of Fees."
+            }
+          ]
+        },
+        {
+          "name": "Late Charges",
+          "blocks": [
+            {
+              "heading": "Section 16.8 Late Charges and Interest on Delinquent Assessments",
+              "text": "The Association may from time to time establish reasonable late charges and a rate of interest to be charged on all subsequent delinquent Assessments or installments thereof. In the absence of another established nonusurious rate, delinquent Assessments shall bear interest from the date of delinquency at the maximum rate permitted under RCW 19.52.020."
+            },
+            {
+              "heading": "Section 16.10 Security Deposit",
+              "text": "An Owner who has been delinquent in paying his monthly Assessments for three of the five preceding months may be required by the Board, from time to time, to make and maintain a security deposit not in excess of three months’ estimated monthly Assessments."
+            }
+          ]
+        },
+        {
+          "name": "Fines & Fees",
+          "blocks": [
+            {
+              "heading": "Enforcement Policy, Fine & Fee Schedule",
+              "text": "Each Owner, Related Parties, Tenants and the guests, Occupants, employees, agents, and vendors of any of them is required to strictly comply with the Governing Documents and decisions of the Board.",
+              "items": [
+                "First Violation: Warning",
+                "Subsequent Violation Within 6 months: $100.00 per occurrence",
+                "Continuing or Uncorrected Violations: $100.00 per week",
+                "Enhanced Fine I: $250.00 per occurrence, or per month if continuing",
+                "Enhanced Fine II: $500.00 per occurrence, or per month if continuing",
+                "Late Fee: $25.00 (monthly)",
+                "Returned Check Fee: $25.00",
+                "Move-In Fee: $200.00",
+                "Association Resale Certificate: $275.00"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Assessments are due the 1st of each month; delinquent after the 10th (5:00 PM grace period).",
+                "Late fee: $25.00 monthly. Delinquent assessments bear interest at the maximum rate under RCW 19.52.020.",
+                "Owners delinquent 3 of 5 months may be required to post a security deposit of up to 3 months’ assessments.",
+                "Fines: Warning first, then $100/occurrence, $100/week continuing, up to $500 enhanced.",
+                "Move-in fee: $200. Resale certificate fee: $275. Returned check fee: $25."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resale",
+      "title": "Resale Certificate",
+      "desc": "Resale Certificate provisions from the Declaration and Rules.",
+      "updated": "January 2025",
+      "subtitle": "A Resale Certificate is required for the sale of any unit at Queens Court Condominiums per Washington law (RCW 64.34.425).",
+      "sections": [
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "Section 12.5 Financial Statements and Records",
+              "text": "The Association shall keep financial records in sufficient detail to enable the Association to comply with the resale certificate requirements set forth in RCW 64.34.425. All financial and other records shall be made reasonably available for examination by any Unit Owner and the Owner’s authorized agents. The Association shall prepare, or cause to be prepared, an annual financial statement of the Association. The annual financial statement shall be audited at least annually by a certified public accountant who is not a member of the Board or an Owner unless Owners holding at least 60% of the votes waive the audit for that year."
+            },
+            {
+              "heading": "12.4.13",
+              "text": "The Association may impose and collect reasonable charges for the preparation and recording of amendments to this Declaration, resale certificates required by RCW 64.34.425, and statements of unpaid Assessments."
+            }
+          ]
+        },
+        {
+          "name": "Fees",
+          "blocks": [
+            {
+              "heading": "Transfer and Move-In Fees (Rules & Regulations)",
+              "items": [
+                "A transfer fee shall be charged to an Owner’s account upon each conveyance of the Unit after the initial conveyance by the Declarant.",
+                "The resale certificate fee and transfer fee are paid to the management company.",
+                "A move-in fee is charged to the Unit Owner’s account upon move-in to a Unit to offset the wear and tear to the Common Elements of the building. The Unit Owner will be responsible for the fee (and for any damages to the Common Elements in excess of the fee), regardless of whether the Owner or a Tenant is moving into the Unit, except that a move-in fee will not be charged in connection with the initial occupancy of the Unit.",
+                "Association Resale Certificate fee: $275.00",
+                "Move-In Fee: $200.00"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "A Resale Certificate is legally required for all unit sales (RCW 64.34.425).",
+                "The Association keeps financial records sufficient to comply with resale certificate requirements.",
+                "Annual financial statements must be audited by a CPA unless 60% of Owners waive the audit.",
+                "Resale certificate fee: $275. Move-in fee: $200. Transfer fee charged upon each conveyance.",
+                "All fees are paid to the management company."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quickAnswers": [
+    {
+      "question": "What insurance do I need?",
+      "docId": "insurance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "What does the Association insure?",
+      "docId": "insurance",
+      "section": "Association Coverage"
+    },
+    {
+      "question": "Who's on the Board?",
+      "docId": "board",
+      "section": "Structure"
+    },
+    {
+      "question": "When are assessments due?",
+      "docId": "late-fees",
+      "section": "Payment"
+    },
+    {
+      "question": "What are the fines?",
+      "docId": "late-fees",
+      "section": "Fines & Fees"
+    },
+    {
+      "question": "Can I change my flooring?",
+      "docId": "acc",
+      "section": "Minor Alterations"
+    },
+    {
+      "question": "Who maintains what?",
+      "docId": "maintenance",
+      "section": "General Rules"
+    },
+    {
+      "question": "How is the budget approved?",
+      "docId": "budget",
+      "section": "Budget Process"
+    },
+    {
+      "question": "What's the resale certificate fee?",
+      "docId": "resale",
+      "section": "Fees"
+    },
+    {
+      "question": "What happens after damage?",
+      "docId": "maintenance",
+      "section": "Damage & Repair"
+    },
+    {
+      "question": "Can I install an antenna?",
+      "docId": "acc",
+      "section": "Exterior Appearance"
+    },
+    {
+      "question": "What's the move-in fee?",
+      "docId": "late-fees",
+      "section": "Fines & Fees"
+    }
+  ]
+}
