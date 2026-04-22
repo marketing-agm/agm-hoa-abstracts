@@ -1,0 +1,695 @@
+{
+  "property": "Issaquah Court Condominiums",
+  "abstracts": [
+    {
+      "id": "insurance",
+      "title": "Insurance Requirements",
+      "desc": "Summary of Insurance Requirements for Issaquah Court Condominiums.",
+      "updated": "April 2025",
+      "subtitle": "The Insurance provisions from the Declaration, Bylaws, and Articles of Incorporation outline coverage requirements for both the Association and individual unit owners. Below is a structured summary:",
+      "sections": [
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "1. Association Insurance Requirements"
+            },
+            {
+              "heading": "1.1.1 Property Insurance (Fire & Casualty)",
+              "text": "Covers the Units (excluding personal property) and Common/ Limited Common Elements for full replacement value, including improvements/betterments installed by Unit Owners. Deductibles and exclusions may apply."
+            },
+            {
+              "heading": "1.1.2 General Liability Insurance",
+              "text": "Protects the Association, Board, Declarant, and Unit Owners against bodily injury or property damage arising from use or ownership of Common Elements. Minimum limits include $1 million per occurrence for personal injury and $50,000 per accident for property damage."
+            },
+            {
+              "heading": "1.1.3 Directors & Officers Insurance",
+              "text": "Coverage for acts or omissions of the Board and officers, with liability limited provided actions are in good faith and within the scope of authority."
+            },
+            {
+              "heading": "1.1.4 Fidelity/Crime Insurance",
+              "text": "Protects against theft or dishonesty involving Association funds."
+            },
+            {
+              "heading": "1.1.5 Workers’ Compensation Insurance",
+              "text": "Required per applicable laws for any employees or contractors engaged by the Association."
+            },
+            {
+              "heading": "1.1.6 Personal Property Insurance",
+              "text": "Covers Association-owned equipment and furnishings against fire, theft, or other losses."
+            },
+            {
+              "heading": "1.1.7 Additional Insurance",
+              "text": "The Board may secure other coverage deemed necessary or advisable, including flood or earthquake insurance, depending on location and risk."
+            }
+          ]
+        },
+        {
+          "name": "Unit Owner",
+          "blocks": [
+            {
+              "heading": "2. Unit Owner Insurance Requirements"
+            },
+            {
+              "heading": "2.1.1 HO-6 Insurance (Strongly recommended)",
+              "text": "Unit Owners may obtain additional coverage at their expense for personal property, interior improvements, and liability."
+            },
+            {
+              "heading": "2.1.2 Loss Assessment Coverage",
+              "text": "Not explicitly required, but recommended to cover Association-assessed deductibles or shared damage costs."
+            },
+            {
+              "heading": "2.1.3 Owner Insurance Restrictions",
+              "text": "No policy may impair or reduce the Association’s coverage. Owners must notify the Board of any improvements over $1,000 and submit a copy of any individual property coverage outside personal property within 30 days."
+            }
+          ]
+        },
+        {
+          "name": "Provisions",
+          "blocks": [
+            {
+              "heading": "3. Insurance Provisions & Special Conditions"
+            },
+            {
+              "heading": "3.1 Association’s Role in Claims & Payouts",
+              "items": [
+                "Insurance proceeds are held in trust for reconstruction and cannot be distributed to Unit Owners unless funds exceed the cost of repairs or reconstruction is not pursued.",
+                "The Association has the authority to settle insurance claims on behalf of all insured parties."
+              ]
+            },
+            {
+              "heading": "3.2 Mortgagee Protections",
+              "items": [
+                "Policies must include standard mortgagee clauses.",
+                "Insurance rights of lenders are not invalidated by Owner or Board negligence."
+              ]
+            },
+            {
+              "heading": "3.3 Owner Responsibility for Damage",
+              "text": "Owners are responsible for damage caused by themselves, their tenants, guests, or pets to Common or Limited Common Elements, and costs may be specially assessed."
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "4. Insurance Policy Requirements & Compliance",
+              "items": [
+                "Annual Review: The Board must annually review insurance adequacy with professional consultants.",
+                "Carrier Rating: All policies must be obtained through insurers rated Class B or better by Best’s Guide or equivalent.",
+                "Waivers & Subrogation: Policies must waive subrogation rights against Unit Owners and ensure coverage is not voided by Owner conduct.",
+                "Primary Coverage: Association policies are considered primary in the event of overlapping Owner insurance.",
+                "Notice Requirements: Any cancellation must be communicated to the Board and interested parties at least 30 days in advance."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Association maintains comprehensive insurance on the physical structures, liability, and Board operations.",
+                "Unit Owners are encouraged to carry HO-6 and Loss Assessment policies and must notify the Board of substantial improvements.",
+                "Claims are managed by the Board, with mortgagees given high protection.",
+                "Policy compliance and adequate coverage are overseen by annual professional reviews."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance Responsibilities",
+      "desc": "Maintenance Responsibilities Summary for Issaquah Court.",
+      "updated": "April 2025",
+      "subtitle": "From Articles of Incorporation, Bylaws, and Declaration of Issaquah Court.",
+      "sections": [
+        {
+          "name": "Overview",
+          "blocks": [
+            {
+              "heading": "Maintenance Responsibilities Overview",
+              "text": "The governing documents outline the division of maintenance duties between the Association and Unit Owners to ensure building functionality, property value, and community integrity."
+            }
+          ]
+        },
+        {
+          "name": "Unit Owner",
+          "blocks": [
+            {
+              "heading": "Unit Owner Responsibilities",
+              "text": "Each Unit Owner is responsible for the maintenance, repair, and replacement of the following:",
+              "items": [
+                {
+                  "text": "All interior components within the Unit boundaries, including:",
+                  "sub": [
+                    "Walls, ceilings, and floors (finished surfaces)",
+                    "Fixtures, appliances, and equipment serving only that Unit",
+                    "Interior plumbing, electrical systems, and HVAC devices exclusive to the Unit"
+                  ]
+                },
+                {
+                  "text": "Exclusive use areas designated as Limited Common Elements, such as:",
+                  "sub": [
+                    "Balconies, patios, decks, and assigned parking stalls",
+                    "Windows and exterior doors serving only one Unit"
+                  ]
+                },
+                "Clean-up after guests, tenants, and contractors if spills or damage occur in common areas"
+              ]
+            },
+            {
+              "heading": "Owners are also financially liable for:",
+              "items": [
+                "Damage caused by residents, guests, or pets to Common or Limited Common Elements",
+                "Remediation of oil leaks in garages, trash left in Common Areas, and related infractions"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Association",
+          "blocks": [
+            {
+              "heading": "Association Responsibilities (HOA)",
+              "text": "The Association is responsible for maintenance, repair, and replacement of:",
+              "items": [
+                {
+                  "text": "Common Elements, including:",
+                  "sub": [
+                    "Building structure: roofs, exterior walls, siding, and foundations",
+                    "Common utilities: plumbing, HVAC, fire sprinklers, electrical systems outside Unit boundaries",
+                    "Elevators, stairwells, lobbies, landscaping, parking garage, sidewalks"
+                  ]
+                },
+                {
+                  "text": "Safety & Operational Systems:",
+                  "sub": [
+                    "Fire control panels, alarms, and monitoring",
+                    "Lighting (interior/exterior), janitorial services, pest control"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "The Association also coordinates professional services, hazard insurance, and utility contracts on behalf of all Units (allocated proportionally)."
+            }
+          ]
+        },
+        {
+          "name": "Emergencies",
+          "blocks": [
+            {
+              "heading": "Emergency Repairs",
+              "text": "In the case of an emergency where immediate action is required to prevent property damage or safety hazards, the Association has the right to:",
+              "items": [
+                "Enter Units for inspection and remediation (with notice when possible)",
+                "Initiate urgent repairs to preserve building safety and structural integrity",
+                "Recover costs from the responsible Unit Owner when damage originates from the Unit or is due to negligence"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Funding",
+          "blocks": [
+            {
+              "heading": "Assessment & Funding for Maintenance",
+              "text": "Maintenance obligations are funded through:",
+              "items": [
+                "Monthly Assessments levied on all Unit Owners (based on percentage interest)",
+                "Special Assessments for major repairs not covered in the operating budget",
+                "Cost Allocation Matrix which determines shared responsibility between Residential and Commercial Units for specific systems and areas"
+              ]
+            },
+            {
+              "text": "Limited Common Element costs may be assessed solely to benefiting Units."
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "Consequences for Neglecting Maintenance",
+              "text": "Failure to meet maintenance responsibilities or reimburse the Association for damage can result in:",
+              "items": [
+                "Fines, legal action, or special assessments",
+                "Suspension of voting rights or use of amenities",
+                "Lien placement and foreclosure proceedings for nonpayment of maintenance-related assessments"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Unit Owners are responsible for maintaining everything inside their Unit and exclusive use areas.",
+                "The Association maintains shared building systems, infrastructure, and common spaces.",
+                "Costs are allocated based on use and benefit as outlined in the Settlement Agreement Matrix.",
+                "Neglect or damage may result in financial liability, fines, or legal enforcement."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "title": "ACC Requests",
+      "desc": "Architectural Control Committee (ACC) Requests Summary.",
+      "updated": "April 2025",
+      "subtitle": "From Articles of Incorporation, Bylaws, and Declaration of Issaquah Court Association.",
+      "sections": [
+        {
+          "name": "Purpose",
+          "blocks": [
+            {
+              "heading": "Purpose of the ACC",
+              "text": "To preserve the architectural integrity and uniform appearance of Issaquah Court. The Board of Directors is empowered to regulate any modifications or decorations that affect the Common Elements, Limited Common Elements, or building exterior to maintain consistent aesthetic standards and prevent impacts to structural integrity, mechanical systems, or neighboring units. (Declaration §§ 11.7.2, 11.9, 11.14, 11.15)"
+            }
+          ]
+        },
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "Types of Changes Requiring ACC Approval",
+              "text": "All alterations or modifications to a Unit—including changes to flooring, plumbing, electrical systems, exterior elements (such as windows), or any modifications impacting Common or Limited Common Elements—require prior written approval from the Board of Directors.",
+              "items": [
+                "Any alteration to Limited Common Elements (e.g., balconies, decks, parking)",
+                "Exterior modifications, including paint, awnings, screen doors, planters, and visible equipment",
+                "Interior changes affecting walls, ceilings, floors, or fixtures",
+                "Any change affecting structural integrity, or common mechanical/electrical systems",
+                "Changes to window coverings visible from the outside",
+                "(Declaration §§ 11.7.3, 11.14.2, 11.15; Rules § 2)"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Process",
+          "blocks": [
+            {
+              "heading": "Approval Process",
+              "items": [
+                "Owners must submit a written request to the Board of Directors",
+                "The Board evaluates the impact on aesthetics, structural systems, and other units",
+                "Approval is required before work begins",
+                "For certain alterations (e.g., combining units), plans/specifications must be submitted, and the Board must respond within 30 days or the request is deemed approved",
+                "(Declaration §§ 11.14.3, 11.15; Rules § 2)"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Guidelines",
+          "blocks": [
+            {
+              "heading": "Restrictions & Guidelines",
+              "items": [
+                "No changes allowed that interfere with structural integrity or building systems",
+                "All window coverings must be uniform (white or off-white)",
+                "Screen doors must be uniform and pre-approved",
+                "Contractors must follow Association rules, including noise limits and debris removal",
+                "Garbage containers may not be used for construction debris",
+                "(Rules §§ 2, 8)"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Consequences",
+          "blocks": [
+            {
+              "heading": "Consequences for Non-Compliance",
+              "items": [
+                "Unapproved work may be subject to removal at the owner’s expense",
+                "The Board may issue a fine, and owners may request a Review Panel hearing",
+                "The Review Panel consists of 3 non-Board members and must deliver a written decision within 5 days",
+                "Decisions of the Review Panel are final, barring fraud or procedural error",
+                "(Rules § 8, Review Panel §§ g.i–g.vi)"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "All exterior and structural changes require Board approval in writing",
+                "Changes that affect common systems or appearance are strictly regulated",
+                "Uniformity of window coverings and screen doors is mandatory",
+                "Owners are liable for unauthorized modifications or damage",
+                "The Review Panel provides due process for fines or violations"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "board",
+      "title": "Board of Directors",
+      "desc": "Summary of Board of Directors Provisions.",
+      "updated": "April 2025",
+      "subtitle": "The Board of Directors serves as the main decision-making body for the condominium. Its authority covers rule enforcement, financial management, maintenance, and legal matters. The Developer initially appoints the Board, but once unit owners take control, they elect directors to oversee operations. Board members serve without compensation and must act in the best interest of all unit owners.",
+      "sections": [
+        {
+          "name": "Structure",
+          "blocks": [
+            {
+              "heading": "Structure & Composition",
+              "items": [
+                "The Board shall consist of three (3) persons who govern the affairs of the Association.",
+                "During the initial phase, the Declarant appoints a Temporary Board. Once control transitions to the unit owners, they elect the Board pursuant to the Declaration."
+              ]
+            },
+            {
+              "heading": "Current Board Members",
+              "table": {
+                "headers": [
+                  "Position",
+                  "Name",
+                  "Term",
+                  "Start"
+                ],
+                "rows": [
+                  [
+                    "President",
+                    "Huma Mohibullah",
+                    "Annual",
+                    "2/2026"
+                  ],
+                  [
+                    "Treasurer",
+                    "Sean Millar",
+                    "Annual",
+                    "12/2025"
+                  ],
+                  [
+                    "Secretary",
+                    "Dana Pease",
+                    "Annual",
+                    "12/2025"
+                  ],
+                  [
+                    "Board Member-Commercial",
+                    "Rich Wagner",
+                    "Annual",
+                    "12/2025"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Elections",
+          "blocks": [
+            {
+              "heading": "Election & Term",
+              "items": [
+                {
+                  "text": "Election:",
+                  "sub": [
+                    "After 25% of units are conveyed, at least 25% of the Board must be elected by unit owners (non-Declarant). Full owner control and election of all Board members occurs within 30 days after the Declarant Control Period ends."
+                  ]
+                },
+                "Term Length: Directors serve two (2) year staggered terms—two elected in even-numbered years, and three in odd-numbered years.",
+                "Filling Vacancies: Vacancies are filled per the Declaration. Directors elected to fill vacancies serve the remainder of the term."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Removal",
+          "blocks": [
+            {
+              "heading": "Removal of Directors",
+              "text": "Directors may be removed with or without cause by a two-thirds (2/3) vote of the Association, except for those appointed by the Declarant during the Declarant Control Period."
+            }
+          ]
+        },
+        {
+          "name": "Meetings",
+          "blocks": [
+            {
+              "heading": "Board Meetings & Decision-Making",
+              "items": [
+                "The Board must hold at least two regular meetings per fiscal year with three days’ notice. Special meetings can be called by the President or upon request by a Board majority.",
+                "A majority of Directors constitutes a quorum. Actions are decided by a majority vote at meetings with quorum."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Officers",
+          "blocks": [
+            {
+              "heading": "Officers of the Board",
+              "text": "Officers include a President, Secretary, and Treasurer, elected annually by the Board from its members. A Vice President, Assistant Treasurer, or Assistant Secretary may be appointed if needed."
+            },
+            {
+              "text": "Officers serve at the Board’s pleasure and may be removed at any time with or without cause."
+            }
+          ]
+        },
+        {
+          "name": "Committees",
+          "blocks": [
+            {
+              "heading": "Board Committees & Delegation",
+              "items": [
+                "The Board may create committees of Directors to manage certain functions, provided the Board retains final responsibility.",
+                "The Board may also appoint non-director committees, which must include at least one Board member. Duties can be delegated to a manager, except those involving election of officers, bylaw amendments, or rule adoption."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Compensation",
+          "blocks": [
+            {
+              "heading": "Compensation & Liability",
+              "items": [
+                "No compensation is provided to Directors for their service.",
+                "Reasonable compensation may be paid to officers or members performing substantial services."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Authority",
+          "blocks": [
+            {
+              "heading": "Decision-Making Authority & Rule Enforcement",
+              "items": [
+                "The Board enacts rules, enforces regulations, manages finances, and represents the Association in contracts and legal matters.",
+                "The Board is empowered to levy assessments, initiate foreclosure for delinquencies, and enforce community rules."
+              ]
+            },
+            {
+              "heading": "Board and Mortgagee Rights",
+              "text": "The Board must maintain mortgagee protections and comply with provisions in the Declaration related to lender notifications and voting rights."
+            },
+            {
+              "heading": "Amendments & Board Authority Changes",
+              "text": "Amendments to the Bylaws require unit owners holding 60% or more of the total votes to be present, in person or by proxy, at a duly called meeting."
+            }
+          ]
+        },
+        {
+          "name": "Summary",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "The Board holds comprehensive authority to operate and maintain the condominium in accordance with its governing documents.",
+                "It is responsible for compliance, financial management, legal action, and enforcement of rules, with powers expanding upon transfer of control from the Declarant.",
+                "Directors serve without compensation and may be removed by two-thirds vote.",
+                "Amendments to Bylaws require 60% of total votes present at a duly called meeting."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resale",
+      "title": "Resale Certificate",
+      "desc": "Resale Certificate Summary for Issaquah Court Condominiums.",
+      "updated": "April 2025",
+      "subtitle": "A Resale Certificate is required for the sale or transfer of any unit within Issaquah Court Condominiums. It provides critical financial and governance disclosures to prospective buyers. Below is a consolidation of all relevant sections regarding the Resale Certificate from the governing documents, with section references for easy verification.",
+      "sections": [
+        {
+          "name": "Purpose",
+          "blocks": [
+            {
+              "heading": "Purpose & Legal Requirement",
+              "text": "The Resale Certificate serves as a legal disclosure to prospective purchasers, in accordance with RCW 64.34.425, and provides essential information about the financial, operational, and governance aspects of the Association. It ensures that buyers are fully informed before completing a purchase."
+            }
+          ]
+        },
+        {
+          "name": "Preparation",
+          "blocks": [
+            {
+              "heading": "Who Prepares the Resale Certificate?",
+              "text": "The Association, through its managing agent or board, is responsible for maintaining records that enable compliance with Resale Certificate requests."
+            }
+          ]
+        },
+        {
+          "name": "Requirements",
+          "blocks": [
+            {
+              "heading": "3. Required Information in the Resale Certificate",
+              "text": "The Resale Certificate must include:"
+            },
+            {
+              "heading": "3.1 Financial Disclosures",
+              "items": [
+                "Operating budget and reserves",
+                "Special assessments and delinquencies",
+                "Financial statements, including annual audits if applicable",
+                "Fees associated with unit ownership"
+              ]
+            },
+            {
+              "heading": "3.2 Legal & Governance Disclosures",
+              "items": [
+                "Governing documents (Declaration, Bylaws, Rules)",
+                "Any pending litigation",
+                "Insurance coverage summary for Association and Common Elements",
+                "Minutes of the last board meetings"
+              ]
+            },
+            {
+              "heading": "3.3 Property & Maintenance Disclosures",
+              "items": [
+                "Responsibility matrix for maintenance",
+                "Status of capital improvement projects",
+                "Maintenance history of the building and unit (if available)",
+                "Copies of warranties for Common Elements still in effect"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Right to Cancel",
+          "blocks": [
+            {
+              "heading": "Buyer’s Right to Cancel",
+              "text": "Under RCW 64.34.420, a buyer may cancel a purchase within seven days after receiving the Resale Certificate. This statutory right protects purchasers who receive materially adverse disclosures."
+            }
+          ]
+        },
+        {
+          "name": "Fees",
+          "blocks": [
+            {
+              "heading": "5. Fees & Seller Responsibility",
+              "text": "The seller typically pays the Resale Certificate preparation fee, which is charged by the Association or its management company. This fee must be reasonable and is often set in the Rules or by policy."
+            }
+          ]
+        },
+        {
+          "name": "Compliance",
+          "blocks": [
+            {
+              "heading": "6. Importance of Compliance",
+              "text": "Failure to provide an accurate or timely Resale Certificate may delay or invalidate a real estate transaction. It is also a requirement under Washington State law that the Association retain detailed records sufficient for resale compliance."
+            }
+          ]
+        },
+        {
+          "name": "Takeaways",
+          "isTakeaway": true,
+          "blocks": [
+            {
+              "takeaways": [
+                "Resale Certificates are legally required for unit sales.",
+                "The Association must maintain records to support certificate preparation.",
+                "Buyers have a 7-day statutory cancellation period.",
+                "Disclosures include financials, rules, insurance, and pending claims.",
+                "Sellers are typically responsible for certificate fees."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quickAnswers": [
+    {
+      "question": "What insurance do I need?",
+      "docId": "insurance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "What does the Association insure?",
+      "docId": "insurance",
+      "section": "Association"
+    },
+    {
+      "question": "Who's on the Board?",
+      "docId": "board",
+      "section": "Structure"
+    },
+    {
+      "question": "What are my maintenance responsibilities?",
+      "docId": "maintenance",
+      "section": "Unit Owner"
+    },
+    {
+      "question": "Do I need Board approval for changes?",
+      "docId": "acc",
+      "section": "Requirements"
+    },
+    {
+      "question": "What happens without approval?",
+      "docId": "acc",
+      "section": "Consequences"
+    },
+    {
+      "question": "How can a director be removed?",
+      "docId": "board",
+      "section": "Removal"
+    },
+    {
+      "question": "What's needed to sell my unit?",
+      "docId": "resale",
+      "section": "Preparation"
+    },
+    {
+      "question": "How long can a buyer cancel?",
+      "docId": "resale",
+      "section": "Right to Cancel"
+    },
+    {
+      "question": "Who maintains the building exterior?",
+      "docId": "maintenance",
+      "section": "Association"
+    },
+    {
+      "question": "What are the window covering rules?",
+      "docId": "acc",
+      "section": "Guidelines"
+    },
+    {
+      "question": "What is the Review Panel?",
+      "docId": "acc",
+      "section": "Consequences"
+    }
+  ]
+}
