@@ -638,6 +638,40 @@ body {
   font-size: 0.625rem;
 }
 
+/* ── ITEM GRID LAYOUT ── */
+.item-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--gray-200);
+  border: 1px solid var(--gray-200);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-top: 0.5rem;
+}
+
+.item-grid-cell {
+  background: var(--white);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  align-items: baseline;
+  gap: 0.875rem;
+}
+
+.item-grid-cell .item-num {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  color: var(--brand-blue);
+  flex-shrink: 0;
+}
+
+.item-grid-cell .item-text {
+  font-size: 0.8125rem;
+  line-height: 1.55;
+  color: var(--gray-600);
+  font-weight: 300;
+}
+
 /* ── SECTION ICON BADGE ── */
 .section-icon-badge {
   width: 2.5rem;
@@ -1361,6 +1395,7 @@ body {
   .item-row { grid-template-columns: 2rem 1fr; }
   .doc-footer-grid { grid-template-columns: 1fr; }
   .card-grid-3 { grid-template-columns: 1fr; }
+  .item-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 480px) {
@@ -2174,27 +2209,39 @@ function renderBlocks(blocks) {
     }
 
     if (b.items) {
-      html += `<div class="item-rows">
-        ${b.items.map((item, j) => {
-          if (typeof item === 'string') {
+      if (b.layout === 'grid') {
+        html += `<div class="item-grid">
+          ${b.items.map((item, j) => {
+            const text = typeof item === 'string' ? item : item.text;
+            return `<div class="item-grid-cell">
+              <span class="item-num">${String(j + 1).padStart(2, '0')}</span>
+              <span class="item-text">${text}</span>
+            </div>`;
+          }).join('')}
+        </div>`;
+      } else {
+        html += `<div class="item-rows">
+          ${b.items.map((item, j) => {
+            if (typeof item === 'string') {
+              return `<div class="item-row">
+                <span class="item-num">${String(j + 1).padStart(2, '0')}</span>
+                <span class="item-text">${item}</span>
+              </div>`;
+            }
+            // Object with text and sub-items
+            let subHtml = '';
+            if (item.sub) {
+              subHtml = `<div class="item-sub-rows">
+                ${item.sub.map(s => `<div class="item-sub-row">${s}</div>`).join('')}
+              </div>`;
+            }
             return `<div class="item-row">
               <span class="item-num">${String(j + 1).padStart(2, '0')}</span>
-              <span class="item-text">${item}</span>
+              <span class="item-text">${item.text}${subHtml}</span>
             </div>`;
-          }
-          // Object with text and sub-items
-          let subHtml = '';
-          if (item.sub) {
-            subHtml = `<div class="item-sub-rows">
-              ${item.sub.map(s => `<div class="item-sub-row">${s}</div>`).join('')}
-            </div>`;
-          }
-          return `<div class="item-row">
-            <span class="item-num">${String(j + 1).padStart(2, '0')}</span>
-            <span class="item-text">${item.text}${subHtml}</span>
-          </div>`;
-        }).join('')}
-      </div>`;
+          }).join('')}
+        </div>`;
+      }
     }
 
     if (b.cards) {
@@ -2253,7 +2300,8 @@ const properties = [
   { slug: "stone-horse", name: "Stone Horse Condominiums", docs: 7 },
   { slug: "summerlin-ridge", name: "Summerlin Ridge Condominiums", docs: 6 },
   { slug: "shannon-heights", name: "Shannon Heights", docs: 6 },
-  { slug: "chateau-ville", name: "Château Ville Condominiums", docs: 6 }
+  { slug: "chateau-ville", name: "Château Ville Condominiums", docs: 6 },
+  { slug: "queens-court", name: "Queens Court Condominiums", docs: 7 }
 ];
 
 function showAdminLanding() {
