@@ -1,0 +1,602 @@
+{
+  "property": "Brandon Court Owners Association",
+  "abstracts": [
+    {
+      "id": "property-profile",
+      "title": "Property Profile",
+      "desc": "Property profile for Brandon Court Owners Association including key contacts, property details, and Board.",
+      "updated": "April 2026",
+      "subtitle": "PROPERTY: Brandon Court Owners Association",
+      "sections": [
+        {
+          "name": "Overview",
+          "blocks": [
+            {
+              "text": "Address: 2401 SW Brandon ST Seattle, WA 98106"
+            },
+            {
+              "text": "Community Association Manager: Courtney Severson & Theodora McCabe"
+            }
+          ]
+        },
+        {
+          "name": "Property Details",
+          "blocks": [
+            {
+              "table": {
+                "headers": [
+                  "Field",
+                  "Value"
+                ],
+                "rows": [
+                  [
+                    "LEGAL NAME",
+                    "Brandon Court Owners Association"
+                  ],
+                  [
+                    "UBI NUMBER",
+                    "602 022 073"
+                  ],
+                  [
+                    "TYPE OF SERVICE",
+                    "Full"
+                  ],
+                  [
+                    "MANAGED SINCE",
+                    "03/05/2009"
+                  ],
+                  [
+                    "AGM CONTACTS",
+                    "Courtney (CAM): cseverson@agmrealestategroup.com\n425-577-1623"
+                  ],
+                  [
+                    "BILLING INFORMATION",
+                    "Brandon Court Owners Association\n12330 Northup Way\nBellevue, WA 98005\nc/o AGM Real Estate Group, LLC\ninvoice@agmrealestategroup.com"
+                  ],
+                  [
+                    "ASSOCIATION EMAIL",
+                    "brandoncourt@agmrealestategroup.com"
+                  ],
+                  [
+                    "# OF UNITS",
+                    "18"
+                  ],
+                  [
+                    "# OF BUILDINGS",
+                    "1"
+                  ],
+                  [
+                    "# OF STORIES",
+                    "2"
+                  ],
+                  [
+                    "# OF COMMON AREAS",
+                    "1"
+                  ],
+                  [
+                    "COMMERCIAL UNITS",
+                    "1"
+                  ],
+                  [
+                    "YEAR BUILT",
+                    "2001"
+                  ],
+                  [
+                    "NEW/ OLD ACT",
+                    "New Act"
+                  ],
+                  [
+                    "INSURANCE",
+                    "The Partners Group | 425-691-2650 | 9/17/2023 – 9/17/2024"
+                  ],
+                  [
+                    "MAINTENANCE LIMIT",
+                    "$1,500.00"
+                  ],
+                  [
+                    "EMERGENCY SPENDING THRESHOLD",
+                    "$5,000.00"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Building Access",
+          "blocks": [
+            {
+              "heading": "BUILDING ACCESS:",
+              "table": {
+                "headers": [
+                  "Access Point",
+                  "Code"
+                ],
+                "rows": [
+                  [
+                    "FRONT ENTRY CODE",
+                    "#7444"
+                  ],
+                  [
+                    "GARAGE CODE (Vendor & BOD use ONLY)",
+                    "7734"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Board Contact",
+          "blocks": [
+            {
+              "heading": "BOARD CONTACT INFORMATION:",
+              "table": {
+                "headers": [
+                  "Role",
+                  "Contact"
+                ],
+                "rows": [
+                  [
+                    "Board Member",
+                    "Yang Song -(651) 325-7659"
+                  ],
+                  [
+                    "Board Member",
+                    "Mark Cohan- (206) 349- 2702"
+                  ],
+                  [
+                    "Board Member",
+                    "Sarah True- (509) 952 3037"
+                  ],
+                  [
+                    "Board Member",
+                    "Jeffrey M Huguenor-(408) 355 3559"
+                  ],
+                  [
+                    "Board Member",
+                    "Delridge Neighborhoods Development Association- (206) 935 2999"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Utilities",
+          "blocks": [
+            {
+              "heading": "WATER SHUT OFF LOCATION",
+              "text": "In Unit"
+            },
+            {
+              "heading": "UTILITIES INCLUDED",
+              "text": "Water | Sewer | Garbage"
+            },
+            {
+              "heading": "NOTES:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget",
+      "desc": "Budget preparation, ratification, and assessment provisions for Brandon Court.",
+      "updated": "April 2026",
+      "subtitle": "BRCT Abstracts – Budget",
+      "sections": [
+        {
+          "name": "Budget Meeting",
+          "blocks": [
+            {
+              "heading": "Section 2.3 Budget Meeting.",
+              "text": "Within 30 days after adoption of any proposed budget for the Association, the Board shall provide a summary of the budget to all of the members and set a date for a meeting of the members to consider ratification of the budget, which date shall be not less than 14 nor more than 60 days after mailing the summary. Unless at the meeting members holding a majority of the votes in the Association vote to reject the budget, the budget is ratified, whether or not a quorum is present for the meeting. In the event the proposed budget is rejected or the required notice for the meeting is not given, the budget last ratified by the Owners shall be continued until a budget proposed by the Board is ratified."
+            },
+            {
+              "heading": "Section 2.5 Notice of Meetings.",
+              "text": "It shall be the duty of the secretary to give notice of each annual, budget and special meeting such notice shall be hand-delivered or sent prepaid by first-class United States mail to the mailing address of each Unit or to any other mailing address designated in writing by the Unit Owner, to each member of the Association and to each Eligible Mortgagee, if required by Article 28 of the Declaration. The notice of any meeting shall state the time and place of the meeting and the items on the agenda to be voted on by the members, including the general nature of any proposed amendment to the Declaration or Bylaws, changes in the previously approved budget that result in a change in Assessment obligations, and any proposal to remove a director or officer. Before any meeting of the Association, any member may, in writing, waive notice of such meeting. Attendance by a member at a meeting of the Association shall be a waiver by him of timely and adequate notice unless he expressly challenges the notice when the meeting begins."
+            }
+          ]
+        },
+        {
+          "name": "Powers",
+          "blocks": [
+            {
+              "heading": "Section 13 4 Powers of the Association",
+              "text": "In addition to those actions authorized elsewhere in the Declaration, the association shall have the power to:",
+              "items": [
+                {
+                  "text": "13 4 2",
+                  "sub": [
+                    "Adopt and amend budgets for revenues, expenditures, and reserves, and impose and collect Assessments for Common Expenses, Special Allocations and special Assessments from Owners"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Budget and Assessments",
+          "blocks": [
+            {
+              "heading": "Article 16 BUDGET AND ASSESSMENTS"
+            },
+            {
+              "heading": "Section 16 2 Preparation of Budget",
+              "text": "Not less than 30 days before the end of the fiscal year the Board shall prepare a budget for the Association for the coming year. In preparing its budget the Board shall estimate the Common Expenses, Limited Common Expense, and Special Allocations of the Association to be paid during the year, make suitable provision for accumulation of reserves, including amounts reasonably anticipated to be required for the operation, maintenance, repair, and replacement of the Common Elements and the Limited Common Elements, and shall take into account any surplus or deficit earned over from the preceding year and any expected income to the Association The Declarant shall prepare the initial budget for the first fiscal year of the Association."
+            },
+            {
+              "heading": "Section 16 3 Ratification of Budget",
+              "text": "Within 30 days after adoption of any proposed budget for the Condominium the Board shall provide a summary of the budget to all the Owners and shall set a date for a meeting of the Owners to consider ratification of the budget not less than 14 nor more than 60 days after mailing of the summary Unless at that meeting the Owners to which a majority of the votes in the Association are allocated reject the budget, the budget is ratified, whether or not a quorum is present In the event the proposed budget is rejected or the required notice is not given, the periodic budget last ratified by the Unit Owners shall be continued until such time as the Unit Owners ratify a subsequent budget proposed by the Board If the Board proposes a supplemental budget during any fiscal year that results in a greater than five percent increase in an Owner's Assessments on existing Units, the budget shall not take effect unless ratified by the Unit Owners in accordance with this Section"
+            },
+            {
+              "heading": "Section 16 4 Supplemental Budget",
+              "text": "If during the year the budget proves to be inadequate for any reason, including nonpayment of any Owner's Assessments, the Board may prepare a supplemental budget for the remainder of the year A supplemental budget shall be ratified pursuant to Section 16 43"
+            },
+            {
+              "heading": "Section 16 5 Monthly Assessments",
+              "text": "The amounts required by the Association for Common Expenses and Limited Common Expenses as reflected by the annual budget and any supplemental budgets shall be divided into installments to be paid each month over the period of time covered by the budget or supplemental budget The monthly Assessment for each Unit is the total of (a) the Common Expense Liability of that Unit times the total monthly installment for Common Expenses for all Units and (b) the Limited Common Expense Liability of that Unit times the total monthly installment for Limited Common Expenses for all Units Monthly Assessments begin accruing for all Units upon the closing of the sale of the first Unit by the Declarant, provided that the Declarant may delay the commencement of Assessments and pay all actual Common Expenses (but no allocations to reserves)"
+            },
+            {
+              "heading": "Section 16 12 Notice of Assessments",
+              "text": "The Board shall notify each Owner in writing of the amount of the monthly general and special Assessments to be paid for the Owner's Unit and shall furnish copies of all budgets and the Common Expense Liability allocations which apply to the Unit, on which the general and special Assessments are based The Board shall furnish the same information to an Owner's Mortgagee if so requested"
+            },
+            {
+              "heading": "Section 16 16 Failure to Assess",
+              "text": "Any failure by the Board or the Association to make the budgets and Assessments hereunder before the expiration of any year for the Ensuing year shall not be deemed a waiver or modification in any respect of the provisions of this Declaration, or a release of the Owners from the obligation to pay Assessments during that or any subsequent year, and the monthly Assessments amounts established for the preceding year shall continue until new Assessments are established"
+            }
+          ]
+        },
+        {
+          "name": "Budget FAQ",
+          "blocks": [
+            {
+              "heading": "**Budget FAQ**",
+              "items": [
+                {
+                  "text": "When should the Board provide a summary of the budget to all members?",
+                  "sub": [
+                    "A: The Board should provide a summary of the budget to all members within 30 days after the adoption of the proposed budget."
+                  ]
+                },
+                {
+                  "text": "When should the meeting of the members to consider the budget ratification be scheduled?",
+                  "sub": [
+                    "A: The meeting to consider the budget ratification should be scheduled not less than 14 nor more than 60 days after mailing the summary."
+                  ]
+                },
+                {
+                  "text": "What happens if the proposed budget is rejected at the meeting?",
+                  "sub": [
+                    "A: If the proposed budget is rejected, the budget last ratified by the Owners shall be continued until a budget proposed by the Board is ratified."
+                  ]
+                },
+                {
+                  "text": "What should the notice of meetings include?",
+                  "sub": [
+                    "A: The notice of meetings should state the time and place of the meeting, the items on the agenda to be voted on by the members, and any proposed amendments to the Declaration or Bylaws, changes in the approved budget, and proposals to remove a director or officer."
+                  ]
+                },
+                {
+                  "text": "When should the Board prepare a budget for the coming year?",
+                  "sub": [
+                    "A: The Board should prepare a budget for the coming year not less than 30 days before the end of the fiscal year."
+                  ]
+                },
+                {
+                  "text": "When should the Board provide a summary of the budget to all the Owners?",
+                  "sub": [
+                    "A: The Board should provide a summary of the budget to all the Owners within 30 days after the adoption of the proposed budget."
+                  ]
+                },
+                {
+                  "text": "What happens if the proposed budget is rejected at the Owners' meeting?",
+                  "sub": [
+                    "A: If the proposed budget is rejected, the periodic budget last ratified by the Unit Owners shall be continued until the Unit Owners ratify a subsequent budget proposed by the Board."
+                  ]
+                },
+                {
+                  "text": "Can the Board propose a supplemental budget during the fiscal year?",
+                  "sub": [
+                    "A: Yes, the Board may propose a supplemental budget during the fiscal year if the budget proves to be inadequate for any reason."
+                  ]
+                },
+                {
+                  "text": "How are the monthly assessments calculated?",
+                  "sub": [
+                    "A: The monthly assessments are calculated based on the total Common Expense Liability and Limited Common Expense Liability of each Unit, divided into installments to be paid each month over the period covered by the budget or supplemental budget."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "late-fees",
+      "title": "Late Fee",
+      "desc": "Payment, late charges, interest, and security deposit provisions for delinquent assessments.",
+      "updated": "April 2026",
+      "subtitle": "BRCT Abstracts – Late Fee",
+      "sections": [
+        {
+          "name": "Payment",
+          "blocks": [
+            {
+              "heading": "Article 16 BUDGET AND ASSESSMENTS"
+            },
+            {
+              "heading": "Section 16 13 Payment of Monthly Assessments",
+              "text": "On or before the first day of each calendar month each Owner shall pay or cause to be paid to the treasurer or designated agent of the Association all Assessments against the Unit for that month Any Assessment not paid by the tenth day of the calendar month for which it is due shall be delinquent and subject to late charges, interest charges and collection procedures as provided in Article 17"
+            }
+          ]
+        },
+        {
+          "name": "Lien & Collection",
+          "blocks": [
+            {
+              "heading": "Article 17 LIEN AND COLLECTION OF ASSESSMENTS"
+            },
+            {
+              "heading": "Section 17 8 Late Charges and Interest on Delinquent Assessments",
+              "text": "The Association may from time to time establish reasonable late charges and a rate of interest to be charged on all subsequent delinquent Assessments or installments thereof In the absence of another established nonusurious rate, delinquent Assessments shall bear interest from the date of delinquency at the maximum rate permitted under RCW 19 52 020 on the date on which the Assessments became delinquent"
+            },
+            {
+              "heading": "Section 17 10 Security Deposit",
+              "text": "An Owner who has been delinquent in paying his monthly Assessments for three of the five preceding months may be required by the Board, from time to time, to make and maintain a security deposit not in excess of three months' estimated monthly Assessments, which shall be collected and shall be subject to penalties for nonpayment as are other Assessments The deposit shall be held in a separate fund, credited to such Owner, and may be resorted to at any time when such Owner is ten days or more delinquent in paying Assessments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acc",
+      "title": "ACC",
+      "desc": "Architectural control provisions for unit alterations, exterior appearance, and remodels.",
+      "updated": "April 2026",
+      "subtitle": "Brandon Court – ACC",
+      "sections": [
+        {
+          "name": "Declaration",
+          "blocks": [
+            {
+              "heading": "DECLARATION:"
+            },
+            {
+              "heading": "Section IO 4 Maintenance of Units, Common Elements, and Limited Common Elements",
+              "text": "Except as provided below, the Association is responsible for maintenance, repair, and replacement of the Common Elements and the Limited Common Elements, and each Owner is responsible for maintenance, repair and replacement of the Owner's Unit The costs of cleaning, maintenance, repair, and replacement of the Limited Common Elements assigned to each of the Residential Units and the Residential Limited Common Elements shall be assessed against all of the Residential Units in accordance with their Limited Common Expense Liability, as provided in Section 16 5 The cost of cleaning, maintenance, repair, and replacement of the Commercial Limited Common Elements shall be assessed against all of the Commercial Unit in accordance with the, Limited Common Expense Liability, as provided in Section 16 7 Each Owner shall, at the Owner's sole expense, keep the interior of the Unit and its equipment, appliances, and appurtenances in a clean and sanitary condition, free of rodents and pests, and in good order, condition, and repair and shall do all redecorating and painting at any time necessary to maintain the good appearance and condition of the Unit Each Owner shall replace any broken or damaged glass in the windows or exterior doors of the Unit Except as the Board may by rule or regulation provide, the Association shall be responsible for sweeping the garage and the parking spaces Each Owner shall be responsible for the maintenance, repair, or replacement of any plumbing fixtures, water heaters, air conditioning unit, fans, and heating equipment which serve only that Unit, whether or not located in the Unit The Association may, as a Common Expense, provide for the inspection of any portion of a Unit or Limited Common Element, the failure of which to maintain properly may cause damage to the Common Elements, Limited Common Elements or another Unit or cause unnecessary Common Expenses, including, but not limited to, bathtubs, sinks, toilets, hot water tank and plumbing and electrical fixtures The Association shall provide at least three days' notice to the occupant of the Unit and shall specify in the notice what items are to be inspected and a time for the inspection If the inspection discloses the need for repair or replacement, the Association may either require the responsible Owner to make the repair or replacement or to make the repair or replacement itself and allocate the cost thereof to the Owner"
+            },
+            {
+              "heading": "Section IO 5 Exterior Appearance",
+              "text": "In order to preserve a uniform exterior appearance of the building, the Board shall provide for the maintenance of the exterior of the building No Owner may modify or decorate the exterior of the bu1ldmg, or screens, doors, awnings, or other portions of any Unit visible from outside the Unit without the prior written consent of the Board Unless otherwise established by rule or regulation of the Board, Unit Owners shall maintain, repair, or replace all portion of curtains, blinds or drapes visible from outside the Units with material of similar color and quality to those originally installed"
+            },
+            {
+              "heading": "Section 25 3 Minor Alterations, Hard Surface Flooring",
+              "text": "No Unit may be altered in any way except in accordance with this Article An Owner may make any improvements or alterations to the Owner's Unit that do not affect the structural integrity or mechanical or electrical systems or lessen the support of any portion of the Condominium, but may not change the flooring in any portion of the Unit which is directly above another Unit from carpeting to hard surface flooring without the prior written approval of the Board The Board may require the use of an acoustical mat or padding under the flooring of the Unit An Owner may not change the appearance of the Common Elements or the exterior appearance of a Unit without permission of the Association pursuant to the procedures of Section 25 5"
+            },
+            {
+              "heading": "Section 25 5 Substantial Alteration",
+              "text": "A proposal that contemplates substantial alteration of one or more Units is subject to approval by the Board The Board shall approve an Owner's request under this Section within 30 days of receipt of plans and specification, unless the proposed alteration does not comply with Section 25 4 or impairs the structural integrity or mechanical or electrical systems in the Condominium The Board may also retain, at the Owner's expense, an architect or engineer to review the plans and require evidence satisfactory to it that all permits necessary for the work have been obtained The failure of the Board to act upon a request within such period shall be deemed approval thereof"
+            }
+          ]
+        },
+        {
+          "name": "Rules & Regulations",
+          "blocks": [
+            {
+              "heading": "RULES & REGULATIONS:"
+            },
+            {
+              "heading": "5. APPEARANCE",
+              "items": [
+                {
+                  "text": "1. Interior:",
+                  "sub": [
+                    "Each owner shall, at his/her sole expense, have the right and duty to keep the interior of his or her Unit and it's equipment and appliances in good order, condition and repair and shall do all cleaning, redecorating and painting at any time necessary to maintain a sanitary condition. This is to prevent extreme neglect, which will affect or potentially affect areas outside of the Unit."
+                  ]
+                },
+                {
+                  "text": "3. Exterior:",
+                  "sub": [
+                    "No owner or resident may modify, paint or otherwise decorate, landscape, change the landscaping, or in any way alter any portion of the exterior of the building or any portion of any limited common or common area without first obtaining written consent of the Board. No attachments or holes are to be made in the exterior of the building."
+                  ]
+                },
+                "6. Do not place awnings, air conditioning units, signs or other projection on the exterior walls of the building without prior written consent of the Board"
+              ]
+            },
+            {
+              "heading": "10. REMODEL, REPAIRS, MAINTENANCE",
+              "items": [
+                "1. Inform CondoManagements, Inc. of any remodeling or other major construction work to be done in your Unit. Include the name and number of the contractor or decorator involved.",
+                "2. Work may be done Monday through Friday between 8:00 am. And 5:00 pm. Obtain prior Board approval for weekend work."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ACC FAQ",
+          "blocks": [
+            {
+              "heading": "ACC FAQ",
+              "items": [
+                {
+                  "text": "Who is responsible for the maintenance, repair, and replacement of the Common Elements and Limited Common Elements?",
+                  "sub": [
+                    "A: The Association is responsible for the maintenance, repair, and replacement of the Common Elements and Limited Common Elements."
+                  ]
+                },
+                {
+                  "text": "What are the responsibilities of each Owner regarding maintenance?",
+                  "sub": [
+                    "A: Each Owner is responsible for the maintenance, repair, and replacement of their own Unit. They are also responsible for keeping the interior of the Unit and its equipment, appliances, and appurtenances in a clean and sanitary condition, free of rodents and pests, and in good order, condition, and repair."
+                  ]
+                },
+                {
+                  "text": "What should Owners do in case of broken or damaged glass in the windows or exterior doors of the Unit?",
+                  "sub": [
+                    "A: Each Owner should replace any broken or damaged glass in the windows or exterior doors of the Unit."
+                  ]
+                },
+                {
+                  "text": "Who is responsible for the maintenance, repair, or replacement of plumbing fixtures, water heaters, air conditioning unit, fans, and heating equipment serving only a specific Unit?",
+                  "sub": [
+                    "A: Each Owner is responsible for the maintenance, repair, or replacement of plumbing fixtures, water heaters, air conditioning unit, fans, and heating equipment which serve only their Unit."
+                  ]
+                },
+                {
+                  "text": "Can Owners modify or decorate the exterior of the building without the consent of the Board?",
+                  "sub": [
+                    "A: No, Owners may not modify or decorate the exterior of the building, or any portion of the Unit visible from outside without the prior written consent of the Board."
+                  ]
+                },
+                {
+                  "text": "Can an Owner change the flooring in their Unit without the approval of the Board?",
+                  "sub": [
+                    "A: No, an Owner may not change the flooring in their Unit from carpeting to hard surface flooring without the prior written approval of the Board."
+                  ]
+                },
+                {
+                  "text": "What is the procedure for substantial alterations to one or more Units?",
+                  "sub": [
+                    "A: A proposal that contemplates substantial alteration of one or more Units is subject to approval by the Board. The Board shall approve an Owner's request within 30 days of receipt of plans and specifications, unless the proposed alteration does not comply with the regulations or impairs the structural integrity or systems in the Condominium."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fees-fines",
+      "title": "Fees & Fines Schedule",
+      "desc": "Schedule of fines, fees, and assessment provisions including late charges and the schedule of fines.",
+      "updated": "April 2026",
+      "subtitle": "COMMUNITY NAME: BRANDON COURT OWNERS ASSOCIATION",
+      "sections": [
+        {
+          "name": "Late Schedule",
+          "blocks": [
+            {
+              "text": "Late Schedule: $15.00 / 15th [Rules (2012) 15.2]"
+            },
+            {
+              "heading": "STATE STATUTE:",
+              "text": "This corporation is organized to provide an entity pursuant to the Washington Condominium Act (RCW 64.34). The powers of this corporation shall be subject to and shall be exercised in accordance with the Condominium Act and the provisions of the Condominium Declaration for Brandon Court."
+            },
+            {
+              "heading": "**NEW ACT**"
+            }
+          ]
+        },
+        {
+          "name": "Declaration",
+          "blocks": [
+            {
+              "heading": "DECLARATION"
+            },
+            {
+              "heading": "Article I DEFINITIONS",
+              "text": "Assessments means all sums chargeable by the Association against a Unit, including, without limitation (a) general and special Assessments for Common Expenses, Special Allocations, Limited Common Expenses, charges, and fines imposed by the Association, (b) interest and late charges on any delinquent account, and (c) costs of collection, including reasonable attorneys' fees, incurred by the Association in connection with the collection of a delinquent Owner's account."
+            },
+            {
+              "heading": "Section 16 5 Monthly Assessments",
+              "text": "The amounts required by the Association for Common Expenses and Limited Common Expenses as reflected by the annual budget and any supplemental budgets shall be divided into installments to be paid each month over the period of time covered by the budget or supplemental budget. The monthly Assessment for each Unit is the total of (a) the Common Expense Liability of that Unit times the total monthly installment for Common Expenses for all Units and (b) the Limited Common Expense Liability of that Unit times the total monthly installment for Limited Common Expenses for all Units Monthly Assessments begin accruing for all Units upon the closing of the sale of the first Unit by the Declarant, provided that the Declarant may delay the commencement of Assessments and pay all actual Common Expenses (but no allocations to reserves)."
+            },
+            {
+              "heading": "Section 16 13 Payment of Monthly Assessments",
+              "text": "On or before the first day of each calendar month each Owner shall pay or cause to be paid to the treasurer or designated agent of the Association all Assessments against the Unit for that month. Any Assessment not paid by the tenth day of the calendar month for which it is due shall be delinquent and subject to late charges, interest charges and collection procedures as provided in Article 17."
+            },
+            {
+              "heading": "Section 17 8 Section Late Charges and Interest on Delinquent Assessments",
+              "text": "The Association may from time to time establish reasonable late charges and a rate of interest to be charged on all subsequent delinquent Assessments or installments thereof. In the absence of another established nonusurious rate, delinquent Assessments shall bear interest from the date of delinquency at the maximum rate permitted under RCW 19 52 020 on the date on which the Assessments became delinquent."
+            }
+          ]
+        },
+        {
+          "name": "Rules & Regulations",
+          "blocks": [
+            {
+              "heading": "RULES & REGULATIONS"
+            },
+            {
+              "heading": "15. SCHEDULE OF FINES AND FEES",
+              "items": [
+                {
+                  "text": "House Rules Violation:",
+                  "sub": [
+                    "A warning letter for first violation.",
+                    "A fifty-dollar ($50.00) fine for a second repeat violation.",
+                    "A one hundred ($100.00) fine for a third repeat violation.",
+                    "For subsequent repeat violation, the fine is one hundred dollars ($100.00) plus twenty-five dollars ($25.00) per day until the fine is paid and violation corrected."
+                  ]
+                },
+                {
+                  "text": "Homeowners Dues and Assessments:",
+                  "sub": [
+                    "Homeowners dues are due on the 1st day of each month, unless electronically withdrawn on a monthly basis. Payments not received by the 15th are considered delinquent and will be assessed an additional Fifteen dollar ($15.00) late charge for each month of delinquency, including the potential foreclosure of a lien on the Homeowners Unit."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quickAnswers": [
+    {
+      "question": "When is the budget meeting held?",
+      "docId": "budget",
+      "section": "Budget Meeting"
+    },
+    {
+      "question": "How are monthly assessments calculated?",
+      "docId": "budget",
+      "section": "Budget and Assessments"
+    },
+    {
+      "question": "What happens if I pay my dues late?",
+      "docId": "late-fees",
+      "section": "Lien & Collection"
+    },
+    {
+      "question": "When are monthly assessments due?",
+      "docId": "late-fees",
+      "section": "Payment"
+    },
+    {
+      "question": "Do I need approval for a remodel?",
+      "docId": "acc",
+      "section": "Rules & Regulations"
+    },
+    {
+      "question": "Can I change my flooring to hard surface?",
+      "docId": "acc",
+      "section": "Declaration"
+    },
+    {
+      "question": "What's the schedule of fines?",
+      "docId": "fees-fines",
+      "section": "Rules & Regulations"
+    },
+    {
+      "question": "Who is on the Board?",
+      "docId": "property-profile",
+      "section": "Board Contact"
+    },
+    {
+      "question": "What's the front entry code?",
+      "docId": "property-profile",
+      "section": "Building Access"
+    },
+    {
+      "question": "What utilities are included?",
+      "docId": "property-profile",
+      "section": "Utilities"
+    }
+  ]
+}
